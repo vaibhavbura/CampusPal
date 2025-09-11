@@ -31,20 +31,20 @@ def create_vector_db():
         print("No documents found. Please check your data folders.")
         return
 
-    # --- 2. Split Documents into Chunks ---
+    # Split Documents into Chunks ---
     print("Splitting documents into chunks...")
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
     chunks = text_splitter.split_documents(documents)
 
-    # --- 3. Create Embeddings ---
+    # Create Embeddings ---
     # We will use a powerful, open-source embedding model from Hugging Face
     print("Creating embeddings...")
     embeddings = HuggingFaceEmbeddings(
         model_name='sentence-transformers/all-MiniLM-L6-v2',
-        model_kwargs={'device': 'cpu'} # Use 'cuda' if you have a local GPU
+        model_kwargs={'device': 'cpu'} # 'cuda' for local GPU
     )
 
-    # --- 4. Create and Save the FAISS Vector Store ---
+    # Create and Save the FAISS Vector Store ---
     print("Creating and saving the FAISS vector store...")
     db = FAISS.from_documents(chunks, embeddings)
     db.save_local(DB_FAISS_PATH)
