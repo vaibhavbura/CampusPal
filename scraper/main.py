@@ -2,18 +2,24 @@ import requests
 from bs4 import BeautifulSoup
 import os
 
-# --- 1. Identify Target URLs ---
-# Add all the important page URLs to this list
+
 urls_to_scrape = {
-    "home": "https://www.apsit.edu.in/"
+    "home": "https://www.apsit.edu.in/",
+    "about":"https://www.apsit.edu.in/about-us",
+    "courses":"https://www.apsit.edu.in/ug-courses",
+    "departments":"https://www.apsit.edu.in/departments",
+    ""
+
+
+
 }
 
-# Create a directory to store the scraped data
+#Directory to store the scraped data
 DATA_DIR = "data"
 if not os.path.exists(DATA_DIR):
     os.makedirs(DATA_DIR)
 
-# --- 2. Create a Reusable Scraper Function ---
+
 def scrape_page(url: str) -> str:
     """Takes a URL, scrapes its content, and returns cleaned text."""
     print(f"Scraping: {url}")
