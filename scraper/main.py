@@ -5,10 +5,6 @@ import os
 
 urls_to_scrape = {
     "home": "https://www.apsit.edu.in/",
-    "about":"https://www.apsit.edu.in/about-us",
-    "courses":"https://www.apsit.edu.in/ug-courses",
-    "departments":"https://www.apsit.edu.in/departments",
-    ""
 
 
 
