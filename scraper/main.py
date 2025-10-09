@@ -1,59 +1,110 @@
-import requests
-from bs4 import BeautifulSoup
 import os
+import glob
+from tqdm import tqdm
+from langchain_community.document_loaders import TextLoader, PyPDFLoader
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_community.vectorstores import FAISS
+from langchain_huggingface import HuggingFaceEmbeddings
 
 
-urls_to_scrape = {
-    "home": "https://www.apsit.edu.in/",
+# Define paths for your data and the place to save the vector store.
+TXT_DATA_PATH = "scraper/data/"
+PDF_DATA_PATH = "scraper/apsit_documents/"
+DB_FAISS_PATH = "vectorstore/db_faiss"
 
 
-
-}
-
-#Directory to store the scraped data
-DATA_DIR = "data"
-if not os.path.exists(DATA_DIR):
-    os.makedirs(DATA_DIR)
-
-
-def scrape_page(url: str) -> str:
-    """Takes a URL, scrapes its content, and returns cleaned text."""
-    print(f"Scraping: {url}")
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
-    }
+def create_vector_db_advanced():
+    """
+    This function creates a robust FAISS vector database from text and PDF files.
+    It processes files individually, handles errors gracefully, and provides detailed feedback.
+    """
     
-    try:
-        response = requests.get(url, headers=headers, timeout=10)
-        response.raise_for_status()
-        
-        soup = BeautifulSoup(response.text, 'html.parser')
-        
-        for script_or_style in soup(['script', 'style']):
-            script_or_style.decompose()
-            
-        clean_text = soup.get_text(separator='\n', strip=True)
-        return clean_text
-        
-    except requests.exceptions.RequestException as e:
-        print(f"Error scraping {url}: {e}")
-        return None
+    all_documents = []
+    failed_files = []
+    
+    print("--- Starting Advanced Document Ingestion ---")
 
-# --- 3. Loop Through URLs and Save the Data ---
+    #Load Text Files Individually
+    print(f"\n[Phase 1/4] Scanning for text files in '{TXT_DATA_PATH}'...")
+    txt_files = glob.glob(os.path.join(TXT_DATA_PATH, "*.txt"))
+    
+    if txt_files:
+        print(f"Found {len(txt_files)} text files. Processing them now...")
+        for file_path in tqdm(txt_files, desc="Processing TXT files"):
+            try:
+                # Use TextLoader for individual files, which handles encoding better.
+                loader = TextLoader(file_path, encoding='utf-8')
+                documents = loader.load()
+                all_documents.extend(documents)
+            except Exception as e:
+                # If a file fails, log it and continue with the others.
+                print(f"\n[ERROR] Failed to load {file_path}: {e}")
+                failed_files.append(file_path)
+    else:
+        print("No text files found in the specified directory.")
+
+    # Load PDF Files Individually 
+    print(f"\n[Phase 2/4] Scanning for PDF files in '{PDF_DATA_PATH}'...")
+    if os.path.exists(PDF_DATA_PATH):
+        pdf_files = glob.glob(os.path.join(PDF_DATA_PATH, "*.pdf"))
+        
+        if pdf_files:
+            print(f"Found {len(pdf_files)} PDF files. Processing them now...")
+            for file_path in tqdm(pdf_files, desc="Processing PDF files"):
+                try:
+                    loader = PyPDFLoader(file_path)
+                    documents = loader.load()
+                    all_documents.extend(documents)
+                except Exception as e:
+                    print(f"\n[ERROR] Failed to load {file_path}: {e}")
+                    failed_files.append(file_path)
+        else:
+            print("No PDF files found in the specified directory.")
+    else:
+        print(f"PDF data path '{PDF_DATA_PATH}' does not exist. Skipping.")
+
+    
+    if not all_documents:
+        print("\n--- Ingestion Summary ---")
+        print("No documents were successfully loaded. Halting process.")
+        if failed_files:
+            print("\nThe following files failed to load:")
+            for f in failed_files:
+                print(f"- {f}")
+        return
+
+   
+    print("\n[Phase 3/4] Splitting all loaded documents into smaller chunks...")
+    text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
+    chunks = text_splitter.split_documents(all_documents)
+    print(f"Successfully split documents into {len(chunks)} chunks.")
+
+    
+    print("\n[Phase 4/4] Creating embeddings and building the FAISS vector store...")
+    
+    
+    embeddings = HuggingFaceEmbeddings(
+        model_name='sentence-transformers/all-MiniLM-L6-v2',
+        model_kwargs={'device': 'cpu'} 
+    )
+
+    # Create the FAISS vector store from the chunks and embeddings.
+    db = FAISS.from_documents(chunks, embeddings)
+    
+    # Save the vector store locally.
+    db.save_local(DB_FAISS_PATH)
+    print(f"FAISS index created and saved at '{DB_FAISS_PATH}'")
+
+   
+    print("\n--- Ingestion Complete ---")
+    print(f"Successfully processed and stored content from {len(all_documents)} documents.")
+    print(f"Total chunks created: {len(chunks)}")
+    if failed_files:
+        print(f"\nWARNING: {len(failed_files)} file(s) failed to load and were skipped:")
+        for f in failed_files:
+            print(f"- {f}")
+    print("----------------------------")
+
 if __name__ == "__main__":
-    for page_name, page_url in urls_to_scrape.items():
-        # Scrape the content
-        content = scrape_page(page_url)
-        
-        if content:
-            # Create a unique filename for each page
-            file_path = os.path.join(DATA_DIR, f"{page_name}.txt")
-            
-            # Save the cleaned text to the file
-            with open(file_path, "w", encoding="utf-8") as f:
-                f.write(content)
-            print(f"Successfully saved data to {file_path}")
-        
-        print("-" * 20)
+    create_vector_db_advanced()
 
-    print("All pages have been scraped.")
