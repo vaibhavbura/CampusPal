@@ -1,84 +1,108 @@
 import streamlit as st
 import os
 import time
-from langchain_nvidia_ai_endpoints import ChatNVIDIA
+from langchain_ollama import ChatOllama
 from langchain_community.vectorstores import FAISS
-from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.prompts import ChatPromptTemplate
 from langchain.chains import create_retrieval_chain
+from langchain_core.messages import HumanMessage, AIMessage
+# NEW IMPORT for creating the history-aware retriever
+from langchain.chains import create_history_aware_retriever
 from dotenv import load_dotenv
 
 load_dotenv()
-
 DB_FAISS_PATH = "vectorstore/db_faiss"
 
-st.set_page_config(page_title="CampusPal Chatbot Demo")
-st.title("CampusPal: Your APSIT AI Assistant ")
+st.set_page_config(page_title="CampusPal Chatbot")
+st.title("CampusPal: Your APSIT AI Assistant")
 st.markdown("---")
 
-llm = ChatNVIDIA(model="mistralai/mixtral-8x7b-instruct-v0.1")
-
-embeddings = HuggingFaceEmbeddings(
-    model_name='sentence-transformers/all-MiniLM-L6-v2',
-    model_kwargs={'device': 'cpu'}
-)
-
-
-prompt = ChatPromptTemplate.from_template(
-"""
-You are "CampusPal," a friendly and expert AI assistant for the A.P. Shah Institute of Technology (APSIT).
-Your goal is to provide helpful, clear, and encouraging answers to prospective and current students.
-Your tone should be professional, yet warm and welcoming.
-
-**Instructions:**
-1.  Answer the user's question based ONLY on the provided context.
-2.  If the context contains the answer, synthesize it into a clear, easy-to-understand response. Do not just copy the text.
-3.  If the context does not contain the answer, politely say, "I don't have specific information on that topic, but I can help with other questions about admissions, courses, or campus life at APSIT." Do not make up answers.
-4.  Begin your response with a friendly greeting, like "Hello!" or "Thanks for asking!".
-5.  Keep the language simple and direct. Avoid overly technical jargon.
-
-<context>
-{context}
-<context>
-
-**Question:** {input}
-
-**Answer:**
-"""
-)
-
-def create_rag_chain():
-    """Creates the RAG chain for the chatbot."""
+@st.cache_resource
+def setup_chain():
+    """Loads models and creates the full conversational RAG chain."""
+    llm = ChatOllama(model="llama3:8b", temperature=0.3)
+    embeddings = HuggingFaceEmbeddings(
+        model_name='sentence-transformers/all-MiniLM-L6-v2',
+        model_kwargs={'device': 'cpu'}
+    )
+    
     try:
         db = FAISS.load_local(DB_FAISS_PATH, embeddings, allow_dangerous_deserialization=True)
         retriever = db.as_retriever(search_type="similarity", search_kwargs={'k': 5})
-        document_chain = create_stuff_documents_chain(llm, prompt)
-        retrieval_chain = create_retrieval_chain(retriever, document_chain)
-        return retrieval_chain
+
+        # prompt
+        contextualize_q_prompt = ChatPromptTemplate.from_messages(
+            [
+                ("system", "Given a chat history and the latest user question which might reference context in the chat history, formulate a standalone question which can be understood without the chat history. Do NOT answer the question, just reformulate it if needed and otherwise return it as is."),
+                ("human", "{chat_history}"),
+                ("human", "Input: {input}"),
+                ("human", "Standalone question:"),
+            ]
+        )
+        
+        
+        history_aware_retriever = create_history_aware_retriever(
+            llm, retriever, contextualize_q_prompt
+        )
+
+        
+        qa_prompt = ChatPromptTemplate.from_template("""
+        You are "CampusPal," a friendly and expert AI assistant for A.P. Shah Institute of Technology (APSIT).
+        Answer the user's question based ONLY on the provided context.
+        <context>
+        {context}
+        </context>
+        Question: {input}
+        Answer:
+        """)
+        
+        question_answer_chain = create_stuff_documents_chain(llm, qa_prompt)
+        
+        
+        rag_chain = create_retrieval_chain(history_aware_retriever, question_answer_chain)
+        
+        return rag_chain
     except Exception as e:
-        st.error(f"Failed to load vector store: {e}. Did you run ingest.py?")
+        st.error(f"Failed to load vector store: {e}. Please run ingest.py first.")
         return None
 
-retrieval_chain = create_rag_chain()
+retrieval_chain = setup_chain()
+
+if "messages" not in st.session_state:
+    st.session_state.messages = [{"role": "assistant", "content": "Hello! I'm CampusPal. How can I help you with your questions about APSIT today?"}]
 
 if retrieval_chain:
-    prompt_input = st.text_input("Ask a question about APSIT admissions, courses, or fees...")
+    for message in st.session_state.messages:
+        with st.chat_message(message["role"]):
+            st.markdown(message["content"])
 
-    if prompt_input:
-        start_time = time.process_time()
-        response = retrieval_chain.invoke({"input": prompt_input})
-        response_time = time.process_time() - start_time
-        print(f"Response time: {response_time:.2f} seconds")
+    if prompt_input := st.chat_input("Ask about admissions, courses, or fees..."):
+        st.session_state.messages.append({"role": "user", "content": prompt_input})
+        with st.chat_message("user"):
+            st.markdown(prompt_input)
+
+        with st.chat_message("assistant"):
+            with st.spinner("Thinking..."):
+               
+                chat_history_for_chain = [
+                    HumanMessage(content=msg["content"]) if msg["role"] == "user" else AIMessage(content=msg["content"])
+                    for msg in st.session_state.messages[:-1] 
+                ]
+                
+                response = retrieval_chain.invoke({
+                    "chat_history": chat_history_for_chain,
+                    "input": prompt_input
+                })
+
+                st.markdown(response['answer'])
+
+                with st.expander("Show Sources"):
+                    for doc in response["context"]:
+                        st.info(f"Source: {os.path.basename(doc.metadata.get('source', 'Unknown'))}")
+                        st.write(doc.page_content)
         
-        st.write("### Answer")
-        st.write(response['answer'])
-
-        # with st.expander("Show Sources"):
-        #     st.write("The answer was generated based on the following information:")
-        #     for doc in response["context"]:
-        #         st.info(f"Source: {os.path.basename(doc.metadata.get('source', 'Unknown'))}")
-        #         st.write(doc.page_content)
-        #         st.write("---")
+        st.session_state.messages.append({"role": "assistant", "content": response['answer']})
 else:
     st.warning("Chatbot is not ready.")
