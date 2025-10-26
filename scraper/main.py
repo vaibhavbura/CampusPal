@@ -137,7 +137,7 @@ def scrape_page(url, depth, executor):
     and then submits new links to the thread pool executor.
     """
     
-    # --- Safety Checks ---
+    # Safety Checks
     # We stop scraping this path if:
     # 1. We've gone too deep
     # 2. We've already scraped this exact URL (checked in a thread-safe way)
@@ -153,7 +153,7 @@ def scrape_page(url, depth, executor):
     if current_hostname != BASE_HOSTNAME:
         return
 
-    # --- Thread-Safe 'visited' Check ---
+    # Thread-Safe 'visited' Check ---
     # We must 'lock' the visited set before checking/writing to it.
     # This prevents two threads from trying to add the same URL at the
     # exact same time (a "race condition").
@@ -173,7 +173,7 @@ def scrape_page(url, depth, executor):
         html_content = response.text
         soup = BeautifulSoup(html_content, "html.parser")
         
-        # --- Clean the HTML ---
+        #    Clean the HTML 
         # Rip out all the <script> and <style> tags. We only
         # want the human-readable text, not a bunch of JavaScript or CSS.
         for tag in soup(["script", "style", "noscript"]):
@@ -186,7 +186,7 @@ def scrape_page(url, depth, executor):
         save_text(text, save_path)
         logging.info(f"[PAGE OK] Scraped: {url}")
 
-        # --- Now, find all the goodies on this page ---
+        #  Now, find all the goodies on this page
         # (These will run inside the current thread)
         
         # 1. Find all PDF links
@@ -202,7 +202,7 @@ def scrape_page(url, depth, executor):
         # 2. Find all tables
         extract_tables(html_content, page_name)
 
-        # --- Find New Jobs for the Thread Pool ---
+        #  Find New Jobs for the Thread Pool 
         if depth < MAX_DEPTH:
             links_to_crawl = []
             for link in soup.find_all("a", href=True):
@@ -230,7 +230,7 @@ def scrape_page(url, depth, executor):
         logging.error(f"[PAGE FAIL] Error scraping {url}: {e}")
 
 
-# --- Start the Scrape ---
+#  Start the Scrape 
 # This makes sure the code only runs when you execute `python main.py`
 # and not if it's imported by another script.
 if __name__ == "__main__":
