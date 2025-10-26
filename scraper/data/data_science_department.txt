@@ -1,0 +1,253 @@
+CSE Data Science | APSIT
+Skip to main content
+Toggle navigation
+Parshvanath Charitable Trust's A. P. Shah Institute of Technology
+(Religious Jain Minority Institute, Affiliated to University of Mumbai, Approved by AICTE Delhi & DTE)
+Survey no 12, 13, Opp. Hypercity Mall, Kasarvadavali, Ghodbunder Road, Thane (W) 400 615, Maharashtra. Mob: 7738305400
+Main navigation
+Home
+About
+About
+Approvals
+Institutional Development Plan
+APSIT-NIRF DATA
+NBA Accreditation
+Mandatory Disclosure
+Balance Sheet
+Admin
+Governing Body
+Principal
+Controller of Examination
+Board of Management
+Academic Council
+Board of Studies
+Finance Committee
+Internal Complaint Committee
+Student Grievance Redressal Committee(SGRC)
+Academic Leadership
+Academics
+Details of Academic Programs
+Academic Calendar
+Statutes/Ordinances pertaining to Academics/Examinations
+Departments
+AI and ML
+Data Science
+Computer  Engineering
+Civil Engineering
+Mechanical Engineering
+Information Technology
+Vision and Mission
+Faculty profile
+Activities
+Laboratories
+Student Committee
+Humanities and Applied Sciences
+Library
+Library Policy
+Library Services
+Rules for Students
+Academic Collaborations
+Mechanical  Engineering
+Computer Engineering/IT/ EXTC
+Civil Engineering
+Syllabus
+Computer Engineering
+Information Technology
+CSE AI & ML
+CSE Data Science
+Honors & Minor Degree
+Admissions
+Prospectus
+Admission process and guidelines
+Fee Refund Policy
+Institute Brochure 2025-26
+Admission Criteria
+Fee Structure 2025-26
+Admission FAQ's
+Research
+Entrepreneurship Development Cell
+Research & Development
+IPR
+Start-Up policy
+Central Facilities
+Student Life
+Sports Facilities
+National Service Scheme (NSS)
+Placements
+About us
+Placement Record
+Training and Placement Officer
+Student Grievance Redressal Committee(SGRC)
+Health Facilities
+Internal Complaint Committee
+Anti-Ragging Cell
+Facilities for differently-abled
+Academic Initiatives
+Attendance Reward Scheme
+E-Learning Platform
+NPTEL Local Chapter
+IIT Bombay Super Resource Center
+Xpression Club
+Free GATE/GRE*/CAT* Coaching
+Aptitude Training
+Project Based Learning (PBL)
+The MAC Club
+Foreign Language Courses
+ICASTe 2k19 Conference
+Mentoring
+Institution's Innovation Council - IIC
+Counselling
+Counselor
+FAQ's
+Industry Institute Interaction Cell
+Exalt : Technical Fest
+Student Council
+Women Development Cell
+Equal Opportunity Cell - APSIT
+Socio-Economically Disadvantaged Groups Cell (SEDG)
+Alumni
+Alumni Association with details
+Information
+Announcements
+Circulars & Notices
+Newsletters
+Job Openings
+Gallery
+Photos
+Contacts
+Convocation Ceremony @APSIT
+Our Recruiters
+Capgemini Placed Students of 2025 Batch
+LTI Mind Tree Placed Students
+APSIT: Indian Society for Technical Education (ISTE), Maharashtra-Goa has awarded. APSIT "The Best Engineering College" and "Best Principal"
+AurionPro Placed Students
+Department of Computer Science & Engineering (Data Science)
+Today’s economy is emerging to be a data driven one. With increasing digitalization, the contemporary businesses, industries and even the prominent areas of research require specialists in the field of Data Science. Data Science concerns with complete lifecycle of data right from data generation to final actionable inferences with several intermediate steps such as data processing, reporting, prediction, visualization. Data Science leverages science of Data Analytics with the upcoming technologies like Big Data, Machine Learning and Cloud Computing.
+The Department of Computer Science and Engineering with Data Science at APSIT offers a comprehensive four-year full-time undergraduate program designed to equip students with advanced skills in Data Science and core Computer Engineering. Established in 2021, the department aims to prepare students as innovative leaders and researchers by providing a strong foundation in data analytics, machine learning, big data, and cloud computing. The program emphasizes both technical proficiency and essential soft skills like critical thinking, creativity, and problem-solving. Backed by highly qualified faculty, state-of-the-art infrastructure, and strong industry collaborations, this program empowers students to become value creators in today's data-driven economy.
+Department also has DGX Workstation to provide students fastest start in Data Science & AI Research. DGX Station is the only workstation with four NVIDIA® Tesla® V100 Tensor Core GPUs, integrated with a fully-connected four-way NVLinkTM architecture. With 500 TFLOPS of supercomputing performance, Students can experience over 2X the training performance of today’s fastest workstations.
+Students aspiring to get exposed to futuristic domain Data Science & Analytics along with core Computer Engineering with an aptitude for handling mathematical complexities shall  join this 4 years degree program  which is getting established in the current year at APSIT. The faculty members supporting our program are experienced and highly qualified which provides an excellent environment for learning and research.
+Why Data Science?
+The global economy is becoming increasingly
+data-driven
+due to rapid digitalization.
+Data Science
+plays a crucial role across modern businesses, industries, and research fields.
+It covers the
+entire data lifecycle
+— from generation to deriving actionable insights.
+Core components include:
+Data collection and processing
+Reporting and visualization
+Predictive modeling and inference
+Combines
+Data Analytics
+with modern technologies like:
+Big Data
+Machine Learning
+Cloud Computing
+About the Department
+The Department of Computer Science and Engineering with Data Science was established in 2021.
+Offers a 4-year full-time undergraduate program focused on Data Science.
+Aims to develop skilled professionals, researchers, and future leaders in this domain.
+Backed by:
+State-of-the-art infrastructure
+Innovative academic practices
+Strong industry collaborations for practical exposure and placement support
+Why Choose This Program?
+Ideal for students with a strong foundation in mathematics and a desire to explore futuristic technologies.
+Supported by a team of highly qualified and experienced faculty.
+Provides an enriching environment for cutting-edge learning and research.
+Program Highlights
+Master Data Science technologies including data processing, visualization, prediction, and reporting.
+Gain hands-on experience with tools from Machine Learning, Big Data, and Cloud Computing.
+Develop a data-driven mindset with strong analytical and critical thinking skills.
+Career-Ready Skills
+Our comprehensive curriculum ensures students graduate with:
+Core competencies in Computer Engineering
+Expertise in Data Science tools and methodologies
+Essential 21st-century skills like:
+Problem-solving and creativity
+Agility and adaptability
+Communication and leadership
+Multidisciplinary collaboration
+Your Future Starts Here
+This elite program not only prepares students to excel in the field of Data Science, but also to become valuable contributors and leaders in businesses focused on innovation and excellence.
+Vision
+To prepare students to become globally competent  Data analytic experts & researchers and expand their capacity to contribute in the field of data science by providing total solution in societal aspects.
+Mission
+M1  To develop industry conducive environment by providing state-of-art infrastructure to compete in data-driven world.
+M2 To empower students to provide innovative and cognitive solutions with the help of data analytical skillset and new advancements in high performance computing
+M3 To build data intensive system through socio-economic aspect by promoting cross-disciplinary thinking that expands expertise in cutting edge technologies and acquire professional ethics .
+Career Opportunities
+Software Engineer, Data Manager, Data Scientist, Data Analyst, Product Analyst, System Analyst, Software Quality Assurance Analyst, Information Security Analyst, Machine Learning Engineer, Machine Learning Architect, Artificial Intelligence Engineer, Application Developer and Entrepreneur.
+Department of Computer Science and Engineering-Data Science Faculty Global Certification
+:
+Dr. Pravin Adivarekar has completed the Palo Alto Networks Certified Cybersecurity Entry-level Technician (PCCET) global certification.
+Dr. Pravin Adivarekar has completed the Palo Alto Networks Certified Cybersecurity Entry-level Technician (PCCET) global certification. Many Congratulations to him on this exceptional Achievement. This will definitely help APSITians in building their carrier in these futuristic domains.
+Prof. Poonam Pangarkar has completed IBM faculty Build-A-Thon 2022 Applied Data Science Certification .
+Prof. Poonam Pangarkar has completed IBM faculty Build-A-Thon 2022 Applied Data Science Certification . Many Congratulations to her on this exceptional Achievement. This will definitely help APSITians in building their carrier in these futuristic domains.
+Prof. Rajashri Chaudhari has completed IBM faculty Build-A-Thon 2022 Applied Data Science Certification .
+Prof. Rajashri Chaudhari has completed IBM faculty Build-A-Thon 2022 Applied Data Science Certification . Many Congratulations to her on this exceptional Achievement. This will definitely help APSITians in building their carrier in these futuristic domains.
+Prof. Sarala Mary has completed IBM Certification skill Build-A-Thon in Data Analytics with cognos.
+Prof. Sarala Mary has completed IBM Certification skill Build-A-Thon in Data Analytics with cognos. Many Congratulations to her on this exceptional Achievement. This will definitely help APSITians in building their carrier in these futuristic domains.
+Prof. Aavani Nair has completed IBM Certification skill Build-A-Thon in Data Analytics with cognos.
+Prof. Aavani Nair has completed IBM Certification skill Build-A-Thon in Data Analytics with cognos. Many Congratulations to her on this exceptional Achievement. This will definitely help APSITians in building their carrier in these futuristic domains.
+National Level Hack-a-thon-Hackscript 6.0
+Search
+Useful Links:
+About Department
+Vision & Mission
+PO, PEO & PSO
+Faculty Profile
+Collaborations
+Academic Initiatives
+Curriculum & Syllabus
+Laboratories
+Workshop & Events
+Student Organization
+Professional Bodies
+Academic Calendar
+Special Achievements
+Department Achievements
+Placement Details
+Pre Placement Details
+Industrial Visits
+Internship Details
+Result Analysis
+DSA Club
+NPTEL:An Initiative by IITs
+IIT Bombay Spoken Tutorial
+Departments:
+Computer Engineering
+Civil Engineering
+Mechanical Engineering
+CSE AI and ML
+CSE Data Science
+Information Technology
+Placement News!!!
+Aurionpro Placement Drive
+Capgemini Placement Drive
+Exceller Tech Placement Drive
+DSW Placement Drive
+Paramatrix Placement Drive
+SnapWorld Placement Drive
+Exceller Placement Drive
+Virtusa Placement Drive
+Contact Info
+Address: Survey No. 12, 13
+Opp. Hypercity Mall, Kasarvadavali,
+Ghodbunder Road, Thane West,
+Thane, Maharashtra 400615
+Phone: 022-25973737
+[email protected]
+Mobile: 7738305400 / 7738940600
+Exam (for exam/transcripts related queries contact:
+[email protected]
+,
+[email protected]
+)
+Powered by
+Drupal
+.
+By continuing past this page, you agree to our Terms of Service, Cookie Policy, Privacy Policy and Content Policies. All trademarks are properties of their respective owners.
+© APSIT. All rights reserved.

@@ -1,0 +1,211 @@
+ 
+ 
+ABOUT FDP 
+In today's digital age, data analysis , and data 
+processing have become essential skills for 
+professionals across various fields, including core 
+engineering branches like Civil, Mechanical, and 
+Electrical Engineering. Damage detect ion, vibration 
+identification, 3D reconstruction, etc in the field of 
+civil engineering ; generative design, predictive 
+maintenance, and control optimization in mechanical 
+engineering and planning, distribution, and automation 
+of power systems in electrical engineering  are a few 
+applications where AI and ML  are effectively used  
+nowadays. The main objective of the faculty 
+development program is to introduce the participants 
+to the concept of data analysis, data processing, and 
+modeling aspects using AI . The participants will have 
+hands-on experience with the data sets shared.  
+ABOUT APSIT 
+A. P. Shah Institute of Technology (APSIT) has 
+started functioning with a commitment to imparting 
+state of art technical education to inculcate 
+conceptual know -how, analyzing skills, decision-
+making abilities, and leadership quali ties i n th e 
+students. APSIT stands committed to the intellectual 
+and moral growth of every student.  APSIT is 
+affiliated with the University of Mumbai, approved  
+by the All India Council for Technical Education 
+(AICTE), and a ccredited by the National Board  of 
+Accreditation (NBA). 
+Organising Committee 
+Dr. Madhuri  Mulay Prof. Priyanka Jadhav 
+Dr. M. Y. Agarwadkar Prof. Nithya K. 
+Prof. P.S.Jagtap Prof. Snehlata 
+Prof. Raksha  Khandare Prof. K. P. Thool 
+Prof. M. P. Joshi  Prof. Sana Mulla 
+Prof. P. P. Nehete Prof. A. P. Shastri 
+Prof. U. Y. Vazurkar Prof. Nitin G. Mane 
+Prof. Komal Gujarati Prof. V. V. Nalawade 
+Prof. V. K. Suryawanshi  Prof. S. B. Godbole 
+ 
+ 
+Patrons  
+Shri Chirag A. Shah 
+Mrs. Pooja C. Shah 
+Dr. Uttam D. Kolekar 
+ 
+Chairperson 
+Prof. Atul M. Deshpande 
+Dr. Sameer Nanivadekar 
+ 
+Advisory Committee 
+Dr. Rajendra Magar 
+Dr. Shrikant Charhate 
+Dr. Srinivas Londe 
+Dr. Pradnya Dixit 
+Dr. Priti Kulkarni 
+ 
+Technical Committee 
+Prof. Selvin Furtado 
+Prof. Mahesh Pawaskar 
+Prof. Adesh Hardas 
+Prof. Rahul Singh 
+Prof. Shweta Shinde 
+ 
+Convener 
+Prof. Upendra W. Mate 
+ 
+Co-Convener 
+Dr. Pooja S. Rao  
+ 
+Co-ordinator 
+Prof. Vishal U. Misal 
+Prof. Megha Thomas 
+ 
+ 
+                       
+  
+ 
+ISTE Approved  
+Faculty Development Programme 
+ 
+on 
+“Design & Development of AI-ML 
+Models for Beginners” 
+with a focus on applications in core engineering branches 
+and applied sciences 
+ 
+17- 21 July 2023 
+ 
+Organized by 
+The Department of Civil Engineering 
+in association with 
+ 
+Artificial Intelligence Club (AIC)  
+& 
+Civil Engineering Student's Association 
+(CESA) 
+ 
+ 
+ 
+At 
+Parshvanath Charitable Trust’s 
+ 
+A. P. SHAH INSTITUTE OF TECHNOLOGY, 
+Survey No 12,13, Opp. Hypercity Mall, Kasarvadavali, 
+Ghodbundar Road. Thane (W)-400615 
+ 
+ 
+Program Speakers 
+Dr. Shrikant Charhate 
+Professor, Civil Engg. Dept, Amity University 
+Dr. Rajendra Magar 
+Professor, Civil Engg. Dept, AIKTC, Navi Mumbai 
+Dr. Shrinivas N. Londhe 
+Professor, Civil Engg. Dept, VIIT, Pune 
+Dr. Pradnya Dixit 
+Associate Professor, Civil Engg. Dept, VIIT, Pune 
+Dr. Priti Kulkarni 
+Associate Professor, Civil Engg. Dept, VIIT, Pune 
+ 
+Program Content 
+1. Introduction to hard computing, soft 
+computing, and AI-ML. 
+2. Hands-on training in Data Analytics, Data 
+visualization, and Data preprocessing. 
+3. Hands-on training in Designing an 
+Artificial Neural Networks model. 
+4. Performance crit eria (e rror measures)  of 
+AI models. 
+5. Hands-on training in Designing a Genetic 
+Programming (GP) model. 
+6. Hands-on training on Model Tree  
+development, Support V ector Regression 
+(SVR) model. 
+ 
+Program Objectives 
+• To spread awareness about the application of 
+AI and ML in the core branches of engineering 
+and applied sciences. 
+ 
+• To develop and train AI and ML models to 
+solve engineering problems of moderate 
+complexity. 
+ 
+On completion of this FDP 
+• Participants will be able to create AI and ML 
+models and apply them in t heir respective 
+fields of interest. 
+ 
+Target Audience 
+• Research Scholars  
+• MTech/ ME students of various disciplines. 
+• Faculty from academic/technical institution 
+• Industry professional engaged in research. 
+ 
+Schedule 
+Two sessions per day  
+Morning session: 9.30 a.m -12.30 p.m 
+Afternoon session: 1.30 p.m -4.30 p.m 
+(In the afternoon session Hands-on Practice will 
+be given to the participants) 
+ 
+Food & refreshments: working lu nch and high -
+tea included 
+ 
+Registration Fees: 1000 INR (including taxes) 
+Interested participants must pay the registration 
+fee online to the following account. 
+ 
+Account Name: PCTS APSHAH INSTITUTE OF 
+TECHNOLOGY,  
+Bank Name: IDBI Bank, 
+Account number: 1608104000014997,  
+IFSC Code: IBKL0001608,  
+Branch: Kasarvadavli Thane Branch 
+ 
+Transaction details must be entered in Google fo rm 
+for registration ( Transaction Id, scr eenshot of the 
+transaction) 
+ 
+ 
+ISTE Approved 
+Faculty Development Programme 
+ 
+with a focus on applications in core engineering branches 
+and applied sciences 
+on 
+“Design & Development of AI-ML 
+Models for Beginners” 
+ 
+How to Apply? 
+Prospective a pplicants for particip ation in the 
+training program should register through the given 
+link: https://forms.gle/Hcspexe1N8rcrgP88 or 
+using QR given below 
+ 
+The payment and identity proof should be 
+uploaded in the Google form. 
+ 
+Important Dates 
+Last date for online registration: 12 July 2023 
+Training Program Dates: 17- 21 July 2023 
+ 
+For Queries, please contact 
+Prof. Vishal U. Misal, Assistant Professor 
++91-8082387212, vumisal@apsit.edu.in 
+ 
+Prof. Megha Thomas, Assistant Professor  
++91-9987566762, mthomas@apsit.edu.in 

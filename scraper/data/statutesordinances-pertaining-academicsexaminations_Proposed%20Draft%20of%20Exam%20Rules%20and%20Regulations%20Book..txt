@@ -1,0 +1,1155 @@
+Page 1 of 31 
+ 
+ 
+Proposed Draft of Examination Regulations for Undergraduate Engineering 
+Contents 
+Preamble 
+1. Examination Committee (EC) 
+1.1 The Constitution of EC 
+1.2 The Powers and Duties of EC 
+1.3 Functions of EC 
+     2. Type of Examinations and Credit Structure 
+2.1 List of Examinations 
+2.2 Types of Courses 
+2.3 Credit Framework 
+2.4 Credit Distribution for Four Year UG Program 
+     3. ABC, Multiple Entry Exit Path and Lateral Entry 
+          3.1 Enrolment of Students on ABC 
+          3.2 Multiple Exits 
+          3.3 Re-entry or Lateral Entry 
+          3.4 Eligibility for admission to the UG Bachelor’s Degree with Double 
+Minor/Honours/Research as per UGC guidelines 
+     4. Details of Examinations 
+          4.1 In-Semester Evaluation (ISE) 
+          4.2 Mid-semester Examination (MSE) 
+          4.3 End-semester Examination (ESE) 
+          4.4 Special Examination 
+          4.5 Re-Examination 
+   5. Attendance Requirements 
+   6. Examination Fees Structure 
+   7. Course Evaluation 
+         7.1 Passing Criteria 
+         7.2 Grade compilation guidelines 
+         7.3 Special-Examination and Grade Improvement Guidelines 
+         7.4 Norms for Promotion 
+   8. MOOC SWAYAM /NPTEL Courses 
+   9. Liberal Learning Courses (LLC) 
+ 10. Rules and Regulations for Assessment 
+        10.1 Academic and Examination Calendar 
+         10.2 Question Paper setting 
+         10.3 Conduct of Examination 
+Page 2 of 31 
+ 
+ 
+                  10.3.1 Conduct of ISE 
+                  10.3.2 Conduct of Written MSE and ESE 
+                  10.3.3 Tutorial Evaluation 
+                  10.3.4 Practical Course and a Course with only ISEcomponents 
+                  10.3.5 Assessment of Projects 
+11. Assessment of Written Examination 
+12. Procedure to show Theory MSE and ESE answer books to Students 
+13. Preservation of Question Papers and Answer Books 
+14. Tabulation and Declaration of Results 
+       14.1 MSE and ESE Results 
+       14.2 In-Semester Evaluation (ISE) 
+       14.3 Internal Assessment of Lab Course 
+       14.4 Results 
+       14.5 Amendment of Results due to errors 
+15.  Unfair Means /Malpractice at Examination 
+        15.1 Competent Authority 
+        15.2 Procedure for Dealing with Cases of Unfair Means at Examination Hall 
+        15.3 Procedure for Dealing with Unfair Means observed during assessment 
+        15.4 Procedure to be followed by Complaint Redressal Committee (CRC) 
+        15.4.1 For the Purpose of investigating unfair means resorted to by examinee/s at the written 
+MSE OR ESE examination 
+        15.4.2 For Unfair Means in Conduct of Practical Examination 
+        15.4.3 For Paper Setter/Examiner/Faculty/Any Other Person Involved in Unfair Means with 
+Conduct of Examination 
+         15.4.4 Guidelines for Imposing Punishment for Malpractices/Lapses by Paper 
+Setter/Examiner/Faculty/Any Other Person 
+16. Learner’s Report Card 
+       16.1 Conversion of Marks to Grades and Calculations of GPI (Grade Performance Index) 
+        16.2 Calculation of SGPI and CGPI 
+         16.3 Submission of Examination Documents to Mumbai University 
+         16.4 Eligibility for the award of Degree 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Page 3 of 31 
+ 
+ 
+ 
+Proposed Examination Regulations for Undergraduate Engineering 
+Preamble: 
+These regulations have been meticulously formulated to define the comprehensive framework 
+governing the conduct of examinations for undergraduate engineering programs, including the 
+Bachelor of Engineering (B.E.) a nd / or  Bachelor of Technology (B.Tech) degrees, offered by 
+autonomous colleges affiliated with the esteemed Mumbai University. These guidelines are 
+designed to ensure a consistent, fair, and transparent assessment of student learning, aligned with 
+the highest academic standards and best practices in engineering education. 
+Purpose and Scope: 
+The primary objective of these regulations is to establish a robust and reliable examination 
+system that accurately reflects student learning outcomes, upholds academic integrity, and 
+supports the seamless academic progression of engineering students. This framework 
+encompasses all aspects of the examination process, including but not limited to, examination 
+scheduling, paper setting, invigilation, evaluation, revaluation, and the declaration of results. 
+Legal and Regulatory Alignment: 
+These regulations are formulated in strict accordance with the statutory requirements of the 
+Maharashtra Public Universities Act, 2016, which provides the foundational legal structure for 
+higher education institutions within the state. In addition, these regulations adhere to the expert 
+directives issued by the All-India Council for Technical Education (AICTE), which sets the 
+quality benchmarks for technical education in India, and the normative guidelines established by 
+the University Grants Commission (UGC), which provides a uniform framework for academic 
+standards. 
+Furthermore, these regulations incorporate the progressive principles and pedagogical vision 
+articulated within the National Education Policy (NEP) 2020. This policy emphasizes holistic and 
+multidisciplinary education, flexible learning pathways, and the d evelopment of critical thinking 
+and problem-solving skills, which are essential for producing competent engineering graduates 
+prepared to meet the challenges of a rapidly evolving technological landscape. 
+1. General Principles: 
+• Autonomy: As autonomous institutions, colleges have the authority to conduct their 
+examinations, evaluate student performance, and declare results, subject to the broad 
+guidelines set by the University of Mumbai, UGC, and AICTE. 
+• Fairness and Transparency: All examinations and evaluation processes must be fair, 
+transparent, and designed to assess students' learning outcomes effectively, reflecting the 
+principles of academic integrity and ethical conduct. 
+Page 4 of 31 
+ 
+ 
+• Continuous Evaluation: Assessment schemes shall integrate continuous internal 
+assessment (IA) and end -semester examinations (ESE) to capture the full spectrum of 
+student learning. 
+• Alignment with CBCS: The examination system shall align with the Choice Based Credit 
+System (CBCS), providing flexibility and student-centricity. 
+• NEP 2020: The examination and assessment practices shall reflect the principles of NEP 
+2020, emphasizing higher -order thinking skills, application -based learning, and reduced 
+emphasis on rote learning. 
+ 
+2. Nomenclature and Definitions: 
+• University - Refers to Mumbai University. 
+• Autonomous College  - An institution with academic, administrative, and financial 
+autonomy. 
+• Examination - Includes internal assessment (IA), mid -term, end -semester examination 
+(ESE), practical, and supplementary assessments and project evaluations. 
+• Academic Year - The period from June to May, divided into two semesters. 
+• IA: Internal Assessment: Continuous, formative assessment conducted throughout the 
+semester. 
+• ESE: End Semester Examination): Comprehensive assessment conducted at the end of 
+each semester. 
+• Course: A unit of instruction (theory/practical/tutorial) carrying specific credit(s). 
+• Credit: A numerical value assigned to a course, reflecting the student's workload. 
+• Examination Committee : A college -level committee responsible for overseeing the 
+conduct of examinations. 
+• Controller of Examinations (CoE): The head of the examination department, responsible 
+for the planning, organization, and execution of examinations. 
+• Grade Point Average (GPA) and Cumulative Grade Point Average (CGPA): 
+Measures of academic performance, calculated as per UGC guidelines. 
+ 
+1. Examination Committee (EC): 
+1.1 Constitution of the Examination Committee (EC) 
+Page 5 of 31 
+ 
+ 
+An autonomous Institute shall establish a dedicated Examination Committee (EC) to ensure the 
+effective governance and management of all examination-related activities. This committee plays 
+a crucial role in upholding the standards of assessment and ensuring the integrity of the 
+examination process. The constitution of the EC shall be as follows: 
+• Chairperson: A senior faculty member appointed to lead the committee. 
+• Controller of Examinations (CoE): Acts as the head of the committee, providing overall 
+direction and oversight. 
+• Principal: Serves as an ex -officio member, ensuring alignment with the institution’s 
+academic goals. 
+• Department Representatives : Senior faculty members from various departments to 
+provide subject-specific insights and support. 
+• External Academic Experts : Distinguished professionals from other academic 
+institutions or industries to ensure impartiality and external oversight. 
+• Academic Council Nominees: Members nominated by the academic council to contribute 
+to policy formulation and quality assurance. 
+1.2 Powers and Duties of the Examination Committee 
+ 
+The Examination Committee is vested with comprehensive powers and responsibilities to manage 
+the entire lifecycle of the examination process. Its primary duties include: 
+• Formulating Comprehensive Examination Policies : Developing detailed examination 
+rules and regulations, consistent with institutional guidelines and academic council 
+approvals. This includes defining assessment components, grading systems, and criteria 
+for passing and promotion. 
+• Examination Scheduling and Planning: Planning and preparing examination schedules, 
+including In -Semester Evaluations, Mid -Semester, End -Semester, Special, and Re -
+Examinations, ensuring smooth execution. 
+• Paper Setting and Examiner Appointment : Appointing qualified paper setters and 
+examiners, ensuring academic rigor and fairness in assessments. 
+• Question Paper Management: Overseeing the secure creation, storage, and distribution 
+of question papers to prevent unauthorized access. 
+• Conduct of Examinations: Coordinating the administration of Internal Assessment (IA) 
+and End-Semester Examinations (ESE), ensuring strict adherence to established protocols. 
+Page 6 of 31 
+ 
+ 
+• Integrity and Security Assurance : Implementing measures to prevent malpractice and 
+ensure a fair assessment environment, including secure printing, storage, and strict 
+invigilation procedures. 
+• Evaluation and Result Declaration: Arranging for the timely evaluation of answer scripts 
+and ensuring prompt, accurate result declaration through transparent processes. 
+• Grievance Redressal: Addressing student grievances related to examinations swiftly and 
+effectively to maintain trust in the assessment system. 
+• Continuous Improvement and Reform : Recommending and implementing reforms to 
+enhance the examination system’s transparency, efficiency, and effectiveness. 
+1.2.1 Rules of Procedure for EC 
+ 
+• For any meeting of EC, two -third members shall constitute a quorum. 
+However, the same meeting shall be held after 30 minutes of the scheduled 
+time, for which, no quorum shall be applicable.  
+• The members of EC shall meet at least twice during the academic year and at 
+other times as and when necessary.  
+• The various formats shall be prepared by EC for record keeping and monitoring 
+all examination related activities.  
+• The EC shall perform such duties and responsibilities that are assigned by 
+Academic Council of the institute from time to time.  
+• COE shall be assisted by the department exam coordinators (DEC) for carrying 
+out the following activities during examinations.  
+i. Paper Setting and Printing  
+ii. Examinations (Theory)  
+iii. Examinations (Practical, Project, Online examinations)  
+iv. Assessment of answer books  
+v. Preparation and declaration of provisional grades  
+vi. Preparation and declaration of final results  
+ 
+• Any other examination related work  
+ 
+1.3 Functions of EC:  
+1. Notifying the schedule and dates of various stages connected with the examinations. 
+(Examination calendar of the year)  
+2. Fixing the timetable for conduct of examinations.  
+Page 7 of 31 
+ 
+ 
+3. Conducting internal examinations.  
+4. Question paper setting as per the syllabi, model question papers approved in Board of Studies.  
+5. Printing of question papers.  
+6. Supply of Examination applications to the students.  
+7. Processing of examination applications and printing of Hall tickets.  
+8. Preparation of Nominal rolls and D- Forms.  
+9. Printing of Answer booklets with Barcode.  
+10. Preparation of answer scripts by coding for valuation.  
+11. Undertaking valuation of answer scripts and scrutiny of answer script.  
+12. Decoding of scripts and verification of marks already entered.  
+13. Processing of marks and prepare the list of candidates for Moderation by Grafting.  
+14. Announcement of results in-time through college website.  
+15. Notification for Re-valuation.  
+16. Printing and distribution of marks memoranda.  
+17. Preparation of consolidated marks memo cum provisional pass certificates.  
+18. Submission of all data and marks to the University for the award of original degrees by the 
+University.  
+19. Maintenance of tabulated marks register and degree registers.  
+20. Preparation of Degree register for submitting to affiliated University for printing and signature 
+of issuing authority of affiliated University.  
+21. Prepare the list of students for awarding endowment prizes constituted by the philanthropists.  
+22. Maintenance of cash book, Resolution book, Accounts book and etc of the examination cell.  
+III. Official procedure:  
+The Examination Cell, in all its functions, is guided and regulated by the UGC rules of Autonomy, 
+resolutions of the Executive Committee and the Academic Council of the college. As the college 
+is affiliated to Mumbai University, its rules are also followed in some cases.  
+Page 8 of 31 
+ 
+ 
+Every department ensures that all the norms published by university/college are followed 
+completely. 
+ 
+2. Diverse Types of Examinations and the Structured Credit Framework: 
+2.1 Exhaustive List of Examinations 
+To comprehensively evaluate student learning and academic progress, autonomous colleges 
+employ a diverse array of assessment instruments. These assessments are designed to provide a 
+holistic understanding of a student’s knowledge, skills, and overall development throughout the 
+academic journey. The primary categories of examinations include: 
+1. In -Semester Evaluation (ISE): This continuous assessment component aims to foster 
+consistent engagement and progressive understanding by integrating various pedagogical tools 
+throughout the semester. Key elements include: 
+• Quizzes: Short, focused assessments that test immediate comprehension of recently 
+covered topics, encouraging regular revision and active participation. 
+• Assignments: Structured, often open-ended tasks that challenge students to explore topics 
+in depth, reinforcing theoretical concepts and promoting critical thinking. 
+• Laboratory Work: Practical evaluations in laboratory settings, assessing hands-on skills, 
+technical proficiency, and the ability to apply theoretical knowledge to real -world 
+scenarios. 
+• Presentations: Opportunities for students to articulate their understanding, develop 
+communication skills, and demonstrate analytical abilities in a collaborative environment. 
+• Group Discussions and Peer Reviews:  Interactive sessions that encourage active 
+learning, exchange of ideas, and collaborative problem-solving. 
+2. Mid-Semester Examination (MSE):  Typically conducted at the midpoint of each academic 
+semester, the MSE acts as a formative assessment, providing insights into a student’s grasp of core 
+concepts and foundational knowledge covered in the first half of the course. These examinations 
+help both students and instructors identify strengths and areas requiring further focus, guiding 
+subsequent instruction and study strategies. 
+3. End-Semester Examination (ESE):  Conducted at the conclusion of each semester, the ESE 
+serves as a comprehensive summative assessment. It evaluates the student’s mastery of the 
+complete course curriculum, including the ability to synthesize, integrate, and apply acquired 
+knowledge. The E SE often includes both theoretical and practical components, ensuring a 
+balanced assessment of conceptual understanding and practical skills. 
+Page 9 of 31 
+ 
+ 
+4. Special Examinations: Special examinations are offered to students who, due to legitimate and 
+verifiable reasons, were unable to attend the regular MSE or ESE. Common grounds for eligibility 
+include medical emergencies, participation in officially sanctioned events, or other e xtenuating 
+circumstances as recognized by institutional policies. These examinations require prior approval 
+and adequate supporting documentation to ensure fairness and transparency. 
+5. Re-Examinations: Designed to provide students with additional opportunities for academic 
+improvement, re -examinations allow for grade enhancement or the clearance of academic 
+backlogs. These assessments are governed by institutional regulations regarding eligibility, 
+frequency, and grading policies, ensuring that students have a fair chance to demonstrate their 
+competencies and achieve academic success. 
+2.2 Comprehensive Types of Courses: 
+The undergraduate engineering curriculum will be thoughtfully structured to provide a holistic 
+learning experience, encompassing: 
+Core Courses: These foundational courses form the bedrock of the specific engineering discipline, 
+providing essential theoretical knowledge and fundamental principles. 
+Elective Courses: Offering students the flexibility to pursue their specific interests and career 
+aspirations, elective courses will allow for specialization within the broader engineering field or 
+exploration of interdisciplinary areas. 
+Laboratory Courses: Integral to engineering education, these hands-on courses provide students 
+with practical experience, enabling them to apply theoretical concepts, develop experimental 
+skills, and work with relevant equipment and software. 
+Project Work:  Ranging from individual assignments to collaborative team projects, this 
+component fosters critical thinking, problem -solving abilities, innovation, and the application of 
+engineering principles to real-world scenarios. 
+Skill Development Modules: These modules are designed to enhance practical skills relevant to 
+the engineering profession and may include workshops, seminars, and hands-on training. 
+2.3 Structured Credit Framework: 
+The allocation of academic credits for each course will be meticulously determined, adhering 
+strictly to the norms and guidelines established by both the UGC  / AICTE and as per the NEP 
+guidelines / national credit framework concurrent with University of Mumbai. The assignment of 
+credits will be a direct reflection of the anticipated learning effort required of students, taking into 
+account factors such as the number of contact hours (lectures, tutorials, practical sessions), the 
+complexity of the course con tent, and the expected workload for assignments and independent 
+study. 
+Page 10 of 31 
+ 
+ 
+Credit Specification:  
+Ø Theory: For each theory 1 credit is assigned  
+Ø Lab and workshop- based work: For each lab 0.5 to 1 credit is assigned depending on the subject 
+and for each workshop 1 credit  
+Ø Tutorial: For each tutorial 1 credit is assigned  
+Ø Community services: 2 credits assigned for community services 
+The National Education Policy 2020 highlights the importance of formative and competency-based 
+assessments to foster higher -order thinking abilities, including creativity, critical thinking, and 
+analytical skills, education in addition to a focus on the ch osen major and minors as per their 
+choices. The credit structure for four -year Bachelors UG programme are given in below credit 
+frame work table. 
+ 
+ 
+ 
+Credit Framework 
+Levels Qualification 
+Title 
+Credit Requirements Semester  
+Year Minimum Maximum 
+4.5 One Year UG Certificate in 
+Engg./Tech. 
+ 
+40 
+ 
+44 
+ 
+2 
+ 
+1 
+5.0 Two Years UG Diploma in 
+Engg./Tech. 
+ 
+80 
+ 
+88 
+ 
+4 
+ 
+2 
+5.5 Three Years Bachelor’s 
+Degree in Vocation (B. 
+Voc.) or B. Sc. (Engg./ 
+Tech.) 
+ 
+ 
+120 
+ 
+ 
+132 
+ 
+ 
+6 
+ 
+ 
+3 
+6.0 4-Years Bachelor’s degree 
+(B.E./ B.Tech. or 
+Equivalent) in Engg./ Tech. 
+with Multidisciplinary 
+Minor 
+ 
+ 
+ 
+160 
+ 
+ 
+ 
+176 
+ 
+ 
+ 
+8 
+ 
+ 
+ 
+4 
+ 
+ 
+4-Years Bachelor’s degree 
+(B.E./ B.Tech. or 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 11 of 31 
+ 
+ 
+6.0 Equivalent) in Engg./Tech.- 
+Honors and 
+Multidisciplinary Minor 
+ 
+ 
+180 
+ 
+ 
+194 
+ 
+ 
+8 
+ 
+ 
+4 
+     6.0 4-Years Bachelor’s degree 
+(B.E./ B.Tech. or 
+Equivalent) in Engg./Tech.- 
+Honors with Research and 
+Multidisciplinary Minor 
+         180 194 8 4 
+ 
+ 
+ 
+    6.0 
+4-Years Bachelor’s degree 
+(B.E./ B.Tech. or 
+Equivalent) in Engg./ 
+Tech.- Major Engg. 
+Discipline with Double 
+Minors (Multidisciplinary 
+and Specialization Minors) 
+         180 194 8 4 
+ 
+1. Credits offered per Semester will be a Minimum 20 and a Maximum 22. While 
+minimum credits are mandatory as per National Credit Framework, and can evolve 
+the mechanism for providing Semester/Level wise credit attainment flexibility 
+within the broad framework. 
+2. The Fourth Year of Bachelor’s Engg./ Tech. Degree (Level 6.0) with various 
+options- Bachelor’s Engg./ Tech. Degree in chosen Major Engg./ Tech. Discipline 
+with Multidisciplinary Minor (160 -176 credits), OR Bachelor’s Engg./ Tech. 
+Honours Degree in chosen M ajor Engg./ Tech. Discipline with Multidisciplinary 
+Minor (180 -194 credits) OR Bachelor’s Engg./ Tech. Honours with Research 
+Degree in chosen Major Engg./ Tech. Discipline with Multidisciplinary Minor 
+(180-194 credits) OR Bachelor’s Engg./ Tech. Degree in chosen Major Engg./ 
+Tech. 
+2.4 Strategic Credit Distribution for the Four-Year UG Program: 
+The total credit requirement for the four -year undergraduate engineering program will be 
+strategically and equitably distributed across all eight academic semesters. This careful distribution 
+will aim to ensure a balanced and manageable academic workload f or students in each semester, 
+preventing undue academic pressure and promoting a more effective learning experience. The 
+distribution should align with AICTE's model curriculum and NEP policy guidelines.  
+• One credit is equivalent to 1 hour of lecture or 2 hours of practical/tutorial work per week. 
+• Multidisciplinary learning, industry -oriented modules, and MOOC -based learning 
+(Swayam/NPTEL) are encouraged. 
+ 
+Page 12 of 31 
+ 
+ 
+3. Facilitating Academic Mobility and Flexibility: ABC, Multiple Entry Exit 
+Path, and Lateral Entry 
+3.1 Mandatory Enrolment of Students on the ABC Platform: 
+To ensure seamless academic mobility and effective credit recognition, all students enrolling in 
+undergraduate engineering programs will be mandatorily registered on the Academic Bank of 
+Credits (ABC) platform. This digital platform, established as part of the National Education Policy 
+(NEP) 2020, serves as a centralized repository for securely storing and managing students’ earned 
+academic credits. It empowers students to transfer their credits across accredited institutions, 
+facilitating flexible learning  pathways and promoting lifelong learning. This approach aims to 
+break institutional silos, reduce academic rigidity, and enhance the overall student learning 
+experience by acknowledging prior learning and diverse academic achievements. 
+3.2 Empowering Students with Multiple Exit Options: 
+In alignment with the NEP 2020 framework, institutions will adopt a multi -tiered approach to 
+academic progression, allowing students to exit their programs at various stages based on the 
+credits they have accumulated. This flexibility provides students with meaningful certification 
+options at each exit point, including: 
+• Certificate upon successful completion of the first year (minimum of 40 credits), 
+• Diploma upon successful completion of the second year (minimum of 80 credits), 
+• Advanced Diploma or Associate Degree upon successful completion of the third year 
+(minimum of 120 credits), and 
+• Bachelor’s Degree upon successful completion of the entire program (minimum of 160 
+credits). 
+ This structure acknowledges diverse learning paces and career aspirations, ensuring that students 
+can gain recognition for their achievements at different stages while also promoting employability 
+and skill development. 
+3.3 Flexible Pathways for Re-entry and Lateral Entry: 
+Students who choose to exit their program prematurely may re-enter at a later stage, provided they 
+meet the necessary eligibility criteria. Institutions will facilitate this process by maintaining 
+comprehensive academic records on the ABC platform, allowin g students to seamlessly resume 
+their education without loss of previously earned credits. Additionally, lateral entry pathways will 
+be available for candidates with relevant prior qualifications, enabling them to join the program at 
+an appropriate level, subject to institutional policies and program -specific prerequisites. This 
+approach supports diverse educational journeys and acknowledges prior learning experiences, 
+enhancing overall academic inclusivity. 
+Page 13 of 31 
+ 
+ 
+3.4 Eligibility for Admission to UG Bachelor’s Degree with Double 
+Minor/Honours/Research: 
+Students aspiring to pursue an undergraduate Bachelor’s degree with specializations such as 
+Double Minor, Honours, or Research must meet the following eligibility criteria, as outlined by 
+the latest University Grants Commission (UGC) guidelines: 
+a. Academic Excellence and Specialization: 
+• These advanced academic tracks are intended for high-achieving students seeking deeper 
+specialization in their chosen fields. 
+• Students must demonstrate strong academic performance, typically measured through 
+cumulative grade point averages (CGPA) or percentage thresholds set by their institution. 
+• In some cases, additional entrance examinations, project work, or research proposals may 
+be required to qualify for these tracks. 
+b. Credit and Course Requirements: 
+• Students must complete a specified minimum number of credits in their primary discipline, 
+along with additional credits in their chosen minor or honours specialization. 
+• For the Research track, students may be required to undertake original research, publish 
+papers, or participate in faculty-led research projects to fulfill the requirements. 
+c. Institutional and National Alignment: 
+• Institutions offering these specialized tracks are responsible for clearly communicating the 
+specific eligibility criteria, including course prerequisites, performance standards, and 
+research expectations. 
+• These pathways are designed to align with national educational quality standards, ensuring 
+students gain competitive and comprehensive academic experiences. 
+d. Support and Mentoring: 
+• Students pursuing these advanced tracks will often receive dedicated mentoring and 
+support, including guidance on academic planning, research methodologies, and career 
+pathways. 
+• Institutions may also provide access to specialized labs, libraries, and collaborative 
+research opportunities to enhance learning outcomes. 
+ 
+Page 14 of 31 
+ 
+ 
+4. Comprehensive Details of Examination Components: 
+4.1 Rigorous In-Semester Evaluation (ISE): 
+Rigorous In -Semester Evaluation (ISE) is a continuous and multifaceted process designed to 
+monitor and assess student learning throughout the semester (maximum 20 marks). It emphasizes 
+critical thinking, practical application, and comprehensive understanding, moving beyond simple 
+recall to capture a holistic view of student progress. It will be conducted throughout the semester 
+and may include a variety of assessment methods, such as: 
+Based on the course, ISE includes one or more following components. 
+1. ISE Test-1, ISE Test-2 
+2. Class Tests (Written) - Periodic written tests to assess understanding of course concepts. 
+3. Assignments - Regular coursework or homework assignments to gauge comprehension 
+and application. 
+4. Quizzes - Short, focused assessments aimed at reinforcing key concepts and quick recall. 
+5. Presentations - Student-led presentations to evaluate communication skills, subject 
+mastery, and critical thinking. 
+6. Projects - Individual or group projects designed to assess practical application, research 
+skills, and creativity. 
+7. Laboratory Work Evaluation  - For practical courses, assessment of hands -on skills, 
+experimental techniques, and safety practices. 
+8. Viva Voce  - Oral examinations to assess conceptual clarity, articulation, and depth of 
+understanding. 
+9. Attendance - A component of assessment that encourages regular participation and 
+engagement. 
+10. Case Studies  - In-depth analyses of real -world scenarios to develop analytical and 
+problem-solving skills. 
+11. Group Discussions - Evaluation based on participation, collaboration, and critical thinking 
+in group settings. 
+12. Online Assessments and Interactive Activities - Use of digital platforms for interactive 
+learning assessments. 
+Page 15 of 31 
+ 
+ 
+The specific components and their respective weightages for each course shall be determined by 
+the course instructor, with the approval of the Head of the Department and the Controller of 
+Examinations (CoE). A minimum number of IA components shall be presc ribed to ensure 
+comprehensive assessment coverage. 
+4.2 Formative Mid-Semester Examination (MSE): 
+The Mid -Semester Examination (MSE) is a crucial component of the academic assessment 
+process, conducted approximately halfway through each semester. It is designed to provide a 
+comprehensive evaluation of students' understanding and progress in the coursew ork covered up 
+to that point (Maximum 20 Marks). 
+ 
+Key Features of the MSE: 
+• MSE will be normally conducted in the mid of the semester. MSE question paper will be based 
+on 40-50% of the syllabus and it will be conducted by the respective department.  
+• Department should conduct MSE according to the schedule published by the Examination 
+Center of the college.  
+• Typically question paper will be of 30 Marks for 60/90 Minutes duration.  
+• Those students whose name is appeared in the defaulter list received from the department will 
+not be allowed to attempt MSE.  
+Purpose and Objectives: 
+The MSE serves as a formative assessment tool, aimed at identifying students' strengths and areas 
+for improvement. It offers students an opportunity to reflect on their learning, gauge their grasp of 
+the course material, and receive constructive feedback to guide their ongoing studies. 
+Timing and Schedule: 
+The MSE is typically scheduled around the middle of the semester, aligning with the academic 
+calendar. The exact dates and timings will be communicated well in advance to allow students 
+adequate preparation time. Examination duration will be 60 min. 
+Syllabus and Format: 
+The examination will cover the topics taught up to the mid-point of the semester. The scope of the 
+syllabus and the format (e.g., multiple-choice questions, short answers, essays, or problem-solving 
+exercises) will be clearly outlined by the course instructor prior to the examination. 
+Evaluation and Feedback: 
+Page 16 of 31 
+ 
+ 
+Performance in the MSE is intended to offer both students and instructors valuable insights into 
+academic progress. Detailed feedback will be provided to help students address any knowledge 
+gaps and refine their understanding before the final assessments. 
+Contribution to Final Grade: 
+While primarily formative, the MSE may also contribute a percentage of the overall course grade, 
+depending on the specific course structure. This proportion will be clearly specified in the course 
+outline. 
+4.3 Summative End-Semester Examination (ESE): 
+The End-Semester Examination (ESE) is a comprehensive evaluation conducted at the conclusion 
+of each academic semester. It aims to assess the overall understanding of course material, 
+integrating various concepts learned throughout the term. Key features include: 
+1. Purpose and Scope - Primarily designed to evaluate higher-order thinking skills, including 
+analysis, application, and problem-solving, rather than mere recall. 
+2. Question Paper Design  - The ESE papers will be structured to minimize rote learning, 
+promoting critical thinking and deep comprehension. 
+3. Typical Duration - ESE exams generally last between 2 to 3 hours, as determined by the 
+institution. 
+4. Coverage - Includes the entire syllabus of the course, ensuring a thorough evaluation of 
+student learning. 
+Practical and Laboratory Examinations 
+In addition to theoretical evaluations, practical and laboratory examinations are integral for courses 
+involving hands -on work. These assessments aim to evaluate practical skills, experimental 
+techniques, and real-world problem-solving abilities. Key considerations include: 
+1. Hands-On Skill Assessment  - Testing the ability to apply theoretical knowledge in 
+practical contexts. 
+2. Separate Passing Criteria  - Practical components often have distinct passing criteria, 
+reflecting the unique demands of hands-on learning. 
+3. Real-World Application - Focus on experimental accuracy, data analysis, and the correct 
+use of laboratory equipment. 
+ 
+4.4 Accommodative Special Examination: 
+Page 17 of 31 
+ 
+ 
+A Special Examination may be offered to students who were genuinely unable to appear for either 
+the regular Mid-Semester Examination or the End -Semester Examination due to unforeseen and 
+compelling reasons. The decision to grant a Special Examination will rest with the institution, 
+based on its established policies and a careful review of the submitted evidence. 
+4.5 Opportunity for Academic Improvement: Re-Examination: 
+Autonomous institutions will provide students with an opportunity to reappear for examinations 
+in courses where they wish to improve their previously obtained grades or to clear any courses in 
+which they may have not achieved the required passing grade. The regulations governing re -
+examinations will specify the number of attempts permitted, the courses eligible for re -
+examination, any associated fees, and the process for applying for a re-examination. 
+ 
+5. Mandatory Attendance Requirements for Examination Eligibility: 
+Recognizing the importance of consistent engagement with the learning process, students will be 
+required to maintain a minimum 75%percentage of attendance in all lectures  (25% relaxation 
+considered for medical ground), and for tutorials, and practical sessions it should be 100% for each 
+course to be eligible to appear for the corresponding Mid -Semester and End -Semester 
+Examinations. The specific minimum attendance percentage will be determined by the respective 
+autonomous institution and will be clearly communicated to the students at the beginning of each 
+semester.  
+6. Transparent Examination Fees Structure: 
+The autonomous institutions will establish a clear and transparent fee structure for various 
+examinations, including the Mid -Semester Examination, End -Semester Examination, Special 
+Examinations, and Re-Examinations. The details of these fees will be duly notified to the students 
+well in advance through official channels. 
+• Regular examination fee --- 3000 
+• Special examination fee (for failed students) --- 5000 
+• Grade Improvement examination fees ---- 3000 
+• Re-examination fees (for failed students) --- 3000 
+In addition to regular fees, late and super late fees will be applicable if any student fails to apply 
+for examination form within the prescribed time period declared through the notice. 
+ 
+Examination fees for the academic year 2024-2025 are as follows:  
+For Undergraduate Course  
+Page 18 of 31 
+ 
+ 
+First Year (BE/B.Tech) : Rs.3000/-  
+Second Year (BE/B.Tech) : Rs.3000/- 
+Third Year (BE/B.Tech) : Rs.3000/- 
+Fourth Year (BE/B.Tech) : Rs.3000/- 
+Revaluation: Rs 1500/- per course  
+Additional fee Rs (Re -Examination /Previous Semester Examination) examination fees Rs.1520 
+per semester  
+Other fees  
+Provisional Passing Certificate : Rs.250/-  
+Duplicate Grade sheet : Rs.250/- per grade sheet  
+Duplicate Hall Ticket : Rs.250/-  
+Re-Examination & Previous Examinations Fees (Odd & Even): Rs.1520 with form fees per 
+semester  
+Transcript Charges: Rs.1500/- (for first 3 copies) plus Rs.400/- (For next every single copy)  
+Other letters : Rs.250/-  
+Percentage Conversion / Marks Obtained Certificate: Rs.400/- 
+Document Verification Charges: Rs.1000/ - to Rs.3000/- per semester as per passing year as per 
+below.  
+1 to 3 Years: Rs.1000/- per semester  
+4 to 10 years: Rs. 1500/- per semester  
+10 to 20 years: Rs. 2000/- per semester  
+More than 20 years: Rs. 3000/- per semester 
+ 
+7. Comprehensive Course Evaluation and Progression: 
+7.1 Clearly Defined Passing Criteria: 
+To ensure academic rigor and a minimum level of competency, students must secure a minimum 
+passing grade in individual course, encompassing both the internal assessments (ISE and MSE) 
+Page 19 of 31 
+ 
+ 
+and the external assessment (ESE) components. The specific passing marks or grades for each 
+course will be clearly defined by the institution. 
+To successfully complete a course and progress academically, students must meet specific passing 
+criteria that reflect both their understanding of the course material and their performance in 
+assessments. These criteria are designed to ensure a consistent standard of academic excellence 
+and competency across all courses. 
+Absolute Grading with a minimum 40% marks for UG should be obtained by a student to pass 
+a course considering addition of ISE1, MSE, ISE2 and ESE marks.  
+There is no separate passing head for ISE1, MSE, ISE2 or ESE. Even though there is not a separate 
+head of passing, it is expected that learner should satisfactorily complete all the continuous 
+assessment components in all the courses.  
+ 
+ 
+Sample table indicating marks for evaluation for a course. 
+Theory Course 
+Lectures 
+per week 
+Credits 
+ 
+ISE1 
+Marks 
+ 
+ISE2 
+Marks 
+ 
+MSE 
+Marks 
+ 
+MSE 
+Duration 
+ 
+ESE Marks ESE 
+Duration  
+Total 
+Marks 
+2 2 20 20 30 90 
+Minutes 
+100(30% 
+weightage) 
+180 
+Minutes 
+100 
+1 1 10 10 15 60 
+Minutes 
+50(30%weightage) 120 
+Minutes 
+50 
+ 
+7.1.1 Minimum Requirements: 
+To pass a course, a student must achieve the following minimum thresholds: 
+• End Semester Examination (ESE) Performance: 
+o Students must secure at least 40% of the maximum marks in the ESE to pass the 
+course. 
+o The ESE typically evaluates comprehensive knowledge and understanding of the 
+entire course syllabus, including both theoretical concepts and practical 
+applications. 
+• Internal Assessment (IA) Performance (ISE): 
+Page 20 of 31 
+ 
+ 
+o A minimum of 40% of the total possible marks in the Internal Assessment (IA) 
+is required. 
+o The IA comprises ISE & MSE  may include various components, such as class 
+tests, quizzes, assignments, practical work, projects, presentations, and attendance, 
+depending on the course structure. 
+• Overall Grade Requirement: 
+o In addition to meeting the minimum individual requirements for ESE and IA, 
+students must secure an overall grade of C (or its equivalent) when combining the 
+scores from both IA and ESE components. 
+o The overall grade reflects a student’s comprehensive performance and 
+understanding of the course content, and is typically determined using a grading 
+scale that may vary by institution. 
+ 
+ 
+ 
+7.2 Detailed Grade Compilation Guidelines: 
+The final grade for each course will be meticulously determined by considering the student's 
+performance in all components of evaluation, including the In-Semester Evaluation (ISE), the Mid-
+Semester Examination (MSE), and the End -Semester Examination (ESE) . The institution will 
+establish a pre-defined weightage distribution for each of these components, which will be clearly 
+articulated in the course syllabus. 
+The guidelines for the absolute grade compilation are as follows  
+➢ There will be no individual passing head for any course. Pass or fail will be based on total marks 
+obtained.  
+➢ The total marks i.e. addition of ISE1, ISE2, MSE and ESE for a course are used for grade 
+compilation process.  
+➢ The Grade Compilation Process shall involve the following steps:  
+7.2.1 Absolute grading system is applicable for all courses  
+1. Student securing 40% or more marks should be awarded the Passing grade ‘P’ or higher grades 
+based on the overall performance in the course.  
+Page 21 of 31 
+ 
+ 
+ 2. Student unable to secure at least 40% marks considering all the components of exam like ISE1, 
+ISE2, MSE & ESE combined shall be graded with ‘F’ grade considered to be failed in the 
+examination of the said course.  
+3. There shall be different grades with their numerical equivalence as specified in detail below, as 
+grades specified from ‘F’ to ‘O’.  However, for a student to get a grade D or above in any course, 
+he/she would have to appear in the MSE and ESE.  
+4. Considering the specific constraints,  Principal may constitute a committee chaired by Dean 
+Quality Assurance to examine the grades awarded in a course.  
+5. In case of Re -examination only absolute grading should be awarded with an upper cap of ‘ A’ 
+grade.  
+7.2.2 Additional Requirements: 
+• Practical and Laboratory Courses: 
+o Courses with practical or laboratory components may have additional passing 
+criteria, reflecting the hands-on skills and technical competencies required for those 
+subjects. 
+o In such cases, students may need to achieve separate passing marks in the practical 
+components, independent of the theoretical portions. 
+o The specific criteria, including minimum marks and required practical 
+competencies, will be clearly communicated by the respective departments. 
+• Institution-Specific Standards: 
+o In certain cases, the institution may prescribe higher passing thresholds or 
+additional criteria beyond the minimum university requirements to ensure academic 
+rigor. 
+o These criteria may include higher overall percentage requirements, additional 
+project submissions, or mandatory attendance standards, subject to the approval of 
+the University of Mumbai. 
+o Such enhancements are intended to promote a deeper understanding of the course 
+material and better prepare students for professional and academic challenges. 
+7.2.3 Transparency and Communication: 
+• The specific passing marks, grading scales, and evaluation criteria for each course will be 
+clearly outlined in the course syllabus and communicated to students at the beginning of 
+the semester. 
+Page 22 of 31 
+ 
+ 
+• This transparency ensures that students have a clear understanding of the performance 
+expectations and can plan their studies accordingly. 
+• Regular feedback from instructors, along with periodic performance reviews, will further 
+support students in meeting these criteria. 
+  Absolute System of Grading: 
+UG Program  
+Percentage of Marks 
+Obtained  
+Letter Grade  
+ 
+Numerical Equivalent 
+Grade Points  
+Performance  
+ 
+85.00 and above O 10 Outstanding 
+80.00 – 84.9 A 9 Excellent 
+70.00 – 79.99 B 8 Very Good 
+60.00 – 69.99 C 7 Good 
+50.00 – 59.99 D 6 Fair  
+45.00 – 49.99  E 5 Average  
+40.00 – 44.99  P 4 Pass 
+Less than 40.00  F 0 Fail 
+ AB 0 Absent 
+ 
+• NO grace marks will be given for any examination.  
+• Specially-abled student shall be given Five (5%) of total marks of the semester appeared 
+by the student across all courses in the semester. For such candidates this rule is also 
+applicable for Special and Re-exam.  
+• CGPA to Marks Conversion: CGPA shall be converted into percentage marks, if required 
+using the following formula:  
+Percentage= (CGPA– 0.75) X 10 
+ 
+7.3 Specific Guidelines for Special Examinations and Grade Improvement: 
+The institution will provide comprehensive and detailed guidelines outlining the specific 
+procedures and eligibility criteria for students appearing in Special Examinations. Similarly, 
+detailed guidelines will be provided for students seeking to improve their grades through re -
+examination, including the number of attempts allowed, the courses eligible, and the impact of the 
+re-examination grade on the student's academic record. 
+➢ There shall be a Special examination for all theory courses in each semester. Special 
+examination shall be conducted after declaration of ESE result and before the commencement of 
+Page 23 of 31 
+ 
+ 
+next semester. Re -examination shall be conducted during the schedule of Special examination. 
+CoE in consultation with HoD and DEC shall prepare Special and re-exam timetable.  
+➢ Also, the students who have secured C to F grade in a course in a semester during 4 -year 
+graduation period, can appear for such special examination in the same semester of the same 
+academic year, for improving grade. Grade penalty of one grade is applicable in such cases.  
+➢ Students who improve his/her CGPA will be issued fresh mark lists by the institute. These mark 
+lists will have star against the subjects for which he/she has appeared for grade improvement and 
+will state “Grade Improvement”.  
+➢ ISE1 and ISE2 marks shall be carried forward in all cases including grade up -gradation 
+till the student passes the course.  
+➢ The special examination shall be of 100 marks and shall be based on all modules in the syllabus. 
+The question paper of special examination shall have one question based on all modules and 
+remaining questions will have only internal options.  
+➢ For re-examination absolute grading shall be used and following grade tables shall be applied 
+for deciding grades.  
+7.4 Well-Defined Norms for Promotion to Subsequent Semesters/Years: 
+Students will be promoted to the next academic year or semester based on their cumulative 
+academic performance across all courses in the current semester or year. The norms for promotion 
+will be clearly defined by the institution and will typically involve a combination of factors, such 
+as the number of courses passed, the overall grade point average achieved, and the number of 
+credits earned. 
+1. ODD to EVEN Semester: There are no restrictions for promotion from odd semester to even 
+semester in an academic year.  
+2. From I Year to II Year: For promotion to the Second Year (IIIrd semester), a student 
+should have completed at least 50% credits at the end of first year.  
+3. From II Year to III Year: For promotion to Third year, a student should have completed 
+at least 50% credits in IInd year and must obtain 70% credits of the first year.  
+4. From III Year to IV Year: For promotion to Fourth year, a student should have at least 
+50% credits in the IIIrd Year and must obtain 70% credits of 1st year and IInd Year.  
+Withholding of Grades: The Grades of a student in a semester shall be withheld and not declared 
+if the student fails to pay the dues to the Institute or has disciplinary action pending against him/her. 
+8. MOOC/SWAYAM/NPTEL Courses: 
+Page 24 of 31 
+ 
+ 
+The autonomous institutions may offer or recognize Massive Open Online Courses (MOOCs) 
+offered through platforms like SWAYAM and NPTEL. The credit transfer policy for these courses 
+will be defined by the institution, adhering to UGC guidelines. The policy will address: 
+• The types of MOOCs eligible for credit transfer. 
+• The maximum credits that can be earned through MOOCs. 
+• The procedure for applying for credit transfer. 
+• The equivalence between MOOC grades/certificates and the institution's grading system. 
+• The credit equivalence for SWAYAM-NPTEL Courses:  
+o 12 weeks:3 credits;  
+o 8 weeks:2 credits;  
+o 4 weeks:1 credit. 
+• SWAYAM-NPTEL Courses are considered for transfer of credits only if the concerned 
+student has successfully completed and obtained the SWAYAM-NPTEL Certificate to this 
+effect. The passing criteria applicable is as declared by NPTEL. 
+9. Liberal Learning Courses (LLC): 
+The autonomous institutions may offer Liberal Learning Courses (LLCs) to provide students with 
+the opportunity to broaden their education beyond their core discipline. These courses aim to foster 
+interdisciplinary learning and may cover subjects in the hum anities, social sciences, and other 
+fields. The institutions will define the following for LLCs: 
+• The objectives and scope of LLCs. 
+• The list of LLCs offered. 
+• The credit structure and workload for LLCs. 
+• The methods of assessment for LLCs. 
+• The integration of LLCs into the overall curriculum. 
+ 
+10. Rules and Regulations for Assessment: 
+The following rules and regulations will govern the assessment of student performance: 
+10.1 Academic and Examination Calendar: 
+Page 25 of 31 
+ 
+ 
+The institution will publish an academic and examination calendar at the beginning of each 
+academic year. This calendar will include: 
+• The dates for all major examinations (MSE and ESE). 
+• The schedule for In-Semester Evaluations. 
+• The dates for submission of assignments and project reports. 
+• The duration of each semester. 
+• Holidays and breaks. 
+• Result declaration dates. 
+• Any other relevant academic deadlines. 
+The academic activities of the institute are governed by academic calendar prepared by 
+time table committee and approved by Dean Academics in consultation with Principal. It 
+shall be notified at the beginning of each academic year. Academic calendar refers to 
+schedule of commencement of instruction for the semester, course delivery period, 
+examinations/evaluation, other academic act ivities, holidays and student major activities 
+schedule. 
+As per UGC regulation on minimum qualifications for appointment of teachers and 
+other academic staff in Universities and Colleges and measures for the maintenance of 
+standards in higher education 2018 should be followed while preparing academic 
+calendar for scheduling 180 days of teaching. 
+Approximately teaching days are 80 -90 in a semester. The academic calendar is strictly 
+adhered to and all other activities including co -curricular and extra -curricular activities 
+should be scheduled so as not to interface with the curricular activities as stipulated in the 
+academic calendar.  
+ The non-conduct of academic activities on any particular teaching day for whatever reason 
+shall be compensated by having the academic sessions conducted on suitable Saturdays or 
+any other holiday by following the particular class time table of the lost teaching day.  
+ Examination calendar shall be prepared by examination committee and approved by 
+academic council. All the examination related activities like conduction of examination, 
+assessment and declaration of results should be strictly adhering to the examination 
+calendar. 
+10.2 Question Paper Setting: 
+Page 26 of 31 
+ 
+ 
+The process of setting question papers will be robust and secure, ensuring fairness and validity. 
+This will involve: 
+• Guidelines for question paper setters, including the syllabus coverage, cognitive levels of 
+questions, and the distribution of marks. 
+• A system for moderating question papers to ensure quality and consistency. 
+• Procedures for maintaining the confidentiality of question papers before, during, and after 
+the examination. 
+• Use of technology and software for paper setting. 
+ 
+10.3 Conduct of Examination: 
+The institution will conduct all examinations in a fair and transparent manner, adhering to the 
+following guidelines: 
+10.3.1 Conduct of ISE: 
+• The course instructor will be responsible for conducting ISE, following the overall 
+guidelines set by the institution. 
+• The methods of assessment, schedule, and weightage for each ISE component will be 
+communicated to the students at the beginning of the semester. 
+• All ISE components will be evaluated and the marks will be promptly recorded. 
+10.3.2 Conduct of Written MSE and ESE: 
+• Written MSE and ESE will be conducted in a designated examination hall under strict 
+invigilation. 
+• Students will be required to adhere to the rules of the examination hall, including rules 
+regarding prohibited items and conduct. 
+• The institution will ensure adequate seating arrangements, lighting, and ventilation in the 
+examination hall. 
+10.3.3 Tutorial Evaluation: 
+• If a course includes tutorials, the evaluation of student performance in tutorials will be 
+based on their participation, problem-solving skills, and assignments. 
+Page 27 of 31 
+ 
+ 
+• The specific methods of evaluation and their weightage will be defined by the course 
+instructor. 
+10.3.4 Practical Courses and Courses with only ISE components: 
+• Practical courses will be evaluated based on continuous assessment of laboratory work, 
+experiments, and viva voce examinations. 
+• Courses with only ISE components will be evaluated based on the various assessment 
+methods employed throughout the semester, as defined in the course syllabus. 
+10.3.5 Assessment of Projects: 
+• Projects will be assessed based on the project proposal, progress reports, the final project 
+report, and oral presentations/demonstrations. 
+• A panel of examiners, including internal and external experts, may be involved in the 
+evaluation process. 
+• Clear criteria for project evaluation will be established and communicated to the students. 
+ 
+11. Assessment of Written Examination: 
+The assessment of written examination answer scripts will be conducted by qualified examiners, 
+following a standardized marking scheme. The process will include: 
+• Providing examiners with a detailed marking scheme. 
+• Conducting moderation sessions to ensure consistency in marking. 
+• Implementing a system for the re-evaluation of answer scripts, if necessary. 
+• Maintaining the confidentiality of the evaluation process. 
+12. Procedure to Show Theory MSE and ESE Answer Books to Students: 
+To ensure transparency, students will be allowed to view their evaluated answer scripts for the 
+MSE and ESE theory examinations. The procedure will include: 
+• A designated time and place for students to view their answer scripts. 
+• Guidelines for students during the viewing process (e.g., they may not be allowed to take 
+photographs or make copies). 
+• A mechanism for students to raise any concerns about the evaluation. 
+Page 28 of 31 
+ 
+ 
+13. Preservation of Question Papers and Answer Books: 
+The institution will establish a policy for the preservation of question papers and answer books, 
+including: 
+• The duration for which these documents will be preserved. 
+• The conditions under which they will be stored. 
+• The procedure for their disposal after the preservation period. 
+14. Tabulation and Declaration of Results: 
+The process of tabulating and declaring results will be accurate, efficient, and timely. 
+14.1 MSE and ESE Results: 
+• The marks obtained by students in the MSE and ESE will be carefully tabulated. 
+• The results will be verified by the Controller of Examinations or a designated authority. 
+• The results will be declared on the official website of the institution and/or through other 
+appropriate channels. 
+14.2 In-Semester Evaluation (ISE): 
+• The marks obtained in ISE components will be compiled by the course instructor and 
+submitted to the examination department. 
+• These marks will be included in the final result tabulation. 
+14.3 Internal Assessment of Lab Courses: 
+• The marks obtained in the internal assessment of laboratory courses will be recorded and 
+submitted to the examination department. 
+14.4 Results: 
+• The final results, including the marks obtained in all components (ISE, MSE, and ESE), 
+will be compiled and declared. 
+• The results will be presented in a clear and understandable format, including grades, SGPI, 
+and CGPI. 
+14.5 Amendment of Results due to errors: 
+• A procedure will be in place to address any errors in the declared results. 
+Page 29 of 31 
+ 
+ 
+• This procedure will involve verification and approval by the appropriate authorities. 
+• Any amendments to the results will be officially notified. 
+15. Unfair Means / Malpractice at Examination: 
+The institution will take a strict stance against any form of unfair means or malpractice during 
+examinations. 
+15.1 Competent Authority: 
+The institution will designate a Competent Authority (e.g., the Examination Committee or a sub -
+committee) to investigate and take action against cases of unfair means. 
+15.2 Procedure for Dealing With Cases of Unfair Means at Examination Hall: 
+If a student is caught using unfair means in the examination hall, the following procedure will be 
+followed: 
+• The invigilator will confiscate any incriminating material. 
+• The invigilator will record the incident in detail and obtain the student's statement. 
+• The matter will be reported to the Competent Authority. 
+• The student may be allowed to complete the examination, but the result will be subject to 
+the decision of the Competent Authority. 
+15.3 Procedure for Dealing with Unfair Means observed during assessment: 
+If unfair means are detected during the assessment of answer scripts, the following procedure will 
+be followed: 
+• The examiner will report the matter to the head of the department and the Competent 
+Authority. 
+• The Competent Authority will investigate the case. 
+• The examiner may be asked to provide evidence. 
+15.4 Procedure to be followed by Complaint Redressal Committee (CRC): 
+The institution will establish a Complaint Redressal Committee (CRC) to handle complaints 
+related to unfair means. The CRC will follow these procedures: 
+15.4.1 For the Purpose of investigating unfair means resorted to by examinee/s at the written 
+MSE OR ESE examination: 
+Page 30 of 31 
+ 
+ 
+• The CRC will conduct a thorough investigation, including gathering evidence and taking 
+statements from the student and invigilator. 
+• The CRC will provide the student with an opportunity to present their case. 
+• The CRC will submit a report with its findings and recommendations to the Competent 
+Authority. 
+15.4.2 For Unfair Means in Conduct of Practical Examination: 
+• The CRC will investigate any allegations of unfair means during practical examinations, 
+including interviewing the examiners and the students involved. 
+15.4.3 For Paper Setter/Examiner/Faculty/Any Other Person Involved in Unfair Means with 
+Conduct of Examination: 
+• The CRC will investigate any allegations of misconduct by paper setters, examiners, 
+faculty, or any other person involved in the examination process. 
+15.4.4 Guidelines for Imposing Punishment for Malpractices/Lapses by Paper 
+Setter/Examiner/Faculty/Any Other Person: 
+The institution will have clear guidelines for imposing penalties for malpractices or lapses by any 
+person involved in the examination process. These guidelines will specify the range of 
+punishments, depending on the severity of the offense. 
+16. Learner’s Report Card: 
+The Learner’s Report Card will provide a comprehensive summary of the student’s academic 
+performance. 
+16.1 Conversion of Marks to Grades and Calculations of GPI (Grade Performance Index): 
+• The institution will define a grading system that converts numerical marks into letter 
+grades. 
+• Each letter grade will be assigned a specific grade point. 
+• The Grade Point Index (GPI) for each course will be calculated by multiplying the grade 
+point by the number of credits for that course. 
+16.2 Calculation of SGPI and CGPI: 
+• The Semester Grade Point Average (SGPI) will be calculated by dividing the sum of the 
+GPIs for all courses in a semester by the total number of credits taken in that semester. 
+Page 31 of 31 
+ 
+ 
+• The Cumulative Grade Point Average (CGPI) will be calculated by dividing the sum of the 
+GPIs for all courses taken up to a given point by the total number of credits earned up to 
+that point. 
+16.3 Submission of Examination Documents to Mumbai University: 
+The institution will submit all required examination -related documents and data to Mumbai 
+University as per the University's guidelines and schedule. 
+16.4 Eligibility for the award of Degree: 
+To be eligible for the award of the Bachelor's degree, students must: 
+• Complete all the prescribed courses. 
+• Earn the required number of credits. 
+• Achieve the minimum CGPI specified by the University. 
+• Fulfill any other requirements as specified by the University and the institution. 

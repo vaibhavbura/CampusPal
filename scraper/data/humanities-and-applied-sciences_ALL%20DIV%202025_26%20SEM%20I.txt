@@ -1,0 +1,894 @@
+TIME / DIV 8.10   - 9.05 9.05   - 10.00 10.00    - 10.20 10.20   - 11.15 11.15   - 12.10 12.10   - 12.50 12.50   - 1.45 1.45   - 2.40  2.40   - 3.35 3.35   - 4.30 
+EM UHV                                                                                            (SS)
+ (NDD)    UHV 
+(SS)
+EM
+ (NDD)    
+UHV
+(SS)
+Abbreviation Abbreviation Batch Roll No
+NP AP A1 1-25
+VRN AC A2 26-50
+NIS AM-I A3 51-75
+VMW PCE-I                                               A11 1-38
+NDD CP A22 39-75
+SSR                    BEE                COMMUNICATION LAB406
+MS EM EM 508/011A
+LABS ROOM N0. Physics Lab 421  Chemistry Lab 416 COMP LAB 304A/304B BEE 418/419 WORKSHOP BASE/215/306
+FRIDAY
+NIKHIL DESAI C-PROGRAMMING
+DR.SUMA  S SREEDHAR BASIC ELECTRICAL &ELECTRONICS ENGINEERING
+MANISHA SAMANT ENGINEERING MECHANICS
+TUESDAY BEE                                         
+(MS)                  
+P  /C  /M                                                                              
+GT/VRN/NIS           
+A2/A3/A1(401)
+PCE-I                                    
+(SS)                  
+CP                                                    
+(VMW)                  
+Faculty SUBJECT
+APPLIED PHYSICS
+VIJITHA R NAIR APPLIED CHEMISTRY
+DR.NILOFER SHAIKH APPLIED MATHEMATICS-I
+EM(011A)/BEE(418)/CP(304A)                                                                                                    
+NDD/MS/VMW                                                         
+A3    A1     A2
+BEE                                         
+(MS)                  
+ AM-I                                    
+(NIS)  
+PCE-I(401)/WS(215/BASEMENT)                                                                                                                       
+A22/A11                                                      
+SS /DB                                                 
+NINISHA PATIL
+ AC                                     
+(VRN)             
+DEPARTMENT OF HUMANITIES & APPLIED SCIENCES
+TIME TABLE - 2025-26
+CLASS / SEM: FE / I                                                                                                                    ROOM NO.:   401                                                                                                                                                                                  DIVISION  A 
+MONDAY
+EM(508)/BEE(418)/CP(304A)                                                                                                  
+NDD/ MS/ VMW                                                               
+A1        A2      A3
+(Tea Break)
+     P  /C  /M                                                                              
+NP/VRN/NIS           
+A1/A2/A3(401)
+CP                                                    
+( VMW)                  
+Lunch Break
+AP                                                    
+(NP)               
+FOREIGN LANGUAGE
+EM(011A)/BEE(418)/CP(304A)                                                                                                  
+UMM/    MS   / VMW                                                                 
+A2     A3        A1
+THURSDAY  AC                                      
+(VRN)                 
+ AM-I                                    
+(NIS)  
+PCE-I (406)/ WS(306/BASEMENT)                                                                                                                       
+A11/A22                                                     
+SS/ GG                                              
+WEDNESDAY PCE- I                                       
+(SS)                 
+P    /C   /M                                                                             
+GT/VRN/NIS           
+A3/A1/A2(401)
+AP                                  
+(NP)              
+BEE                                         
+(MS)                  
+VARSHA WANGIKAR PROFESSIONAL COMMUNICATION & ETHICS-I
+TIME TABLE COORDINATOR TIME TABLE IN CHARGE HEAD OF THE DEPARTMENT                             
+TIME / DIV 8.10    - 9.05 9.05   - 10.00 10.00    - 10.20 10.20   - 11.15 11.15   - 12.10 12.10   - 12.50 12.50   - 1.45 1.45   - 2.40  2.40   - 3.35 3.35   - 4.30 
+EM                                                           
+  (SSJ) UHV
+(SS)
+UHV  
+(SS)
+EM                                                           
+  (SSJ) 
+Abbreviation Abbreviation Batch Roll No
+GT AP B1 76-100
+VRN AC B2 101-125
+NIS  AM-I B3 126-150
+BSG PCE-I                                               B11 76-113
+SSJ CP B22 114-150
+SS BEE                COMMUNICATION LAB
+MS                                                                                EM                                                                          EM
+LABS ROOM N0. Physics Lab 421  Chemistry Lab 416 COMP LAB 304A/304B BEE 418/419 WORKSHOP BASE/215/306
+Faculty SUBJECT
+GAURANG TAWADE APPLIED PHYSICS
+VIJITHA  R NAIR APPLIED CHEMISTRY
+ AM-1                                     
+(NIS)                                                                           
+P    /C   /M                                                                               
+GT/VRN/NIS                  
+B3/B1/B2(417)
+CP                                      
+(BSG)                  
+AP                                                    
+(GT)               
+DR. SUMA SREEDHAR BASIC ELECTRICAL &ELECTRONICS ENGINEERING 406
+MANISHA SAMANT ENGINEERING MECHANICS 508/011A
+DR.NILOFER SHAIKH APPLIED MATHEMATICS-I
+DR. BABITA GAWATE PROFESSIONAL COMMUNICATION & ETHICS-I
+SWAPNIL JAYWANT C-PROGRAMMING
+BEE                                            
+(MS)                   
+PCE-I(406)/WS(306/BASEMENT)                                                              
+B11/B22                                              
+SS/VMW
+EM(508)/BEE(419)/CP(304B)                                                                                                  
+SSJ/ VY/MA                                                                    
+        B2   B3      B1
+THURSDAY AP                                                    
+(GT)                        
+PCE-I (406)/WS(306/BASEMENT)                                                                                                              
+B22/B11                                                  
+SS/GG
+AC                                                                                       
+(VRN)               
+TUESDAY
+P    /C   /M                                                                              
+GT/VRN/ NIS        
+B2/B3/B1(417)
+BEE                                            
+(MS)                   
+AC                                                                                         
+(VRN)                       
+FRIDAY
+EM(508)/BEE(419)/CP(304B)                                                                                                  
+SSJ/ TTK/MA                                                                   
+B3     B1       B2
+PCE-I                                          
+(SS)                   
+CP                                      
+(BSG)                  
+DEPARTMENT OF HUMANITIES & APPLIED SCIENCES
+TIME TABLE - 2025-26
+CLASS / SEM: FE / I                                                                                                           ROOM NO.:  417                                                                                            DIVISION B 
+MONDAY
+    P /C /M                                                                             
+GT/VRN/NIS                                   
+B1/B2/B3(417)
+TEA BREAK
+EM(508)/BEE(418)/CP(304A)                                                                                                  
+SSJ/ MS/MA                                                                
+B1     B2    B3
+LUNCH BREAK
+PCE-I                                           
+(SS)                   
+ AM-1                                     
+(NIS)                                                                           
+BEE                                            
+(MS)                   
+FOREIGN LANGUAGE
+WEDNESDAY
+TIME TABLE COORDINATOR TIME TABLE IN CHARGE HEAD OF THE DEPARTMENT                             
+TIME / DIV 8.10    - 9.05 9.05   - 10.00 10.00    - 10.20 10.20   - 11.15 11.15   - 12.10 12.10   - 12.50 12.50   - 1.45 1.45   - 2.40  2.40   - 3.35 3.35   - 4.30 
+EM                                                           
+  (SDB) 
+(401)
+EM                                                           
+  (SDB) 
+(505)
+EM                                                           
+  (SDB) 
+(401)
+Abbreviation Abbreviation Batch
+GT AP C1 151-175
+VRN AC C2 176-200
+RS  AM-I C3 201-225
+VMW PCE-I                                               C11 151-188
+SDB CP C22 189-225
+UAN BEE                406
+AH                                                                                EM                                                                          508/011A
+LABS ROOM N0. Physics Lab 421  Chemistry Lab 416 COMP LAB 304A/304B BEE 418/419 WORKSHOP BASE/215/306
+P    /C  /M                                                                             
+GT/VRN/RS          
+C2/C3/C1(504)
+EM(508)/BEE(418)/CP(304A)                                                                                                     
+SDB/ AH/BSG                                                           
+C2      C3     C1
+ AM-1                                     
+(RS)                 
+(505)                                                                   
+BEE                                            
+(AH)                 
+(401)           
+CP                                      
+(VMW)             
+(505)               
+Faculty SUBJECT
+GAURANG TAWADE APPLIED PHYSICS
+VIJITHA  R NAIR APPLIED CHEMISTRY
+TUESDAY
+ AM-1                                     
+(RS)               
+(509)                                                                         
+P    /C   /M                                                                              
+GT/VRN/RS                     
+C1/C2/C3(503)
+CP                                                
+( VMW )                            
+(504)
+BEE                                            
+(AH)                 
+(505)                  
+PCE-I(504)/WS(306/BASEMENT)                                                                                                                       
+C11/C22                                            
+UAN/VMW
+DEPARTMENT OF HUMANITIES & APPLIED SCIENCES
+TIME TABLE - 2025-26
+CLASS / SEM: FE / I                                                                                                       ROOM NO.:                                                                                            DIVISION C
+MONDAY
+TEA Break
+BEE                                            
+(AH)              
+(417 )                  
+AC                                                                                       
+(VRN)                      
+(417)              
+Lunch Break
+EM(508)/BEE(418)/CP(304A)                                                                                                    
+DVK/ AH/MA                                                          
+C1    C2     C3
+UHV             
+(UAN)     (401)
+FOREIGN LANGUAGE
+THURSDAY
+AP                                                    
+(GT)                      
+(509)
+PCE-I                                            
+(UAN)         (417)            
+AP                                                    
+(GT)                                 
+(509)    
+UHV                 
+(UAN)       
+(509)
+EM(508)/BEE(418)/CP(304A)                                                                                                  
+SDB/VG/TU                                              
+C3   C1  C2
+WEDNESDAY
+FRIDAY
+UDAY  A NIKAM BASIC ELECTRICAL &ELECTRONICS ENGINEERINGCOMMUNICATION LAB
+ADESH HARDAS ENGINEERING MECHANICS EM
+RANJEET SINGH APPLIED MATHEMATICS-I
+VARSHA WANGIKAR PROFESSIONAL  COMMUNICATION & ETHICS-I
+SAMVITA BAGG C-PROGRAMMING
+AC                                                                                       
+(VRN)                                
+(417)
+P    /C   /M                                                                             
+GT/MA/NIS                         
+C3/C1/C2(510)
+PCE-I                                           
+(UAN)                
+(510)            
+PCE -I(406)/WS(306/BASEMENT)                                                                                                                       
+C22/C11                                          
+UAN/SSH
+TIME TABLE COORDINATOR TIME TABLE IN CHARGE HEAD OF THE DEPARTMENT                             
+ 
+TIME / DIV 8.10    - 9.05 9.05   - 10.00 10.00    - 10.20 10.20   - 11.15 11.15   - 12.10 12.10   - 12.50 12.50   - 1.45 1.45   - 2.40  2.40   - 3.35 3.35   - 4.30 
+EM                                                           
+  (VM) 
+(417)
+Abbreviation Abbreviation Batch Roll No
+SSK AP APPLIED PHYSICS D1 226-250
+VRN AC APPLIED CHEMISTRY D2 251-275
+MRP  AM-I APPLIED MATHEMATICS-I D3 276-300
+RS PCE-I                                              D11 226-263
+VM CP D22 264-300
+UAN BEE                406
+AH                                                                                EM                                                                          ENGINEERING MECHANICS 508/011
+LABS ROOM N0. Physics Lab 421  Chemistry Lab 416 COMP LAB 304A/304B BEE 418/419 WORKSHOP BASE/215/306
+TIME TABLE - 2025-26
+CLASS / SEM: FE / I                                                                                                       ROOM NO.:                                                                                          DIVISION D
+MONDAY
+TEA Break
+ AM-I                                     
+(MRP)           
+(504)                                                                
+EM                                          
+VM                                           
+( 504)                                                     
+Lunch Break
+AC                                                                                       
+(VRN)                  
+(506)               
+CP                                      
+(RS)                     
+(506)        
+FRIDAY
+PCE -I(406)/WS(306/BASEMENT)                                                                                                                       
+D22/D11                                                                      
+UAN/ASK
+WEDNESDAY
+AP                                                    
+(SSK)                                  
+(504)
+PCE-I                                           
+(UAN)         (506)             
+P /C /M                                                                             
+SSK/MA/MRP                                           
+D1/D2/D3(506)
+BEE                                            
+(AH)                 
+(506)         
+THURSDAY
+UHV                 
+(UAN)              
+(506)
+COMMUNICATION LAB
+ADESH HARDAS EM
+Faculty SUBJECT
+DR. SHIVSHANKAR S KORE
+PROF. VIJITHA NAIR
+MANSI R PATIL
+UDAY A NIKAM 
+PROFESSIONAL COMMUNICATION & ETHICS-I
+VISHAL MISAL C-PROGRAMMING
+BASIC ELECTRICAL &ELECTRONICS ENGINEERING
+EM(011A)/BEE(419)/CP(304B)                                                                                                  
+KBG/  VG /SL                                                         
+D1    D2   D3
+TUESDAY
+AP                                                    
+(SSK)                                  
+(506)
+PCE -I                                           
+(UAN)                       
+(510)        
+PCE-I (406)/WS(306/BASEMENT)                                                                                                                       
+D11/D22                                                            
+UAN/GG
+CP                                      
+(RS)                     
+(506)AM-I                                    
+(MRP)                            
+(509)
+P  /C/ M                                                                               
+SSK/MA/MRP                                                    
+D2/D3/D1(402)
+BEE                                            
+(AH)                    
+(402)                  
+EM(508)/BEE(419)/CP(304A)                                                                                                     
+NDD/VY  /AS                                                         
+D2    D3   D1
+UHV                 
+(UAN)           
+(503)
+FOREIGN LANGUAGE
+BEE                                            
+(AH)              
+(510)        
+AC                                                                                       
+(VRN)           
+(505)    
+P /C /M                                                                               
+SSK/MA/MRP                                            
+D3/D1/D2(505)
+EM(508)/BEE(419)/CP(304A)                                                                                                     
+UMM/AH/SML                                                         
+D3    D1   D2
+ROSHNA SANGALE
+DEPARTMENT OF HUMANITIES & APPLIED SCIENCES
+TIME TABLE COORDINATOR TIME TABLE IN CHARGE HEAD OF THE DEPARTMENT                             
+TIME / DIV 8.10    - 9.05 9.05   - 10.00 10.00    - 10.20 10.20   - 11.15 11.15   - 12.10 12.10   - 12.50 12.50   - 1.45 1.45   - 2.40  2.40   - 3.35 3.35   - 4.30 
+EM                                                           
+  (VM) 
+UHV
+(JKR)
+UHV
+(JKR)
+Abbreviation Abbreviation Batch Roll No
+SSK AP E1 301-325
+MAV AC E2 326-350
+MRP  AM-I E3 351-377
+JKR PCE-I                                               E11 301-338
+VM CP E22 339-377
+UP BEE                406
+VG                                                                                EM                                                                          508/011
+LABS ROOM N0. Physics Lab 421  Chemistry Lab 416 COMP LAB 304A/304B BEE 418/419 WORKSHOP BASE/215/306
+DR. SHIVSHANKAR S KORE
+Faculty
+JISHA K R PROFESSIONAL COMMUNICATION & ETHICS-I
+VISHAL MISAL C-PROGRAMMING
+URJASHREE PATIL BASIC ELECTRICAL &ELECTRONICS ENGINEERING
+MANSI R PATIL APPLIED MATHEMATICS-I
+VEENA GAWADE ENGINEERING MECHANICS EM
+COMMUNICATION LAB
+FOREIGN LANGUAGEEM                            
+(VM)                                                          
+BEE                                            
+(VG)                   
+TEA Break
+AC                                                                                       
+(MAV)                  
+APPLIED PHYSICS
+FRIDAY
+ AM-I                                     
+(MRP)                                                                         
+BEE                                            
+(VG)                   
+DR. MEGHA ARYA VARSHNEYA APPLIED CHEMISTRY
+SUBJECT
+THURSDAY AP                                                    
+(SSK)                      
+PCE                                            
+(JKR)                   
+AC                                                                                       
+(MAV)                  
+EM(011A)/BEE(418)/CP(304B)                                                                                                     
+VKS/VG/ SL                                                            
+E2    E3      E1
+EM(011A)/BEE(418)/CP(304B)                                                                                               
+UV/  VG / SL                                                           
+E3        E1      E2
+Lunch BreakWEDNESDAY CP                                      
+(UP)                  
+PCE-I                                            
+(JKR)                   
+BEE                                            
+(VG)                   
+P    /C   /M                                                                             
+NP/MAV/MRP                                                      
+ E3/E1/E2(503)
+PCE-I(406)/WS(306/BASEMENT)                                                                                                                       
+E22/E11                                                       
+JKR/BK
+TUESDAY
+EM(011A)/BEE(419)/CP(304B)                                                                                                     
+MPJ/ SF /MB                                                              
+E1     E2      E3
+ AM-I                                     
+(MRP)                                                                         
+AP                                                    
+(SSK)                      
+P    /C   /M                                                                              
+NP/MAV/MRP         
+E2/E3/E1(503)
+PCE -I(503)/ WS(215/BASEMENT)                                                                                                                       
+E11/E22                                                    
+JKR/MA
+CP                                      
+(UP)                  
+DEPARTMENT OF HUMANITIES & APPLIED SCIENCES
+TIME TABLE - 2025-26
+CLASS / SEM: FE / I                                                                                                     ROOM NO.:  503                                                                                                DIVISION  E 
+MONDAY
+P  /C /M                                                                              
+GT/MAV/SS           
+E1/E2/E3(503)
+TIME TABLE COORDINATOR TIME TABLE IN CHARGE HEAD OF THE DEPARTMENT                             
+TIME / DIV 8.10    - 9.05 9.05   - 10.00 10.00    - 10.20 10.20   - 11.15 11.15   - 12.10 12.10   - 12.50 12.50   - 1.45 1.45   - 2.40  2.40   - 3.35 3.35   - 4.30 
+UHV
+(JKR)
+EM                                                           
+  (UV) 
+UHV
+(JKR)
+EM                                                           
+  (UV) 
+Abbreviation Abbreviation Batch Roll No
+SSK AP F1 378-403
+MAV AC F2 404-429
+MRP  AM-I F3 430-456
+JKR PCE-I                                               F11 378-416
+UV UMESH VAZUKAR CP F22 417-456
+VG BEE                406
+AP                                                                                EM                                                                          ENGINEERING MECHANICS 508/011
+LABS ROOM N0. Physics Lab 421  Chemistry Lab 416 COMP LAB 304A/304B BEE 418/419 WORKSHOP BASE/215/306
+CP       (AP)                                                  AM-I                                     
+(MRP)                                                                         
+PCE-I                                           
+(JKR)                   
+ASHWINI PARKAR EM
+MANSI R PATIL APPLIED MATHEMATICS-I
+JISHA K R PROFESSIONAL  COMMUNICATION & ETHICS-I
+C-PROGRAMMING
+VEENA GAWADE BASIC ELECTRICAL &ELECTRONICS ENGINEERING
+FOREIGN LANGUAGE
+Faculty SUBJECT
+DR. SHIVSHANKAR KORE APPLIED PHYSICS
+DR. MEGHA ARYA VARSHNEYA APPLIED CHEMISTRY
+COMMUNICATION LAB
+FRIDAY
+P    /C   /M                                                                              
+NP/NRC/MRP                                                             
+F3/F1/F2(417)
+AP                                                    
+(SSK)                      
+BEE                                            
+(VG)                   
+PCE-I                                           
+(JKR)                   
+TEA Break
+PCE-I (406)/  WS(306/BASEMENT)                                                                                                                       
+F11/F22                                                   
+JKR/GG
+Lunch Break
+BEE                                            
+(VG)                   
+P    /C   /M                                                                             
+NP/NRC/MRP                                            
+F1/F2/F3(504)
+TUESDAY
+AM-I                                     
+(MRP)                                                                         
+CP      (AP)                                                
+THURSDAY
+EM(011 A)/BEE(419)/CP(304B)                                                                                                     
+MPJ/SA / SML                                                            
+ F2        F3      F1
+EM(011A)/BEE(419)/CP(304B)                                                                                                        
+UV / TTK /    AP                                                                       
+F3      F1      F2                     
+AC                                                                                       
+(MAV)                  
+EM(508)/BEE(418)/CP(304A)                                                                                                     
+UV/ TTK/SML                                                                 
+F1       F2     F3
+WEDNESDAY
+  PCE-I (406)/WS(306/BASEMENT)                                                                                                                       
+F22/F11                                                          
+JKR/BK
+AC                                                                                       
+(MAV)                  
+P    /C   /M                                                                              
+NP/NRC/MRP                                                                         
+F2/F3/F1(504)
+BEE                                            
+(VG)                   
+CLASS / SEM: FE / I                                                                                                     ROOM NO.:  504                                                                                                DIVISION  F
+MONDAY AP                                                    
+(SSK)                      
+DEPARTMENT OF HUMANITIES & APPLIED SCIENCES
+TIME TABLE - 2025-26
+TIME TABLE COORDINATOR TIME TABLE IN CHARGE HEAD OF THE DEPARTMENT                             
+TIME / DIV 8.10    - 9.05 9.05   - 10.00 10.00    - 10.20 10.20   - 11.15 11.15   - 12.10 12.10   - 12.50 12.50   - 1.45 1.45   - 2.40  2.40   - 3.35 3.35   - 4.30 
+UHV (PW)
+Abbreviation Abbreviation Batch
+GT AP G1
+MAV AC APPLIED CHEMISTRY G2
+SS  AM-I APPLIED MATHEMATICS-I G3
+PW PCE-I                                               G11
+UV CP G22
+MCP BEE                BASIC ELECTRICAL &ELECTRONICS ENGINEERING 406
+MB                                                                                EM                                                                          ENGINEERING MECHANICS 508/011
+LABS ROOM N0. Physics Lab 421  Chemistry Lab 416 COMP LAB 304A/304B BEE 418/419 WORKSHOP BASE/215/306
+DEPARTMENT OF HUMANITIES & APPLIED SCIENCES
+TIME TABLE - 2025-26
+CLASS / SEM: FE / I                                                                                                     ROOM NO.: 505                                                                                            DIVISION  G
+UMESH VAZURKAR 495-531
+MAHESH PAWASKAR COMMUNICATION LAB
+EM
+DR.MEGHA ARYA VARSHNEYA 482-506
+SHWETA SHINDE 507-531
+PARVATHY WARRIER 457-494PROFESSIONAL COMMUNICATION  & ETHICS-I
+APPLIED PHYSICS
+C-PROGRA MMING
+Faculty SUBJECT Roll No
+GAURANG TAWADE 457-481
+ MANGESH BHISE
+FRIDAY
+EM                                          
+(UV)                                                        
+PCE-I (406)/ WS(306/BASEMENT)                                                                                                                       
+G22/G11                                          
+PW/ASK
+AC                                                                                       
+(MAV)                  
+P    /C   /M                                                                              
+GT/MAV/SS                                 
+G3/G1/G2(505)
+AP                                                    
+(GT)                      
+CP   (MB)                                                    
+WEDNESDAY
+AM-I                                     
+(SS)                                                                         CP(MB)                                                        
+EM(508)/BEE(418)/CP(304A)                                                                                                    
+SSJ/ MCP / TU                                                               
+G2   G3   G1
+UHV (PW)
+Lunch Break
+P    /C   /M                                                                             
+NP/MAV/SS                                               
+G1/G2/G3(505)
+PCE-I                                            
+(PW)                   
+TUESDAY
+PCE-I (406)/WS(306/BASEMENT)                                                                                                                       
+G11/G22                                                    
+PW/BK
+THURSDAY PCE-I                                           
+(PW)                   
+MONDAY BEE                                            
+(MCP)                   
+TEA Break
+EM                                          
+(UV)                                                        
+AP                                                    
+(GT)                      
+AC                                                                                       
+(MAV)                  
+FOREIGN LANGUAGE
+EM(508)/BEE(418)/CP(304A)                                                                                                    
+UV/MCP / TU                                                               
+G3      G1     G2
+AM-I                                     
+(SS)                                                                         
+BEE                                            
+(MCP)                   
+EM(011A)/BEE(419)/CP(304B)                                                                                                  
+PSR /  MCP /MA                                                                
+G1  G2  G3
+P    /C   /M                                                                          
+SRY/MAV/SS                                                   
+G2/G3/G1(505)
+BEE                                            
+(MCP)                   
+TIME TABLE COORDINATOR TIME TABLE IN CHARGE HEAD OF THE DEPARTMENT                             
+TIME / DIV 8.10    - 9.05 9.05   - 10.00 10.00    - 10.20 10.20   - 11.15 11.15   - 12.10 12.10   - 12.50 12.50   - 1.45 1.45   - 2.40  2.40   - 3.35 3.35   - 4.30 
+Abbreviation Abbreviation Batch
+SRY AP APPLIED PHYSICS Batch
+NRC AC APPLIED CHEMISTRY H1
+SS  AM-I APPLIED MATHEMATICS-I H2
+UV PCE-I                                              H3
+MCP CP H11
+PW BEE                BASIC ELECTRICAL &ELECTRONICS ENGINEERING H22
+MB                                                                                EM                                                                          ENGINEERING MECHANICS 508/011
+LABS ROOM N0. Physics Lab 421  Chemistry Lab 416 COMP LAB 304A/304B BEE 418/419 WORKSHOP BASE/215/306
+UMESH VAZURKAR 582-606
+AM-I                                     
+(SS)                                                                         
+Faculty SUBJECT Roll No
+DR.SHRIGANESH R YADAV Roll No
+DR.NITESH R CHINDARKAR 532-556
+PROFESSIONAL COMMUNICATION & ETHICS-I
+CP (MB)                                                     
+THURSDAY
+UHV (PW)TUESDAY
+SHWETA SHINDE 557-581
+PCE-I                                            
+(PW)                   
+PCE-I                                            
+(PW)                   
+P    /C   /M                                                                            
+NP/NRC/SS         
+H1/H2/H3(506)
+P    /C   /M                                                                             
+NP/NRC/SS                                                                         
+H3/H1/H2(506)
+EM                                          
+(UV)                                                        
+BEE                                            
+(MCP)                   
+P    /C   /M                                                                              
+NP/NRC/SS                                                                         
+H2/H3/H1(506)
+PARVATHY WARRIER 570-606
+ MANGESH BHISE EM
+MAHESH PAWASKAR 532-569
+AC                                                                                       
+(NRC)                  
+CP  (MB)                                                   
+BEE                                            
+(MCP)                   UHV (PW) FOREIGN LANGUAGEFRIDAY
+TIME TABLE - 2025-26
+CLASS / SEM: FE / I                                                                                               ROOM NO.: 506                                                                                          DIVISION  H
+MONDAY
+EM                                          
+(UV )                                                       
+TEA Break
+AC                                                                                       
+(NRC)                  
+AP                                                    
+(SRY)                      
+LUNCH BREAK
+EM(011A)/BEE(419)/CP(304B)                                                                                                     
+VKS  / TTK/ SL                                                            
+H1      H2       H3
+PCE-I (406)/ WS(306/BASEMENT)                                                                                                                       
+H11/H22                                           
+PW/GG
+WEDNESDAY
+EM(011A)/BEE(419)/CP(304B)                                                                                                       
+VKS/  MCP  / MB                                                  
+H3     H1       H2 
+AM-I                                     
+(SS)                                                                         
+BEE                                            
+(MCP)                   
+PCE -I(406)/ WS(306/BASEMENT)                                                                                                                       
+H22/H11                                                
+PW/GG
+AP                                                    
+(SRY)                      
+DEPARTMENT OF HUMANITIES & APPLIED SCIENCES
+EM(508)/BEE(418)/CP(304A)                                                                                                     
+KBG/  SA  / AP                                                                    
+H2          H3        H1
+C-PROGRAMMING
+TIME TABLE COORDINATOR TIME TABLE IN CHARGE HEAD OF THE DEPARTMENT                             
+TIME / DIV 8.10    - 9.05 9.05   - 10.00 10.00    - 10.20 10.20   - 11.15 11.15   - 12.10 12.10   - 12.50 12.50   - 1.45 1.45   - 2.40  2.40   - 3.35 3.35   - 4.30 
+Abbreviation Abbreviation Batch
+SRY AP APPLIED PHYSICS I1
+NRC AC APPLIED CHEMISTRY I2
+RS  AM-I APPLIED MATHEMATICS-I I3
+DVK PCE-I                                              I11
+SBS CP C-PROGRAMMING I22
+SG BEE                BASIC ELECTRICAL &ELECTRONICS ENGINEERING 406
+AP                                                                                EM                                                                          ENGINEERING MECHANICS 508/011
+LABS ROOM N0. Physics Lab 421  Chemistry Lab 416 COMP LAB 304A/304B BEE 418/419 WORKSHOP BASE/215/306
+TIME TABLE - 2025-26
+DR.SURBHI GOUR COMMUNICATION LAB
+ASHWINI PARKAR
+DR.NITESH R CHINDARKAR 633-658
+DEPARTMENT OF HUMANITIES & APPLIED SCIENCES
+THURSDAY
+EM(508)/BEE(418)/CP(304A)                                                                                                     
+UMM/  AH /AP                                                               
+I3    I1       I2
+AP                                                    
+(SRY)                                    
+P  / C / M                                                                                 
+SRY/NRC /RS                                                                       
+I3/I1/I2 (509)
+DILIP KUNTE 607-645
+DR.SANGRAM SAVARGAVE 646-685
+EM
+FRIDAY
+PCE-I (406)/ WS(306/BASEMENT)                                                                                                                       
+I22/I11                                                                
+SG/SSH
+AP                                                    
+(SRY)                                  
+AC                                                                                       
+(NRC)                                                 
+BEE                                            
+(SBS)                                      
+RANJEET  SINGH 659-685
+EM(508)/BEE(418)/CP(304A)                                                                                                     
+UMM/  SLS  /MB                                                            
+I2     I3       I1
+PCE-I                                            
+(SG)                                   
+CP                            
+(AP)                                                                                    
+Faculty SUBJECT Roll No
+DR.SHRIGANESH R YADAV 607-632
+P   /C /M                                                                              
+SRY/NRC/RS                                                                         
+I2/I3/I1(509)
+UHV                                              
+SGWEDNESDAY EM                                          
+(DVK)                                                                                            
+AC                                                                                       
+(NRC)                                  
+TUESDAY
+CLASS / SEM: FE / I                                                                                                ROOM NO.: 509                                                                                         DIVISION  I
+MONDAY AM-I                                     
+(RS)                                                                         
+AM-I                                     
+(RS)                                                                         
+BEE                                            
+(SBS)                                      
+PCE-I                                            
+(SG)                                        
+TEA Break
+EM(011 A)/BEE(419)/CP(304B)                                                                                                     
+UMM/  SLS  /AP                                                             
+I1     I2       I3
+CP                            
+(AP)                                                                                    FOREIGN LANGUAGE
+Lunch Break
+PCE-I(509)/ WS(306/BASEMENT)                                                                                                                       
+I11/I22                                                                   
+SG/DB                                
+P /C  /M                                                                              
+SRY/NRC/RS                                              
+I1/I2/I3(509)
+UHV                                           
+SG
+BEE                                            
+(SBS)                                      
+EM                                          
+(DVK)                                                                             
+PROFESSIONAL  COMMUNICATION & ETHICS-I
+TIME TABLE COORDINATOR TIME TABLE IN CHARGE HEAD OF THE DEPARTMENT                             
+TIME / DIV 8.10    - 9.05 9.05   - 10.00 10.00    - 10.20 10.20   - 11.15 11.15   - 12.10 12.10   - 12.50 12.50   - 1.45 1.45   - 2.40  2.40   - 3.35 3.35   - 4.30 
+Abbreviation Abbreviation Batch
+SRY AP APPLIED PHYSICS J1
+NRC AC APPLIED CHEMISTRY J2
+RS AM-I APPLIED MATHEMATICS-I J3
+RKB PCE-I                                               J11
+SG CP C-PROGRAMMING J22
+SBS BEE                BASIC ELECTRICAL &ELECTRONICS ENGINEERING 406
+TU TUSHAR UBALE                                                                                EM                                                                          ENGINEERING MECHANICS 508/011
+LABS ROOM N0. Physics Lab 421  Chemistry Lab 416 COMP LAB 304A/304B BEE 418/419 WORKSHOP BASE/215/306
+Faculty SUBJECT Roll No
+BEE                                            
+(SBS)                                            
+EM(011A)/BEE(4I9)/CP(304B)                                                                                                       
+MPJ/  SLS  /AP                                                     
+J1     J2       J3 
+EM
+DR. RAJESH BEHRA 683-717
+718-756DR.SURBHI GOUR
+COMMUNICATION LAB
+DR.SHRIGANESH R YADAV 686-709
+DR.NITESH R CHINDARKAR 710-733
+RANJEET  SINGH 734-756
+PCE-I (406)/  WS(306/BASEMENT)                                                                                                                       
+J22/J11                                                        
+SG/BK
+PCE-I                                            
+(SG)                                     
+DEPARTMENT OF HUMANITIES & APPLIED SCIENCES
+AC                                                                                       
+(NRC)                                 
+UHV                       
+(SG)
+P    /C   /M                                                                               
+SRY/NRC/RS                                                                        
+J2/J3/JI(510)
+BEE                                            
+(SBS)                                      
+EM(508)/BEE(418)/CP(304A)                                                                                                       
+KBG/SF/SJ                                                 
+J2     J3       J1 
+PCE-I                                            
+(SG)                                           
+CP                                      
+(TU)                                              
+THURSDAY
+WEDNESDAY BEE                                            
+(SBS)                                    
+AP                                                    
+(SRY)                                          
+TUESDAY
+PCE-I (406)/WS(306/BASEMENT)                                                                                                                       
+J11/J22                                                
+SG/MA
+AC                                                                                       
+(NRC)                                                    
+TIME TABLE - 2025-26
+CLASS / SEM: FE / I                                                                                                ROOM NO.: 510                                                                                         DIVISION  J
+MONDAY
+TEA Break
+AP                                                    
+(SRY)                                     
+AM-I                                     
+(RS)                                                                         
+Lunch Break
+EM                                          
+(RKB)                                                                           
+CP                                                 
+(TU)                                                                                                     
+FRIDAY
+EM(508)/BEE(418)/CP(304A)                                                                                                       
+PSJ/  SLS /SJ                                                   
+J3     J1       J2
+P    /C   /M                                                                               
+SRY/NRC/RS                                                                        
+J3/J1/J2(510)
+P   /C /M                                                                             
+SRY/NRC/RS                                          
+J1/J2/J3(510)
+EM                                          
+(RKB)                                                                            UHV   (SG) FOREIGN LANGUAGE
+DR.SANGRAM SAVARGAVE
+PROFESSIONAL COMMUNICATION & ETHICS-I
+AM-I                                     
+(RS)                                                                         
+TIME TABLE COORDINATOR TIME TABLE IN CHARGE HEAD OF THE DEPARTMENT                             

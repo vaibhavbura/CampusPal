@@ -127,52 +127,64 @@ Head of Department
 PhD
 Experience
 22 years
-Dr. Mamta Kurvey
-Computer Engineering
-Assistant Professor
-PhD
-Experience
-27 years
 Dr. Sukhada Aloni
 Computer Engineering
 Assistant Professor
 PhD
 Experience
 18 years
-Prof. Varsha Wangikar
+Dr. Mamta Kurvey
 Computer Engineering
 Assistant Professor
-M.E
+PhD
 Experience
-23 years
-Prof. Merlin Priya Jacob
-Computer Engineering
-Assistant Professor
-M.E
-Experience
-16 years
-Prof. Deepali Kayande
-Computer Engineering
-Assistant Professor
-M.Tech
-Experience
-16 years
+27 years
 Prof. Archana Kotangale
 Computer Engineering
 Assistant Professor
 Pursuing PhD
 Experience
 12 years
+Prof. Merlin Priya Jacob
+Computer Engineering
+Assistant Professor
+M.E
+Experience
+16 years
 Prof. Ramya R B
 Computer Engineering
 Assistant Professor
 M.E
 Experience
 12 years
+Prof. Varsha Wangikar
+Computer Engineering
+Assistant Professor
+M.E
+Experience
+23 years
+Prof. Manisha Samant
+Computer Engineering
+Assistant Professor
+Pursuing PhD
+Experience
+18 years
+Prof. Selvin Furtado
+Computer Engineering
+Assistant Professor
+M.Tech
+Experience
+12 years
 Dr. Babita Gawate
 Computer Engineering
 Assistant Professor
 PhD
+Experience
+16 years
+Prof. Deepali Kayande
+Computer Engineering
+Assistant Professor
+M.Tech
 Experience
 16 years
 Prof. Shamika Mule
@@ -187,22 +199,16 @@ Assistant Professor
 M.E
 Experience
 14 years
-Prof. Harshali Bhuwad
-Computer Engineering
-Assistant Professor
-Pursuing PhD
-Experience
-14 years
-Prof. Suchita Dange
-Computer Engineering
-Assistant Professor
-M.Tech
-Experience
-4 years
 Prof. Deepak Khachane
 Computer Engineering
 Assistant Professor
 M.E
+Experience
+14 years
+Dr. Harshali Bhuwad
+Computer Engineering
+Assistant Professor
+PhD
 Experience
 14 years
 Prof. Vishakha Chaudhari
@@ -211,16 +217,16 @@ Assistant Professor
 M.E
 Experience
 13 years
-Prof. Pranali Patil
-Computer Engineering
-Assistant Professor
-M.E
-Experience
-11 years
 Prof. Ashvini Gaikwad
 Computer Engineering
 Assistant Professor
 Pursuing PhD
+Experience
+11 years
+Prof. Pranali Patil
+Computer Engineering
+Assistant Professor
+M.E
 Experience
 11 years
 Prof. Tanvi Kapdi
@@ -229,60 +235,60 @@ Assistant Professor
 Pursuing PhD
 Experience
 10 years
-Prof. Rushikesh Nikam
+Dr. Rushikesh Nikam
 Computer Engineering
 Assistant Professor
-Pursuing PhD
+PhD
 Experience
 10 years
-Prof. Selvin Furtado
-Computer Engineering
-Assistant Professor
-M.Tech
-Experience
-12 years
 Prof. Arathi Kamble
 Computer Engineering
 Assistant Professor
 M.E
 Experience
 11 years
-Prof. Vandana Virbhadre
-Computer Engineering
-Assistant Professor
-M.E
-Experience
-5 years
-Prof. Harshada Sonkamble
-Computer Engineering
-Assistant Professor
-M.E
-Experience
-13 years
-Prof. Manasi Chouk
-Computer Engineering
-Assistant Professor
-M.E
-Experience
-3 years
-Prof. Krishnapriya S.
-Computer Engineering
-Assistant Professor
-M.E
-Experience
-4 years
 Prof. Reshma Koli
 Computer Engineering
 Assistant Professor
 Pursuing PhD
 Experience
 15 years
+Prof. Harshada Sonkamble
+Computer Engineering
+Assistant Professor
+M.E
+Experience
+13 years
+Prof. Suchita Dange
+Computer Engineering
+Assistant Professor
+M.Tech
+Experience
+4 years
+Prof. Vandana Virbhadre
+Computer Engineering
+Assistant Professor
+M.E
+Experience
+5 years
+Prof. Krishnapriya S.
+Computer Engineering
+Assistant Professor
+M.E
+Experience
+4 years
 Prof. Priyanka Lahot
 Computer Engineering
 Assistant Professor
 M.E
 Experience
 5 years
+Prof. Manasi Chouk
+Computer Engineering
+Assistant Professor
+M.E
+Experience
+3 years
 Prof. Manjusha Adsare
 Computer Engineering
 Assistant Professor

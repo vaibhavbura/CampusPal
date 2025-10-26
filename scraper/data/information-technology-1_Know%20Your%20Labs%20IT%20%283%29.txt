@@ -1,0 +1,272 @@
+A. P. Shah Institute of Technology
+Kasarvadavali, Ghodbandar Road,Thane(W) 
+Pin-400615, Maharashtra, India
+Department of Information 
+Technology
+Know Your Lab's
+A. P. Shah Institute of Technology
+Kasarvadavali, Ghodbandar Road,Thane(W) 
+Pin-400615, Maharashtra, India
+INDEX
+A. P. Shah Institute of Technology
+Kasarvadavali, Ghodbandar Road,Thane(W) 
+Pin-400615, Maharashtra, India
+Lab No.
+Lab No. Lab Name Page No.
+301
+302
+303
+309
+313
+317
+318
+INDEX
+Software Development & Operations
+Network Design & Analysis
+Operating System Design
+Algorithms & Complexity Theory
+System & Network Security
+Open Source Technologies
+Centralized Server Room
+04
+06
+08
+10
+12
+14
+16
+
+A. P. Shah Institute of Technology
+Kasarvadavali, Ghodbandar Road,Thane(W) 
+Pin-400615, Maharashtra, India
+Vision and Mission
+To develop, support and maintain state-of-art infrastructure to serve as a
+potent resource hub for IT industries.
+To inculcate the problem solving, analytical, logical skills and to promote the
+culture of creativity and innovation among the students.
+To adapt with the transformation of the technology emphasizing on inter-
+disciplinary studies, exposure to emerging technologies and imbibing high
+standards of professional ethics and social responsibilities in all endeavors.
+1.
+2.
+3.
+To be a prime center of excellence by transforming students into globally
+competent IT professionals.
+To provide conducive and collaborative environment to meet contemporary &
+future Engineering challenges by project based and value-added education
+with the support of trained faculty.
+APSIT aspires to be a premier institute producing globally competent
+engineering professionals to contribute towards socio-economic growth of India.
+Institute Vision
+Institute Mission
+Department Vision
+Department Mission
+Lab Area: 83.71 sq. mts.  Number of Systems: 30 
+A. P. Shah Institute of Technology, Thane
+Department of Information Technology
+301
+Software Development & 
+Operations
+Lab No
+Basic Configuration Software's
+30 machines with 16GB RAM & Intel 
+core i7 Processor 
+TensorFlow
+Kile
+Planner
+Android Studio
+Eclipse IDE
+Lab Cost : 15,56,125/-
+Name of the Lab Incharge
+Prof. Rujata Chaudhari
+A. P. Shah Institute of Technology, Thane
+Department of Information Technology
+301
+Software Development & 
+Operations
+Lab No
+ Software Development & Operations Lab aims at giving exposure to
+students to an environment where building, testing, and releasing software
+can happen rapidly, frequently and more reliably. It also emphasises on
+modernizing, rebuilding & optimizing Apps and Infrastructure during
+Software Development and Deployment.
+Lab Area:82.94 sq. mts. Number of System's: 30
+ 
+30 machines with 8GB RAM 
+& Intel core i5 Processor,
+Wireshark 
+Nmap 
+NetKit
+Cisco Packet
+Tracer
+A. P. Shah Institute of Technology, Thane
+Department of Information Technology
+302 Network Design & Analysis
+Lab No
+Basic Configuration Software's
+Lab Cost :13,39,890/-
+Name of the Lab Incharge
+  Prof. Sonal Balpande
+A. P. Shah Institute of Technology, Thane
+Department of Information Technology
+302 Network Design & Analysis
+Lab No
+ The objective of Network Design and Analysis Lab is to demonstrate the
+basics of designing a network taking into consideration the users, services and
+locations of the hosts. It also focuses on optimizing design of Network
+through repeated simulations with the aid of Open source simulation tools like
+NS2.
+Lab Area: 82.94 sq. mts. Number of Systems: 25
+Lab Cost : 11,16,575/- 
+A. P. Shah Institute of Technology, Thane
+Department of Information Technology
+303 Operating System Design
+Lab No
+Basic Configuration Software's
+Oracle Virtual
+Box
+MASM
+GCC 
+JDK 
+VMWare
+Name of the Lab Incharge
+   Prof. Sonal Jain
+ 
+25 machines with 8GB RAM 
+& Intel core i5 Processor
+A. P. Shah Institute of Technology, Thane
+Department of Information Technology
+303 Operating System Design
+Lab No
+ The objective of Operating System Design Lab is to let students understand and
+appreciate the principles in the design and implementation of operating systems.
+In this lab on Linux environment students get hands-on with the implementation
+of OS concepts. Lab assignments includes experiments on understanding,
+customizing booting procedure of Operating Systems & experiments on
+Network Installation, VNC Installation, Clone Installation of OS.
+Lab Area: 82.94 sq. mts. Number of Systems: 30
+A. P. Shah Institute of Technology, Thane
+Department of Information Technology
+309 Algorithms & Complexity Theory
+Lab No
+Basic Configuration Software's
+ 
+30 machines with 8GB RAM 
+& Intel core i5 Processor
+DOSEMU 
+Python 
+PDB
+JDK
+GCC
+Lab Cost : 13,39,890/-
+Name of the Lab Incharge
+ Prof. Geetanjali Kalme 
+A. P. Shah Institute of Technology, Thane
+Department of Information Technology
+309
+Lab No
+Algorithms & Complexity Theory
+ Algorithms and Complexity Theory Lab Focuses on providing environment
+where students can determine the inherent difficulty of computational problems,
+classifying problems according to their inherent difficulty, designing and
+analyzing algorithms that use computational resources as efficiently as possible.
+Lab Area: 78.65 sq. mts.  Number of Systems: 24
+A. P. Shah Institute of Technology, Thane
+Department of Information Technology
+313 System & Network Security
+Basic Configuration Software's
+24 machines with 8 GB RAM & Intel
+core i5 Processor
+MySQL 
+PostgreSQL
+CrypTool
+Nessus
+Lab Cost : 10,97,229.6/- 
+Name of the Lab Incharge
+Prof. Neha Deshmukh
+Lab No
+A. P. Shah Institute of Technology, Thane
+Department of Information Technology
+313
+Lab No
+System & Network Security
+ System & Network Security Lab focuses on articulating the need for Cyber
+security in computer systems, networks, and world wide web. It also focuses on
+Demonstration & Orchestration of various threat scenarios, Network attacks.
+This Lab also gives emphasis on discovering cyber security holes in standard
+networking protocols such as TCP/IP, ARP, DNS, Ethernet, BGP etc, &
+demonstrating mitigation methods for same.
+A. P. Shah Institute of Technology, Thane
+Department of Information Technology
+317 Open Source Technologies
+Lab No
+Basic Configuration Software's
+Lab Area: 122.32 sq. mts. Number of System's: 30
+30 machines with 8GB RAM & Intel core
+i5 Processor, 5 machines with 16 GB
+RAM & Intel Core i7 processor & 4 iOS
+Systems
+Docker 
+ELK Stack
+NGINX
+Nagios
+Lab Cost : 2220642/-  
+Name of the Lab Incharge
+Prof. Yaminee Patil
+
+A. P. Shah Institute of Technology, Thane
+Department of Information Technology
+317 Open Source Technologies
+Lab No
+ Open Source Technologies Lab aims at providing knowledge of emerging
+open source technologies to Students and expose students to open source
+software's. This lab is also a initiative named as Open Source Experimental
+Lab which is a collaborative effort of APSIT and ASHNIK PTE LTD
+Singapore to impart skills in the areas of open source technologies including
+Database, Docker, Elastic Stack, NGINX, Cloud Computing to develop
+necessary industry skills.
+A. P. Shah Institute of Technology, Thane
+Department of Information Technology
+Lab No
+318
+ Centralized Server Room
+APSIT offers comprehensive IT facilities and services, supported by a state-of-
+the-art networking environment. Networking Environment is designed to
+enhance learning, research, teaching, and administrative processes for all
+stakeholders. The entire Intranet is facilitated with structured cabling & wireless
+connectivity, ensuring that all departments are connected to a centralized server
+room either through wired or wireless means.
+To facilitate Internet/Internet connectivity, APSIT has deployed over 80 Gigabit
+Ethernet switches, 70 WI-FI 5/6 routers which enable more than 1000
+workstations/nodes, 500 Laptops on campus to connect to Centralized Server
+Room. This high-speed connectivity ensures efficient communication and data
+transfer within the campus network.
+APSIT boasts a centralized server room that houses dedicated servers accessible
+over Intranet / Internet, L3 switches, firewalls, and gateways. This setup
+provides the essential infrastructure for the network and ensures secure and
+reliable connectivity for all users. To prevent disruptions, the campus network &
+IT infrastructure is backed up by an uninterruptible power supply (UPS) with a
+capacity of 190 KVA. This backup power is provided through an online UPS
+system from Vertiv (180 KVA) and APC (10 KVA), ensuring continuous
+connectivity to the internet and uninterrupted access to network resources. 
+
+ 
+Additionally, APSIT has implemented a comprehensive CCTV network that is
+streamed over the intranet and internet. This network consists of over 200 IP
+cameras strategically placed throughout the campus to enhance security and
+monitor key areas.
+A. P. Shah Institute of Technology, Thane
+Department of Information Technology
+318 Centralized Server Room
+Lab No
+
+A. P. Shah Institute of Technology
+Department of Information Technology
+A. P. Shah Institute of Technology
+Department of Information Technology
+ It is a first of its kind effort to provide training and international
+certification on futuristic technologies under one roof to cater to
+need of students and technocrats working in the region of
+Maharashtra.
+Shri. M. P. Poonia
+Former Vice Chairman AICTE

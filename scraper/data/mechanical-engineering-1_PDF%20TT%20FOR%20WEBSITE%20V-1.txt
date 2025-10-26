@@ -1,0 +1,1003 @@
+TIME / 
+DAY YEAR 9-9.55 9.55-10.50 10.50-11.10 11.10-12.05 12.05-1 1-1.30 1.30-2.25 2.25-3.20 3.20-4.15
+*3.30-5
+4.15-5.10
+*3.30-5
+SE A
+EM-III
+(MP)
+(209)
+MM
+(SMP)
+(209)
+SE B
+SOM
+(KAC)
+(210)
+MM
+(NDD)
+(210)
+TD
+(KPY)
+(210)
+TE A
+OT
+(MSS)
+(211)
+MMC
+(NVK)
+(211)
+FEA
+(NDD)
+(211)
+PCE
+(SS)
+(211)
+TE B
+PCE
+(SS)
+(212)
+FEA
+(PKJ)
+(212)
+MMC
+(SLS)
+(212)
+DOM
+(KAC)
+(212)
+BE A
+LSCM
+(AJD)
+(209)
+DMS
+(BRC)
+(209)
+MDI
+(SMP)
+(209)
+APS
+(AS)
+(209)
+BE B
+LSCM
+(DVK)
+(505)
+RES/APS
+(PKJ/AJD)
+(505/510)
+SE A
+PP
+(MSS)
+(209)
+MINI PROJECT
+SE B
+PP
+(NGN)
+(210)
+TD
+(KPY)
+(210)
+AM-III
+(MP)
+(210)
+MM
+(NDD)
+(210)
+TD
+(KPY)
+(210)
+TE A
+PCE
+(SS)
+(211)
+OT
+(MSS)
+(211)
+TE B
+OT
+(UMM)
+(212)
+DOM
+(KAC)
+(212)
+MMC
+(NVK)
+(212)
+BE A
+DMS
+(BRC)
+(212)
+MDO
+(SMP)
+(209)
+BE B
+MDI
+(NGN)
+(209)
+DMS
+(AS)
+(209)
+DMS
+(AS)
+(505)
+DEPARTMENT OF MECHANICAL ENGINEERING
+MASTER TIME-TABLE (ODD SEMESTER)
+ACADEMIC YEAR: 2022-23                                                                                                                     CLASS/SEM: SE/TE/BE/III,V,VII (w. e. f. 11/07/2022 till further notice)
+MONDAY BREAK BREAK
+TE/DOM/FEA
+(002/016/409)
+(KPY/SDB/NDD)
+DMS/ME/IS
+(BRC/NVK/UMM)
+(408/014/211)
+Mini PRJ/MSP/CADM
+(-/010/409)
+(-/SDB/NGN)
+TE
+(VSR)
+(212)
+IS/DMS/ME
+(MGG/AS/UMM)
+(505/408/014)
+CADM/MSP/MM
+(409/010/006)
+(NGN/MGG/RHS)
+AM-III
+(MP)
+(210)
+SESSION
+LECT
+*ILO
+DMMM/MIS/CSL
+(SMK/RRN/GDG)
+(209/510/205)
+TUESDAY BREAK BREAK
+*ILO
+DMMM/MIS/CSL
+(BRC/RRN/GDG)
+(505/510/205)
+MM/CADM/MSP
+(SMP/SMK/DVK)
+(006/409/010)
+PCE/TE/DOM
+(SS/KPY/SDB)
+(505/002/016)
+TE/DOM/FEA
+(MGG/KAC/PKJ)
+(002/016/409)
+ME/IS/DMS
+(NVK/SLS/BRC)
+(014/211/408)
+CADM/MM/MSP
+(NGN/RHS/SDB)
+(409/006/010)
+MINI PROJECT
+SESSION
+LECT
+MINI PROJECT
+MINI PROJECT
+*ILO
+DMMM/MIS/CSL
+(SMK/RRN/GDG)
+(209/510/205)
+*ILO
+DMMM/MIS/CSL
+(BRC/RRN/GDG)
+(505/510/205)
+
+TIME / 
+DAY YEAR 9-9.55 9.55-10.50 10.50-11.10 11.10-12.05 12.05-1 1-1.30 1.30-2.25 2.25-3.20 3.20-4.15
+*3.30-5
+4.15-5.10
+*3.30-5
+MONDAY BREAK BREAK
+Mini PRJ/MSP/CADM
+(-/010/409)
+(-/SDB/NGN)
+CADM/MSP/MM
+(409/010/006)
+(NGN/MGG/RHS) SESSION
+LECT
+SE A
+EM-III(TUT)
+(MP)
+(209)
+PP
+(MSS)
+(209)
+SOM
+(RHS)
+(209)
+TD
+(MGG)
+(209)
+SE B
+PP
+(NGN)
+(210)
+TD
+(KPY)
+(210)
+MINI PROJECT
+TE A
+TE
+(KPY)
+(211)
+OT
+(MSS)
+(211)
+MMC
+(NVK)
+(211)
+TE B
+OT
+(UMM)
+(212)
+DOM
+(KAC)
+(212)
+MMC
+(SLS)
+(212)
+BE A
+APS
+(AS)
+(210)
+LSCM
+(AJD)
+(209)
+BE B
+SE A
+EM-III
+(MP)
+(209)
+PP
+(MSS)
+(209)
+MM
+(SMP)
+(209)
+SOM
+(RHS)
+(209)
+TD
+(MGG)
+(209)
+SE B
+PP
+(NGN)
+(210)
+SOM
+(KAC)
+(210)
+TE A
+TE
+(KPY)
+(211)
+MMC
+(SLS)
+(211)
+DOM
+(SDB)
+(211)
+TE B
+FEA
+(PKJ)
+(212)
+OT
+(UMM)
+(212)
+BE A
+BE B
+LSCM
+(DVK)
+(211)
+MDI
+(NGN)
+(210)
+RES/APS
+(PKJ/AJD)
+(210/209)
+SE A
+EM-III
+(MP)
+(209)
+MM
+(SMP)
+(209)
+TD
+(MGG)
+(209)
+PP
+(MSS)
+(209)
+SOM
+(RHS)
+(209)
+SE B
+SOM
+(KAC)
+(210)
+PP
+(NGN)
+(210)
+TE A
+TE
+(KPY)
+(211)
+MMC
+(SLS)
+(211)
+TE B
+FEA
+(PKJ)
+(212)
+MMC
+(NVK)
+(212)
+TE
+(VSR)
+(212)
+PCE
+(SS)
+(212)
+BE A
+MDI
+(SMP)
+(211)
+LSCM
+(AJD)
+(210)
+APS
+(AS)
+(210)
+BE B
+MDI
+(NGN)
+(505)
+LSCM
+(DVK)
+(505)
+RES/APS
+(PKJ/AJD)
+(209/210)
+MINI PROJECT
+MINI PROJECT
+DOM/FEA/PCE
+(SDB/NDD/SS)
+(016/409/505)
+ME/IS/DMS
+(UMM/SLS/AS)
+(014/510/408)
+MM/CADM/MSP
+(RHS/AJD/NDD)
+(006/408/010)
+DOM/FEA/PCE
+(KAC/PKJ/SS)
+(016/409/505)
+DMS
+(BRC)
+(210)
+CADM/MM/MSP
+(SMK/SMP/KPY)
+(409/006/010)
+DOM
+(SDB)
+(211)
+DMS
+(AS)
+(212)
+M
+E
+N
+T
+O
+R
+I
+N
+G
+BREAKBREAK
+PROJECT
+MSP/Mini PRJ+AM-III/CADM
+(SDB/P3/AJD)
+(010/505/409)
+IS/DMS/ME
+(SLS/BRC/NVK)
+(210/408/014)
+MSP/CADM/AM-III+Mini PRJ
+(UMM/SMK/P4)
+(010/409/505)
+SESSION 
+LECT
+MSP/AM-III+Mini PRJ/CADM
+(AJD/P5/NGN)
+(010/505/409)
+MSP/CADM/Mini PRJ+AM-III
+(SMK/NGN/P2)
+(010/408/505)
+FEA
+(NDD)
+(211)
+FEA/PCE/TE
+(PKJ/SS/MGG)
+(409/212/002)
+BREAK BREAK
+WEDNESDAY
+    K.P.Yeole                                                                                                                                  D. V. Kunte
+    TIME TABLE COORDINATOR                                                                                                  HEAD OF DEPARTMENT
+THURSDAY BREAK BREAK
+PROJECT PROJECT PROJECT
+FEA/PCE/TE
+(NDD/SS/KPY)
+(409/505/002)
+AM-III+Mini PRJ/MSP/CADM
+(P6/NVK/BRC)
+(210/010/409)
+PCE/TE/DOM
+(SS/MGG/KAC)
+(505/006/016)
+DMS/ME/IS
+(AS/UMM/SDB)
+(408/014/212)
+MINI PROJECT
+FRIDAY
+CADM/MSP/MM
+(SMK/DVK/SMP)
+(409/010/006)
+TIME / 
+DAY YEAR 9-9.55 9.55-10.50 10.50-11.10 11.10-12.05 12.05-1 1-1.30 1.30-2.25 2.25-3.20 3.20-4.15 4.15-5.10
+MONDAY SE A
+EM-III
+(MP)
+(209)
+MM
+(SMP)
+(209)
+SESSION
+LECT
+TUESDAY SE A
+PP
+(MSS)
+(209)
+MINI PROJECT
+WEDNESDAY SE A
+EM-
+III(TUT)
+(MP)
+(209)
+PP
+(MSS)
+(209)
+SOM
+(RHS)
+(209)
+TD
+(MGG)
+(209)
+THURSDAY SE A
+EM-III
+(MP)
+(209)
+PP
+(MSS)
+(209)
+MM
+(SMP)
+(209)
+SOM
+(RHS)
+(209)
+TD
+(MGG)
+(209)
+FRIDAY SE A
+EM-III
+(MP)
+(209)
+MM
+(SMP)
+(209)
+TD
+(MGG)
+(209)
+PP
+(MSS)
+(209)
+SOM
+(RHS)
+(209)
+MENTORING
+RHS-R.H.Singh SOM- Strength of Materials
+SDB- S.D.Bagg
+MSP- Machine Shop Practice
+CADM- CAD Modeling
+MP- Manasi Patil EM-III- Engineering mathematics III
+TD- Thermodynamics
+MINI PROJECT
+MM/CADM/MSP
+(SMP/SMK/DVK)
+(006/409/010)
+CADM/MM/MSP
+(NGN/RHS/SDB)
+(409/006/010)
+DEPARTMENT OF MECHANICAL ENGINEERING
+MASTER TIME-TABLE (ODD SEMESTER)
+ACADEMIC YEAR: 2022-23                                                                                                                     CLASS/SEM: SE/III (w. e. f. 18/07/2022 till further notice)
+Mini PRJ/MSP/CADM
+(-/010/409)
+(-/SDB/NGN)
+CADM/MSP/MM
+(409/010/006)
+(NGN/MGG/RHS)
+    K.P.Yeole                                                                                                                                  D. V. Kunte
+    TIME TABLE COORDINATOR                                                                                                  HEAD OF DEPARTMENT
+BREAK BREAK MSP/CADM/EM-III+Mini PRJ
+(UMM/SMK/P4)
+(010/409/505)
+MSP/AM-III+Mini PRJ/CADM
+(AJD/P5/NGN)
+(010/505/409)
+Faculty Abbreviation                                                                                                                                                                                                                Subject Abbreviation
+DVK- D.V.Kunte
+MGG-M.G.Gadle
+MM- Materials and Metallurgy
+MSS- Dr. Mahesh Shinde
+NGN- N.G.Nagothkar
+SMP- S.M.Patankar
+PP- Production Process
+SMK-S.M.Kondawar
+
+TIME / 
+DAY YEAR 9-9.55 9.55-10.50 10.50-11.10 11.10-12.05 12.05-1 1-1.30 1.30-2.25 2.25-3.20 3.20-4.15 4.15-5.10
+MONDAY SE B
+SOM
+(KAC)
+(210)
+MM
+(NDD)
+(210)
+TD
+(KPY)
+(210)
+SESSION
+LECT
+TUESDAY SE B
+PP
+(NGN)
+(210)
+TD
+(KPY)
+(210)
+AM-III
+(MP)
+(210)
+MM
+(NDD)
+(210)
+TD
+(KPY)
+(210)
+WEDNESDAY SE B
+PP
+(NGN)
+(210)
+TD
+(KPY)
+(210)
+MINI PROJECT
+THURSDAY SE B
+PP
+(NGN)
+(210)
+SOM
+(KAC)
+(210)
+FRIDAY SE B
+SOM
+(KAC)
+(210)
+PP
+(NGN)
+(210)
+MENTORING
+MM- Materials and Metallurgy
+BRC- B.R.Chavan
+AJD- A.J.Dalvi CADM- CAD Modeling
+MP- Manasi Patil EM-III- Engineering mathematics III
+KAC- K.A.Chaudhary SOM- Strength of Materials
+AM-III
+(MP)
+(210)
+DEPARTMENT OF MECHANICAL ENGINEERING
+MASTER TIME-TABLE (ODD SEMESTER)
+ACADEMIC YEAR: 2022-23                                                                                                                     CLASS/SEM: SE/III (w. e. f. 18/07/2022 till further notice)
+BREAK BREAK
+AM-III+Mini PRJ/MSP/CADM
+(P6/NVK/BRC)
+(210/010/409)
+CADM/MSP/MM
+(SMK/DVK/SMP)
+(409/011/006)
+MSP/CADM/Mini PRJ+AM-III
+(SMK/NGN/P2)
+(010/408/505)
+MSP/Mini PRJ+AM-III/CADM
+(SDB/P3/AJD)
+(010/505/409)
+MINI PROJECT
+    K.P.Yeole                                                                                                                                  D. V. Kunte
+    TIME TABLE COORDINATOR                                                                                                  HEAD OF DEPARTMENT
+MM/CADM/MSP
+(RHS/AJD/NDD)
+(006/408/011)
+CADM/MM/MSP
+(SMK/SMP/KPY)
+(409/006/011)
+Faculty Abbreviation                                                                                                                                                                                                                Subject Abbreviation
+NDD- N.D.Desai
+MSP- Machine Shop Practice
+KPY- K.P.Yeole TD- Thermodynamics
+NGN- N.G.Nagothkar PP- Production Process
+SMP- S.M.Patankar
+
+TIME / 
+DAY YEAR 9-9.55 9.55-10.50 10.50-11.10 11.10-12.05 12.05-1 1-1.30 1.30-2.25 2.25-3.20 3.20-4.15 4.15-5.10
+MONDAY TE A
+OT
+(MSS)
+(211)
+MMC
+(NVK)
+(211)
+FEA
+(NDD)
+PCE
+(SS)
+TUESDAY TE A
+PCE
+(SS)
+(211)
+OT
+(MSS)
+(211)
+WEDNESDAY TE A
+TE
+(KPY)
+(211)
+OT
+(MSS)
+(211)
+MMC
+(NVK)
+(211)
+SESSION 
+LECT
+THURSDAY TE A
+MMC
+(SLS)
+(211)
+TE
+(KPY)
+(211)
+DOM
+(SDB)
+(211)
+FRIDAY TE A
+TE
+(KPY)
+(211)
+MMC
+(SLS)
+(211)
+MENTORING
+SDB- S.D.Bagg
+NDD- N. D. Desai
+FEA- Finite Element Analysis
+SS- Dr. Suma Shreedhr
+OT- Optimization Techniques
+KPY- K.P.Yeole PCE- Professional 
+    K.P.Yeole                                                                                                                                  D. V. Kunte
+    TIME TABLE COORDINATOR                                                                                                  HEAD OF DEPARTMENT
+DOM/FEA/PCE
+(SDB/NDD/SS)
+(016/409/505)
+DOM
+(SDB)
+(211)
+BREAK BREAK
+Faculty Abbreviation                                                                                                                                                                                                                Subject Abbreviation
+MMC- Mechanical 
+MSS- Dr. Mahesh Shinde TE- Thermal Engineering
+SLS- Dr. S. L. Shelgaonkar DOM- Dynamics of Machinery
+NVK- N. V. Khatekar
+FEA/PCE/TE
+(NDD/SS/KPY)
+(409/505/002)
+DEPARTMENT OF MECHANICAL ENGINEERING
+MASTER TIME-TABLE (ODD SEMESTER)
+ACADEMIC YEAR: 2022-23                                                                                                                     CLASS/SEM: TE/V (w. e. f. 11/07/2022 till further notice)
+MINI PROJECT
+FEA
+(NDD)
+(211)
+PCE/TE/DOM
+(SS/KPY/SDB)
+(505/002/016)
+MINI PROJECT
+TE/DOM/FEA
+(002/016/409)
+(KPY/SDB/NDD)
+
+TIME / 
+DAY YEAR 9-9.55 9.55-10.50 10.50-11.10 11.10-12.05 12.05-1 1-1.30 1.30-2.25 2.25-3.20 3.20-4.15 4.15-5.10
+MONDAY TE B
+PCE
+(SS)
+(212)
+FEA
+(PKJ)
+(212)
+MMC
+(SLS)
+(212)
+DOM
+(KAC)
+(212)
+TUESDAY TE B
+OT
+(UMM)
+(212)
+DOM
+(KAC)
+(212)
+MMC
+(NVK)
+(212)
+WEDNESDAY TE B
+OT
+(UMM)
+(212)
+DOM
+(KAC)
+(212)
+MMC
+(SLS)
+(212)
+SESSION 
+LECT
+THURSDAY TE B
+FEA
+(PKJ)
+(212)
+OT
+(UMM)
+(212)
+FRIDAY TE B
+FEA
+(PKJ)
+(212)
+MMC
+(NVK)
+(212)
+TE
+(VSR)
+(212)
+PCE
+(SS)
+(212)
+MENTORING
+SLS- Dr. S. L. Shelgaonkar
+    TIME TABLE COORDINATOR                                                                                                  HEAD OF DEPARTMENT
+DOM/FEA/PCE
+(KAC/PKJ/SS)
+(016/409/505)
+MINI PROJECT
+PCE/TE/DOM
+(SS/MGG/KAC)
+(505/006/016)
+BREAK BREAK
+Faculty Abbreviation                                                                                                                                                                                                                Subject Abbreviation
+SS- Dr. Suma Shreedhr MMC- Mechanical Measurements and 
+control
+TE- Thermal Engineering
+FEA/PCE/TE
+(PKJ/SS/MGG)
+(409/212/002)
+MINI PROJECT
+TE/DOM/FEA
+(MGG/KAC/PKJ)
+(002/016/409)
+TE
+(VSR)
+(212)
+DEPARTMENT OF MECHANICAL ENGINEERING
+MASTER TIME-TABLE (ODD SEMESTER)
+ACADEMIC YEAR: 2022-23                                                                                                                     CLASS/SEM: TE/V (w. e. f. 11/07/2022 till further notice)
+    K.P.Yeole                                                                                                                                  D. V. Kunte
+DOM- Dynamics of Machinery
+NVK- N. V. Khatekar FEA- Finite Element Analysis
+PKJ- P K Jadhav OT- Optimization Techniques
+VSR- V S Rao
+UMM- U.M.Momin PCE- Professional Communiation and 
+Ethics-II
+KAC- K.A.Chaudhari
+MGG- M.G.Gadle
+
+TIME / 
+DAY YEAR 9-9.55 9.55-10.50 10.50-11.10 11.10-12.05 12.05-1 1-1.30 1.30-2.25 2.25-3.20 3.20-4.15
+*3.30-5
+4.15-5.10
+*3.30-5
+MONDAY BE A
+LSCM
+(AJD)
+(209)
+DMS
+(BRC)
+(209)
+MDI
+(SMP)
+(209)
+APS
+(AS)
+(209)
+TUESDAY BE A
+DMS
+(BRC)
+(212)
+SESSION
+LECT
+MDI
+(SMP)
+(209)
+WEDNESDAY BE A
+APS
+(AS)
+(210)
+LSCM
+(AJD)
+(209)
+THURSDAY BE A
+FRIDAY BE A
+MDI
+(SMP)
+(211)
+LSCM
+(AJD)
+(210)
+APS
+(AS)
+(210)
+MENTORING
+NVK- N. V. Khatekar DMS-Design of Mechanical Sytems
+AS- A. S. Shinde RES- Renewable Energy Sources
+ME- Maintenance engineering
+MIS-Mangement Information System
+GDG- G.D.Gaurshete DMMM- Disaster Management and 
+SMP- S.M.Patankar CSL- Cyber Security
+RRN- R.R.Nikam
+    K.P.Yeole                                                                                                                                  D. V. Kunte
+    TIME TABLE COORDINATOR                                                                                                  HEAD OF DEPARTMENT
+DMS
+(BRC)
+(210)
+PROJECT PROJECT PROJECT
+BREAK BREAK
+Faculty Abbreviation                                                                                                                                                                                                                Subject Abbreviation
+DVK.-D V Kunte MDI-Machinary Diagnostic
+BRC- B.R.Chavan
+APS- Automotive Power system
+SLS- Dr. S. L. Shelgaonkar
+LSCM- Logistics and Supply Chain 
+DEPARTMENT OF MECHANICAL ENGINEERING
+MASTER TIME-TABLE (ODD SEMESTER)
+ACADEMIC YEAR: 2022-23                                                                                                                     CLASS/SEM: BE/VII (w. e. f. 11/07/2022 till further notice)
+IS/DMS/ME
+(SLS/BRC/NVK)
+(210/408/014)
+ME/IS/DMS
+(NVK/SLS/BRC)
+(014/211/408)
+ILO
+DMMM/MIS/CSL
+(SMK/RRN/GDG)
+(209/510/205)
+DMS/ME/IS
+(BRC/NVK/UMM)
+(408/014/211)
+ILO
+DMMM/MIS/CSL
+(SMK/RRN/GDG)
+(209/510/205)
+
+TIME / 
+DAY YEAR 9-9.55 9.55-10.50 10.50-11.10 11.10-12.05 12.05-1 1-1.30 1.30-2.25 2.25-3.20 3.20-4.15
+*3.30-5
+4.15-5.10
+*3.30-5
+MONDAY BE B
+LSCM
+(DVK)
+(505)
+RES/APS
+(PKJ/AJD)
+(505/510)
+TUESDAY BE B
+MDI
+(NGN)
+(209)
+DMS
+(AS)
+(209)
+SESSION
+LECT
+DMS
+(AS)
+(505)
+WEDNESDAY BE B
+THURSDAY BE B
+LSCM
+(DVK)
+(211)
+MDI
+(NGN)
+(210)
+RES/APS
+(PKJ/AJD)
+(210/209)
+FRIDAY BE B
+MDI
+(NGN)
+(505)
+LSCM
+(DVK)
+(505)
+MENTORING
+RES/APS
+(PKJ/AJD)
+(209/210)
+    K.P.Yeole                                                                                                                                  D. V. Kunte
+    TIME TABLE COORDINATOR                                                                                                  HEAD OF DEPARTMENT
+AJD- A.J.Dalvi MIS-Mangement Information System
+PKJ- P K Jadhav
+RRN- R.R.Nikam
+GDG- G.D.Gaurshete
+CSL- Cyber Security
+DMMM- Disaster Management and 
+Mitigation Measures
+ME- Maintenance engineering
+SLS- Dr. S. L. Shelgaonkar APS- Automotive Power system
+BRC- B.R.Chavan LSCM- Logistics and Supply Chain 
+NGN- N.G.Nagothkar DMS-Design of Mechanical Sytems
+AS- A. S. Shinde RES- Renewable Energy Sources
+IS/DMS/ME
+(MGG/AS/UMM)
+(505/408/014)
+*ILO
+DMMM/MIS/CSL
+(BRC/RRN/GDG)
+(505/510/205)
+ME/IS/DMS
+(UMM/SLS/AS)
+(014/510/408)
+DMS
+(AS)
+(212)
+BREAK
+BREAK BREAK
+BREAK
+Faculty Abbreviation                                                                                                                                                                                                                Subject Abbreviation
+UMM- U.M.Momin MDI-Machinary Diagnostic
+DEPARTMENT OF MECHANICAL ENGINEERING
+MASTER TIME-TABLE (ODD SEMESTER)
+ACADEMIC YEAR: 2022-23                                                                                                                     CLASS/SEM: BE/VII (w. e. f. 11/07/2022 till further notice)
+DMS/ME/IS
+(AS/UMM/SDB)
+(408/014/212)
+PROJECT
+*ILO
+DMMM/MIS/CSL
+(BRC/RRN/GDG)
+(505/510/205)
+
