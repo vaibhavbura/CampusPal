@@ -38,6 +38,60 @@ const Avatar = ({ role }) => {
 };
 
 /**
+ * Enhanced Dark Mode Toggle Switch with animated icon
+ */
+const DarkModeToggle = ({ darkMode, onToggle }) => {
+  return (
+    <button
+      type="button"
+      onClick={onToggle}
+      className={`relative inline-flex items-center h-10 w-20 sm:h-9 sm:w-[72px] rounded-full transition-all duration-300 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 shadow-inner ${
+        darkMode 
+          ? 'bg-slate-700 hover:bg-slate-600' 
+          : 'bg-slate-200 hover:bg-slate-300'
+      }`}
+      aria-label="Toggle dark mode"
+      title={darkMode ? 'Switch to light mode' : 'Switch to dark mode'}
+    >
+      {/* Toggle Circle with Icon */}
+      <span
+        className={`inline-flex items-center justify-center h-8 w-8 sm:h-7 sm:w-7 rounded-full shadow-lg transform transition-all duration-300 ${
+          darkMode 
+            ? 'translate-x-11 sm:translate-x-10 bg-slate-800' 
+            : 'translate-x-1 bg-white'
+        }`}
+      >
+        {/* Sun Icon (Light Mode) */}
+        <svg
+          className={`w-5 h-5 sm:w-4 sm:h-4 text-amber-500 transition-all duration-300 ${
+            darkMode ? 'opacity-0 rotate-180 scale-0' : 'opacity-100 rotate-0 scale-100'
+          }`}
+          fill="currentColor"
+          viewBox="0 0 20 20"
+        >
+          <path
+            fillRule="evenodd"
+            d="M10 2a1 1 0 011 1v1a1 1 0 11-2 0V3a1 1 0 011-1zm4 8a4 4 0 11-8 0 4 4 0 018 0zm-.464 4.95l.707.707a1 1 0 001.414-1.414l-.707-.707a1 1 0 00-1.414 1.414zm2.12-10.607a1 1 0 010 1.414l-.706.707a1 1 0 11-1.414-1.414l.707-.707a1 1 0 011.414 0zM17 11a1 1 0 100-2h-1a1 1 0 100 2h1zm-7 4a1 1 0 011 1v1a1 1 0 11-2 0v-1a1 1 0 011-1zM5.05 6.464A1 1 0 106.465 5.05l-.708-.707a1 1 0 00-1.414 1.414l.707.707zm1.414 8.486l-.707.707a1 1 0 01-1.414-1.414l.707-.707a1 1 0 011.414 1.414zM4 11a1 1 0 100-2H3a1 1 0 000 2h1z"
+            clipRule="evenodd"
+          />
+        </svg>
+        
+        {/* Moon Icon (Dark Mode) */}
+        <svg
+          className={`absolute w-5 h-5 sm:w-4 sm:h-4 text-indigo-400 transition-all duration-300 ${
+            darkMode ? 'opacity-100 rotate-0 scale-100' : 'opacity-0 -rotate-180 scale-0'
+          }`}
+          fill="currentColor"
+          viewBox="0 0 20 20"
+        >
+          <path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z" />
+        </svg>
+      </span>
+    </button>
+  );
+};
+
+/**
  * Copy button for assistant messages.
  */
 const CopyButton = ({ text }) => {
@@ -73,18 +127,18 @@ const ChatMessage = ({ message }) => {
 
   return (
     <div className={`flex ${isUser ? 'justify-end' : 'justify-start'} w-full`}>
-      <div className={`flex items-end gap-3 max-w-3xl ${isUser ? 'flex-row-reverse' : 'flex-row'}`}>
+      <div className={`flex items-end gap-2 sm:gap-3 max-w-[85%] sm:max-w-3xl ${isUser ? 'flex-row-reverse' : 'flex-row'}`}>
         <Avatar role={role} />
-        <div className="flex flex-col items-start max-w-full">
+        <div className="flex flex-col items-start max-w-full min-w-0">
           <div
-            className={`px-4 py-3 rounded-2xl shadow-md border ${
+            className={`px-3 py-2 sm:px-4 sm:py-3 rounded-2xl shadow-md border ${
               isUser
                 ? 'bg-gradient-to-br from-blue-600 to-blue-700 text-white border-blue-700 rounded-br-sm'
                 : 'bg-white dark:bg-slate-800 text-gray-800 dark:text-slate-100 border-gray-200 dark:border-slate-700 rounded-bl-sm'
             }`}
             style={{ wordBreak: 'break-word' }}
           >
-            <p className="whitespace-pre-wrap leading-relaxed">{content}</p>
+            <p className="whitespace-pre-wrap leading-relaxed text-sm sm:text-base">{content}</p>
             {!isUser && (
               <div className="mt-2">
                 <CopyButton text={content} />
@@ -128,14 +182,14 @@ const MessageList = ({ messages, isLoading, onScrolledStateChange }) => {
   }, [onScrolledStateChange]);
 
   return (
-    <div ref={containerRef} className="flex-1 overflow-y-auto px-4 py-6 sm:px-6">
-      <div className="mx-auto max-w-3xl space-y-5">
+    <div ref={containerRef} className="flex-1 overflow-y-auto px-3 py-4 sm:px-4 sm:py-6 overscroll-contain">
+      <div className="mx-auto max-w-3xl space-y-4 sm:space-y-5">
         {messages.map((msg, index) => (
           <ChatMessage key={index} message={msg} />
         ))}
         {isLoading && (
           <div className="flex justify-start">
-            <div className="px-4 py-3 rounded-2xl shadow-md border bg-white dark:bg-slate-800 text-gray-800 dark:text-slate-100 border-gray-200 dark:border-slate-700 rounded-bl-sm">
+            <div className="px-3 py-2 sm:px-4 sm:py-3 rounded-2xl shadow-md border bg-white dark:bg-slate-800 text-gray-800 dark:text-slate-100 border-gray-200 dark:border-slate-700 rounded-bl-sm">
               <TypingDots />
             </div>
           </div>
@@ -179,9 +233,11 @@ function App() {
     if (darkMode) {
       root.classList.add('dark');
       localStorage.setItem('campuspal_theme', 'dark');
+      console.log('Dark mode enabled - dark class added to html');
     } else {
       root.classList.remove('dark');
       localStorage.setItem('campuspal_theme', 'light');
+      console.log('Light mode enabled - dark class removed from html');
     }
   }, [darkMode]);
 
@@ -262,28 +318,20 @@ function App() {
   return (
     <div className="flex flex-col h-screen bg-gradient-to-b from-slate-50 via-slate-50 to-slate-100 dark:from-slate-900 dark:via-slate-900 dark:to-slate-950">
       {/* Header */}
-      <header className="sticky top-0 bg-white/80 dark:bg-slate-900/70 backdrop-blur border-b border-gray-200 dark:border-slate-800 z-10">
-        <div className="mx-auto max-w-5xl px-6 py-4 flex items-center justify-between">
-          <div className="flex items-center gap-3">
-            <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-emerald-500 to-emerald-600 grid place-items-center shadow-md">
-              <span className="text-white text-lg">🤖</span>
+      <header className="sticky top-0 bg-white/90 dark:bg-slate-900/90 backdrop-blur-md border-b border-gray-200 dark:border-slate-800 z-10 shadow-sm">
+        <div className="mx-auto max-w-5xl px-4 sm:px-6 py-3 sm:py-4 flex items-center justify-between gap-3">
+          <div className="flex items-center gap-2 sm:gap-3 min-w-0 flex-1">
+            <div className="w-10 h-10 sm:w-9 sm:h-9 rounded-xl bg-gradient-to-br from-emerald-500 to-emerald-600 grid place-items-center shadow-md flex-shrink-0">
+              <span className="text-white text-lg sm:text-base">🤖</span>
             </div>
-            <div>
-              <h1 className="text-xl sm:text-2xl font-bold text-slate-900 dark:text-white">
-                CampusPal <span className="text-slate-500 dark:text-slate-400 font-medium">AI Assistant</span>
+            <div className="min-w-0">
+              <h1 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 dark:text-white truncate">
+                CampusPal <span className="text-slate-500 dark:text-slate-400 font-medium hidden sm:inline">AI Assistant</span>
               </h1>
-              <p className="text-xs sm:text-sm text-slate-500 dark:text-slate-400">Your A.P. Shah Institute of Technology (APSIT) Guide</p>
+              <p className="text-xs sm:text-sm text-slate-500 dark:text-slate-400 truncate">APSIT Guide</p>
             </div>
           </div>
-          <button
-            type="button"
-            onClick={() => setDarkMode((v) => !v)}
-            className="inline-flex items-center gap-2 px-3 py-2 rounded-lg border border-slate-200 dark:border-slate-700 bg-white/80 dark:bg-slate-800/60 text-slate-700 dark:text-slate-200 hover:bg-slate-50 dark:hover:bg-slate-800"
-            aria-label="Toggle dark mode"
-            title="Toggle dark mode"
-          >
-            {darkMode ? 'Light' : 'Dark'}
-          </button>
+          <DarkModeToggle darkMode={darkMode} onToggle={() => setDarkMode((v) => !v)} />
         </div>
       </header>
 
@@ -298,14 +346,14 @@ function App() {
 
       {/* Suggestions (shown when user hasn't typed yet beyond greeting) */}
       {messages.length <= 2 && (
-        <div className="px-4 sm:px-6 pb-2">
+        <div className="px-3 sm:px-4 md:px-6 pb-2">
           <div className="mx-auto max-w-3xl flex flex-wrap gap-2">
             {suggestionChips.map((s) => (
               <button
                 key={s}
                 type="button"
                 onClick={() => handleChipClick(s)}
-                className="px-3 py-2 rounded-full text-sm border border-slate-200 dark:border-slate-700 bg-white/70 dark:bg-slate-800/60 text-slate-700 dark:text-slate-200 hover:bg-slate-50 dark:hover:bg-slate-800"
+                className="px-3 py-2 rounded-full text-xs sm:text-sm border border-slate-200 dark:border-slate-700 bg-white/70 dark:bg-slate-800/60 text-slate-700 dark:text-slate-200 hover:bg-slate-50 dark:hover:bg-slate-800 active:scale-95 transition-transform touch-manipulation"
               >
                 {s}
               </button>
@@ -315,43 +363,43 @@ function App() {
       )}
 
       {/* Input Form */}
-      <footer className="bg-white/80 dark:bg-slate-900/70 backdrop-blur border-t border-gray-200 dark:border-slate-800 p-3 sm:p-4">
-        <form onSubmit={handleSubmit} className="mx-auto max-w-3xl flex items-center gap-2">
+      <footer className="bg-white/90 dark:bg-slate-900/90 backdrop-blur-md border-t border-gray-200 dark:border-slate-800 p-3 sm:p-4 safe-area-inset-bottom">
+        <form onSubmit={handleSubmit} className="mx-auto max-w-3xl flex items-end gap-2">
           <label htmlFor="chat-input" className="sr-only">Type your message</label>
           <input
             id="chat-input"
             type="text"
             value={userInput}
             onChange={(e) => setUserInput(e.target.value)}
-            placeholder="Ask about admissions, placements, or fees..."
+            placeholder="Ask about admissions, placements..."
             disabled={isLoading}
-            className="flex-1 px-4 py-3 rounded-xl border border-slate-300 dark:border-slate-700 bg-white/90 dark:bg-slate-800/70 text-slate-900 dark:text-slate-100 placeholder:text-slate-500 dark:placeholder:text-slate-400 shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 disabled:opacity-50"
+            className="flex-1 px-3 py-3 sm:px-4 rounded-xl border border-slate-300 dark:border-slate-700 bg-white/90 dark:bg-slate-800/70 text-slate-900 dark:text-slate-100 placeholder:text-slate-500 dark:placeholder:text-slate-400 shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 disabled:opacity-50 text-sm sm:text-base touch-manipulation"
             autoComplete="off"
           />
           <button
             type="submit"
-            disabled={isLoading}
-            className="inline-flex items-center gap-2 px-4 sm:px-5 py-3 rounded-xl font-semibold text-white shadow-md disabled:cursor-not-allowed disabled:opacity-60 bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
+            disabled={isLoading || !userInput.trim()}
+            className="inline-flex items-center justify-center gap-2 px-4 sm:px-5 py-3 rounded-xl font-semibold text-white shadow-md disabled:cursor-not-allowed disabled:opacity-60 bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 active:scale-95 transition-transform touch-manipulation min-w-[70px] sm:min-w-[80px]"
             aria-label={isLoading ? 'Sending...' : 'Send message'}
           >
-            {isLoading ? 'Sending…' : 'Send'}
+            <span className="text-sm sm:text-base">{isLoading ? 'Sending…' : 'Send'}</span>
           </button>
         </form>
         {error && (
-          <p className="text-red-600 dark:text-red-400 text-sm text-center mt-2">{error}</p>
+          <p className="text-red-600 dark:text-red-400 text-xs sm:text-sm text-center mt-2 px-2">{error}</p>
         )}
       </footer>
 
       {/* Scroll to bottom button */}
       {showScrollButton && (
-        <div className="pointer-events-none fixed bottom-24 right-6 sm:right-8">
+        <div className="pointer-events-none fixed bottom-20 sm:bottom-24 right-4 sm:right-6 md:right-8 z-20">
           <button
             type="button"
             onClick={() => window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' })}
-            className="pointer-events-auto inline-flex items-center gap-2 px-4 py-2 rounded-full bg-slate-900 text-white dark:bg-slate-700 shadow-lg hover:opacity-90"
+            className="pointer-events-auto inline-flex items-center gap-2 px-3 py-2 sm:px-4 rounded-full bg-slate-900 text-white dark:bg-slate-700 shadow-lg hover:opacity-90 active:scale-95 transition-all text-xs sm:text-sm touch-manipulation"
             aria-label="Scroll to bottom"
           >
-            ↓ New messages
+            ↓ <span className="hidden xs:inline">New messages</span>
           </button>
         </div>
       )}
