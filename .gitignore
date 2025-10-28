@@ -1,1 +1,4 @@
 venv
+scraper/__pycache__
+scraper/venv
+__pycache__
