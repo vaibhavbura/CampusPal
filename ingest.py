@@ -74,9 +74,12 @@ def create_vector_db_advanced():
         print("No documents loaded. Scraper may not have run. Exiting.")
         return
 
-    # Split into chunks
+    # Split into chunks - larger chunks reduce noise from navigation elements
     print("[Phase 4/4] Splitting documents into chunks...")
-    text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
+    text_splitter = RecursiveCharacterTextSplitter(
+        chunk_size=1500,  # Increased to reduce fragmentation
+        chunk_overlap=200  # Increased overlap for better context
+    )
     chunks = text_splitter.split_documents(all_documents)
     print(f"Total chunks created: {len(chunks)}")
 
