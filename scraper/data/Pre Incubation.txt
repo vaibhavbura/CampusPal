@@ -1,0 +1,189 @@
+ 
+ 
+PREINCUBATION 
+ 
+SUPPORT THROUGH PRE-INCUBATION FACILITIES-   
+To have your own Start-up you need to know the “Technical know-how” of today's industry. Here we 
+provide such a pre-incubation centre for students to develop, evolve, and learn from their mistakes 
+and progress. Pre -incubator can be defined as a risk -reduced environment where entrepreneurial 
+ideas are pre-filtered for market viability thus helping to avoid greater costs and failures of setting up 
+new company in the further phases of business development. Besides equity gap lack of pre -seed 
+finance is critical to promote business ideas into new innovative firms. In addition to inspiration and 
+awareness inventors of new business ideas need professional couching to turn in new firm and follow-
+up services (consultations, mentoring, infrastructure) until it is ready to pass the entrance criteria of 
+Business world. Without support inventors often fail before or after setting firm. 
+ 
+A. R&D CELL –  
+Research and Development cell was established at APSIT to inculcate research and innovative skills 
+among faculty and students. R&D Cell provides a platform for creativity and innovation to flourish 
+young minds in organization. Innovative breakthroughs will happen only because of meticulous efforts 
+of R&D. The organization provides SEED amount to facilitate basic common research infrastructure 
+for individuals to execute collaborative work. 
+ 
+B. INDUSTRY INSTITUTE INTERACTION CELL (III CELL) –  
+To improve the quality of technical education adequately, to meet the needs of the Industry, society 
+and economy, technical education system should operate at optimum efficiency and should produce 
+good quality engineers who will deliver quality product to employers. To optimize the deployment of 
+physical and human resources of Institutions and Industries in the pursuit of development of technical 
+manpower & to enlist participation of industry in technical education programs, with a view to have 
+better interaction between Industries and Institute, APSIT has started Industry Institute Interaction 
+Cell (IIIC). 
+APSITSKILLS CENTER –  
+APSIT skills is an initiative of Parshvanath Charitable Trust’s APSIT to provide training and international 
+certification in the  futuristic technologies under one roof for engineering graduates in India. APSIT 
+Skills Center is an innovative model for teaching and learning globally trending technologies to achieve 
+the industrial objective through hands -on training. APSIT offers myriad ways of building engineering 
+career through its strong industrial collaborations. College provides opportunities to master globally 
+trending technologies certification of future with international at no extra cost. APSIT Skill Centre is 
+presented as the most adequate educational methodology for the overall/all -round development of 
+students. Students will have hands -on experience, potentiating their personality and taking them 
+closer to reality. 
+ 
+ 
+INDUSTRY COLLABORATIONS WITH APSIT SKILL CENTER  
+Following G lobally trending technologies and industries are collaborated with APSIT Skill Centre 
+department wise  
+A. Computer/Information Technology/Electronics and Telecommunications Engineering 
+• NVIDIA Deep Learning Institute   
+• Block-Chain Council Membership  
+• Redhat Linux Academy Centre  
+• Open Source Experimental Lab  
+• Oracle Academy  
+• AWS Academy & AWS Educate  
+• Dell EMC Academic Alliance  
+• E-Yantra Robotics Lab  
+• Texas Instruments Innovation Centre  
+• CISCO Networking Academy  
+• Partnership with Leading India  
+• VMware IT Academy  
+• SAP University Alliance 
+• AYURUS Academy Excellence Centre 
+• Google Sponsored Machine Learning  
+• Game Development Club 
+• Unit Game Development Academy Alliance  
+• Palo Alto Netwroks Cybersecurity Academy 
+• UiPath Academic Alliance  
+• Corel Authorized Training Centre 
+• Digital Marketing Academy 
+• ICT Academy 
+• TMF Academy 
+B. Mechanical Engineering  
+• MSC Software Training Centre  
+• Siemens Centre of Excellence  
+ 
+• "Dassault Systems" CLIC Program  
+• ANSYS Authorized Training Centre  
+• Autodesk Hub  
+• E-Yantra Robotics Lab  
+• Texas Instruments Innovation Centre  
+• BMW Skill Next 
+• CNC & VMC Training Academy 
+• UiPath Academic Alliance 
+• ICY Academy 
+C. Civil Engineering  
+• MSC Authorised Training Centre  
+• Siemens Centre of Excellence  
+• Bentley Institute Academic Program  
+• Autodesk Hub 
+• Oracle Academy  
+• "Dassault Systems" CLIC Program  
+• ICT Academy 
+ 
+APSIT SKILLS LAB FACILITIES-   
+1. AYRUS Centre of Academic Excellence & Innovation  
+A.P. Shah Institute of Technology has recently signed a memorandum of Understanding with AYRUS 
+Global. Through this MoU AYRUS Global recognizes AP Shah Institute of Technology as an Innovation 
+Centre and Academic Excellence Center for AYRUS. Students will be able to use various Sensors, solar 
+power based cameras, GPS trackers and home automation kits for their final year BE Project. The aim 
+of this academic centre is to provide training to students on  
+a. The installation and use of different types of cameras like IP based dome cameras, bullet 
+cameras on the 4G network. 
+b. Configuration installation & troubleshooting of Digital Video Recorder (DVR). 
+c. Installation and application of solar power video doorbell, solar cameras 
+d. Installation and use of body camera in the field of Robotics. 
+e. Installation and application of various sensors like motion sensor, ceiling mount PIR sensor 
+door sensor for home automation and smart home. 
+f. Use of Fingerprint, RFID for recording attendance and use of CLOUD software for manpower 
+services. 
+ 
+g. Use of Audio & Video conferencing device. 
+h. Installation and use of GPS tracker device on a vehicle. 
+i. Installation and application of AI based Human Tracking Camera. 
+2. ASHNIK Open Source Experimental Lab   
+Open Source Experimental Lab for Emerging Technologies’  is a collaborative effort 
+of APSIT and ASHNIK to impart skills in the areas of   open source technologies including Database, 
+Docker, Elastic Stack Analytics, NGINX, and Cloud Computing to develop suf ficient industry needed 
+skills for students. Linux and Open Source are changing the face of computing. Companies large and 
+small are embracing Linux and Open Source for many reasons, including cost, reliability, flexibility, and 
+availability. Open Source Experimental Lab (OSE Lab) is well equipped with the latest servers. Guidance 
+is provided to the students by a team of professors and committee members. The labs are kept open 
+after the college hours to enable the students to engage themselves in getting pr acticed with 
+Laboratory experiments in their leisure hours. The lab will be used to train the students to make 
+experiments to get familiar with the emerging open source technologies. 
+ASHNIK and APSIT  have collaborated to set up an “Open Source Experimental  Lab for Emerging 
+Technologies” Lab in the campus to help students and faculty members enhance their skills in areas 
+of open source technologies including Database, Docker,  Elastic Stack Analytics, NGINX , Cloud and 
+Linux Platform. This lab aims at providing knowledge of emerging open source technologies and 
+expose students to open source software’s. 
+A joint committee has been formed comprising of professors, students, representatives of  APSIT 
+and ASHNIK that will continuously discuss on content, del ivery etc. The Committee will monitor and 
+review the activities under these program and will also mentor the participating students. While doing 
+each program participant will have access to various open source communities for participating in 
+their projects on their interest and to get additional study material and resources to interact with 
+experts & participate in discussions. 
+3. Salesforce Student Chapter    
+Salesforce is a customer relationship management solution that brings companies and customers 
+together. It’s one integrated CRM platform that gives all your departments — including marketing, 
+sales, commerce, and service — a single, shared view of every customer. Deliver the personalised 
+experiences your customers expect by using the integrated CRM platform that we call our Salesforce 
+Customer 360 Platform. It provides powerful, connected products for improving your marketing, sales, 
+commerce, service, IT, and more. When you buy Salesforce, you’re not just buying a CRM platform; 
+you’re joining an inclu sive community of over 10 million innovators, disruptors, and community 
+shapers we call Trailblazers. With free online learning from Trailhead, they’re learning the skills to 
+improve their companies and careers. 
+4. e-Yantra Robotics Lab   
+To address futuristic needs of industrial automation, eYantra Robotics Lab (eYRL@APSIT) is setup in 
+collaboration with IIT Bombay. eYRL facilitates Design and Development of Industrial Robotic 
+Automation. Project e-Yantra is an initiative to spread education in embedded sy stems and Robotics 
+by IIT Bombay. This program is sponsored by Ministry of Human Resource Development through the 
+National Mission on Education through ICT (NMEICT). e-Yantra Lab Setup Initiative (eLSI) supports the 
+infrastructure creation at colleges by p roviding a platform for training teachers both in theory and 
+ 
+applications of Robotics. A. P. Shah Institute has established Robotics Lab under E-Yantra Lab with the 
+help of eLSI. 
+5. MAC Club  
+The MAC is a club of students from the APSIT who design & fabri cate solar based automotive which 
+are operated by a DC motor. The purpose of the MAC club is to build up interest towards theoretical 
+as well as practical knowledge, along with management and team work among under graduate 
+students. It gives students hands  on experience in designing & manufacturing. The main aim of the 
+club is to reduce the usage of organic fuel powered vehicles and design environment friendly electric 
+power vehicles. 
+6. Bennet University Times of India Group Partnership with Leading India  
+APSIT has a tie up with an initiative by leadingindia.ai on AI and deep learning Skilling and Research 
+which is in collaboration with technology giants like Bennett University, Brunel University, IEEE 
+computer society, AWS educate, UCL, and many more. It has the potential to change the landscape of 
+AI Research in India. Students are provided with the certificates for the workshops and research group 
+participations. All the training material required is made available to the students. Assessment of the 
+working of the research groups via progress report, Skype Calls, Webinars is done in a professional 
+manner. Various competitions in Deep learning are held for the students to give them a chance to put 
+their work on display all the above -mentioned facilities a re provided to APSIT students completely 
+free of cost. Courses & Workshops: Every year college conducts introductory and advance certification 
+courses for APSIT students. 
+1. A Course on "AI and Deep learning" for students and faculties 
+2. Machine learning Lab 
+3. Two days Certification program by Bennett University 
+7. 'Utter' Virtual Language Lab  
+Utter gives learners access to a fun learning environment that aims at building confidence and giving 
+people the opportunity to not only grow in their careers, but their personal lives as well. It’s now a lot 
+easier (and a whole lot more fun) to improve your English speaking, reading, and writing skills – 
+download Utter, and start the conversation! Learn English with our chatbots for just 10 minutes each 
+day, or learn from our teaching experts, and you’ll become more fluent and confident with the English 
+language in no time.  
+During the early stages of entrepreneurship, having the right environment and the right network is 
+highly important. The Pre -Incubation Programs gives a nascent entrepreneur the right platform to 
+launch his /her idea and move forward to develop it into a marketable Minimum Viable Product (MVP). 
+ 
+Contact us: Mr. Amol Shinde   
+Mobile:   993030 11288 
+Email: apsitiic@apsit.edu.in 
+
