@@ -1,0 +1,3153 @@
+ 
+ 
+                                                                                               AC – 11 July, 2022 
+                                                                                             Item No. – 6.42 (R) 
+ 
+ 
+ 
+ 
+University of Mumbai 
+ 
+ 
+ 
+ 
+ 
+ 
+Bachelor of Engineering 
+in 
+ Computer Science and Engineering (Data Science)  
+ Computer Science and Engineering (Artificial Intelligence and 
+Machine Learning)  
+ Artificial Intelligence and Data Science  
+ Artificial Intelligence and Machine Learning 
+ Data Engineering 
+ 
+Third Year with Effect from AY 2022-23 
+(REV- 2019 ‘C’ Scheme) from Academic Year 2019 – 20 
+Under 
+FACULTY OF SCIENCE & TECHNOLOGY 
+ 
+(As per AICTE guidelines with effect from the academic year 2019–2020) 
+ 
+ 
+
+ 
+ 
+ 
+Sr. No. Heading Particulars 
+1 Title of the Course Third  Year Engineering 
+ 
+2 
+ 
+Eligibility for Admission 
+After Passing Second Year Engineering as per 
+the Ordinance 0.6243 
+3 Passing Marks 40% 
+4 
+Ordinances / 
+Regulations ( if any) Ordinance 0.6243 
+ 
+5 
+ 
+No. of Years / Semesters 
+ 
+8 semesters 
+ 
+6 
+ 
+Level 
+P.G. / U.G./ Diploma / Certificate 
+(Strike out which is not applicable) 
+ 
+7 
+ 
+Pattern 
+Yearly / Semester 
+(Strike out which is not applicable ) 
+ 
+8 
+ 
+Status 
+New/ Revised 
+(Strike out which is not applicable ) 
+9 
+To be implemented from 
+Academic Year With effect from Academic Year:2022-2023 
+ 
+ 
+            Dr. S.K.Ukarande Dr. Anuradha Muzumdar 
+            Associate Dean Dean 
+Faculty of Science and Technology Faculty of Science and Technology 
+University of Mumbai University of Mumbai 
+.  
+University of Mumbai 
+ 
+ 
+ 
+ 
+Preamble 
+ 
+To meet the challenge of ensuring excellence in engineering education, the issue of quality needs to 
+be addressed, debated and taken forward in a systematic manner. Accreditation is the principal 
+means of quality assurance in higher education. The major emphasis of accreditation process is to 
+measure the outcomes of the program that is being accredited. In line with this Faculty of Science 
+and Technology (in particular Engineering) of University of Mumbai has taken a lead in 
+incorporating philosophy of outcome based education in the process of curriculum development. 
+Faculty resolved that course objectives and course outcomes are to be clearly defined for each 
+course, so that all faculty members in affiliated institutes understand the depth and approach of 
+course to be taught, which will enhance learner‘s learning process. Choice based Credit and grading 
+system enables a much-required shift in focus from teacher -centric to learner-centric education since 
+the workload estimated is based on the investment of time in l earning and not in teaching. It also 
+focuses on continuous evaluation which will enhance the quality of education. Credit assignment for 
+courses is based on 15 weeks teaching learning process, however content of courses is to be taught in 
+13 weeks and rema ining 2 weeks to be utilized for revision, guest lectures, coverage of content 
+beyond syllabus etc. 
+There was a concern that the earlier revised curriculum more focused on providing information and 
+knowledge across various domains of the said program, whic h led to heavily loading of students in 
+terms of direct contact hours. In this regard, faculty of science and technology resolved that to 
+minimize the burden of contact hours, total credits of entire program will be of 170, wherein focus is 
+not only on pro viding knowledge but also on building skills, attitude and self learning. Therefore in 
+the present curriculum skill based laboratories and mini projects are made mandatory across all 
+disciplines of engineering in second and third year of programs, which wi ll definitely facilitate self 
+learning of students. The overall credits and approach of curriculum proposed in the present revision 
+is in line with AICTE model curriculum. 
+The present curriculum will be implemented for Second Year of Engineering from the academic year 
+2021-22. Subsequently this will be carried forward for Third Year and Final Year Engineering in the 
+academic years 2022-23, 2023-24, respectively. 
+ 
+ 
+ 
+ 
+Dr. S.K. Ukarande Dr Anuradha Muzumdar 
+Associate Dean Dean 
+Faculty of Science and Technology Faculty of Science and Technology 
+University of Mumbai University of Mumbai
+Incorporation and Implementation of Online Contents 
+fromNPTEL/ Swayam Platform 
+ 
+ 
+ 
+ The curriculum revision is mainly focused on knowledge component, skill based activities 
+and project based activities. Self learning opportunities are provided to learners. In the revision 
+process this time in particular Revised syllabus of ‗C‘ scheme wherever possible additional 
+resource links of platforms such as NPTEL, Swayam are appropriately pro vided. In an earlier 
+revision of curriculum in the year 2012 and 2016 in Revised scheme ‗A' and ‗B' respectively, 
+efforts were made to use online contents more appropriately as additional learning materials to 
+enhance learning of students. 
+In the current revision based on the recommendation of AICTE model curriculum overall credits 
+are reduced to 171, to provide opportunity of self learning to learner. Learners are now getting 
+sufficient time for self learning either through online courses or additional projects for enhancing 
+their knowledge and skill sets. 
+The Principals/ HoD‘s/ Faculties of all the institute are required to motivate and encourage 
+learners to use additional online resources available on platforms such as NPTEL/ Swayam. 
+Learners can be advised to take up online courses, on successful completion they are required to 
+submit certification for the same. This will definitely help learners to facilitate their enhanced 
+learning based on their interest. 
+ 
+ 
+ 
+ 
+ 
+Dr. S.K.Ukarande Dr Anuradha Muzumdar 
+Associate Dean Dean 
+Faculty of Science and Technology Faculty of Science and Technology 
+University of Mumbai University of Mumbai 
+Preface by Board of Studies in 
+Computer Engineering 
+Dear Students and Teachers, we, the members of Board of Studies Computer Engineering, are very happy to 
+present Third Year Computer Engineering syllabus effective from the Academic Year 2021 -22 (REV -
+2019‘C‘ Scheme). We are sure you will find this syllabus interesting, challenging, fulfill certain needs and 
+expectations. 
+Computer Engineering is one of the most sought -after courses amongst engineering students. The syllabus 
+needs revision in terms of preparing the student for the professional scenario relevant and suitable to cater 
+the needs of industry in present day context. The syl labus focuses on providing a sound theoretical 
+background as well as good practical exposure to students in the relevant areas. It is intended to provide a 
+modern, industry -oriented education in Computer Engineering. It aims at producing trained profession als 
+who can successfully acquainted with the demands of the industry worldwide. They obtain skills and 
+experience in up -to-date the knowledge to analysis, design, implementation, validation, and documentation 
+of computer software and systems. 
+The revised s yllabus is finalized through a brain storming session attended by Heads of Departments or 
+senior faculty from the Department of Computer Engineering of the affiliated Institutes of the Mumbai 
+University. The syllabus falls in line with the objectives of af filiating University, AICTE, UGC, and various 
+accreditation agencies by keeping an eye on the technological developments, innovations, and industry 
+requirements. 
+ 
+The salient features of the revised syllabus are: 
+1. Reduction in credits to 170 is implemented to ensure that students have more time for 
+extracurricular activities, innovations, and research. 
+2. The department Optional Courses will provide the relevant specialization within the branch to a 
+student. 
+3. Introduction of Skill Based Lab and Mini Project to showcase their talent by doing innovative 
+projects that strengthen their profile and increases the chance of employability. 
+4. Students are encouraged to take up part of course through MOOCs platform SWAYAM 
+We would like to place on record our gratefulness to the faculty, students, industry experts and stakeholders 
+for having helped us in the formulation of this syllabus. 
+Board of Studies in Computer Engineering 
+Prof. Sunil Bhirud : Chairman  
+Prof. SunitaPatil : Member 
+Prof. Leena Ragha : Member 
+Prof. Subhash Shinde : Member 
+Prof .Meera Narvekar : Member 
+Prof. Suprtim Biswas : Member  
+Prof. Sudhir Sawarkar : Member  
+Prof. Dayanand Ingle : Member 
+Prof. Satish Ket : Member 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROGRAM STRUCTURE FOR THIRD YEAR 
+UNIVERSITY OF MUMBAI (With Effect from 2022-2023) 
+Semester V 
+ 
+Course 
+Code 
+ 
+Course Name 
+Teaching Scheme 
+(Contact Hours) Credits Assigned 
+Theory Pract. Theory Pract. Total 
+CSC501 Computer Network 3 -- 3 -- 3 
+CSC502 Web Computing 3 -- 3  3 
+CSC503 Artificial Intelligence 3 -- 3 -- 3 
+CSC504 Data Warehousing & 
+Mining 3 -- 3 -- 3 
+CSDLO5 
+01X 
+Department Level 
+Optional Course- 1 3 -- 3 -- 3 
+CSL501 Web Computing and 
+Network Lab -- 2 -- 1 1 
+CSL502 Artificial Intelligence Lab -- 2 -- 1 1 
+CSL503 Data Warehousing & 
+Mining Lab -- 2 -- 1 1 
+CSL504 Business Communication 
+and Ethics-II -- 2*+2 -- 2 2 
+CSM501 Mini Project: 2 A -- 4$ -- 2 2 
+Total 15 14 15 07 22 
+ 
+ 
+ 
+Course 
+Code 
+ 
+ 
+ 
+Course Name 
+Examination Scheme 
+Theory Term 
+Work 
+Pract 
+&oral Total 
+Internal 
+Assessment 
+End 
+Sem 
+Exam 
+Exam. 
+Duration 
+(in Hrs) 
+   
+Test1 Test2 Avg 
+     
+CSC501 Computer Network 20 20 20 80 3 - -- 100 
+CSC502 Web Computing 20 20 20 80 3 -- -- 100 
+CSC503 Artificial Intelligence 20 20 20 80 3 -- -- 100 
+CSC504 Data Warehousing & 
+Mining 20 20 20 80 3 -- -- 100 
+CSDLO5 
+01X 
+Department Level Optional 
+Course- 1 20 20 20 80 3 -- -- 100 
+CSL501 Web Computing and 
+Network Lab -- -- -- -- -- 25 25 50 
+CSL502 Artificial Intelligence Lab -- -- -- -- -- 25 25 50 
+CSL503 Data Warehousing & 
+Mining Lab -- -- -- -- -- 25 25 50 
+CSL504 Business Communication 
+and Ethics-II -- -- -- -- -- 50 -- 50 
+CSM501 Mini Project : 2A -- -- -- -- -- 25 25 50 
+Total -- -- 100 400 -- 150 100 750 
+ 
+* Theory class to be conducted for full class and $ indicates workload of Learner (Not Faculty), students can  
+form groups with minimum 2(Two) and not more than 4(Four). Faculty Load: 1hour per week per four groups. 
+PROGRAM STRUCTURE FOR THIRD YEAR 
+UNIVERSITY OF MUMBAI (With Effect from 2022-2023) 
+Semester VI 
+Course 
+Code Course Name 
+Teaching Scheme 
+(Contact Hours) Credits Assigned 
+Theory Pract. 
+Tut. Theory Pract. Total 
+CSC601 Data Analytics and 
+Visualization 3 -- 3 -- 3 
+CSC602 Cryptography and System 
+Security 3 -- 3  3 
+CSC603 Software Engineering and 
+Project Management 3 -- 3 -- 3 
+CSC604 Machine Learning 3 -- 3 -- 3 
+CSDLO6 
+01X 
+Department  Level Optional 
+Course -2 3 -- 3 -- 3 
+CSL601 Data Analytics and 
+Visualization  Lab -- 2 -- 1 1 
+CSL602 Cryptography & System 
+Security Lab -- 2 -- 1 1 
+CSL603 Software Engineering and 
+Project Management Lab -- 2 -- 1 1 
+CSL604 Machine Learning Lab -- 2 -- 1 1 
+CSL605 Skill base Lab Course:  
+Cloud Computing  -- 4 -- 2 2 
+CSM601 Mini Project Lab:  2B -- 4$ -- 2 2 
+Total 15 16 15 08 23 
+Course 
+Code Course Name 
+Examination Scheme 
+Theory Term 
+Work 
+Pract. 
+&oral Total 
+Internal Assessment 
+End 
+Sem 
+Exam 
+Exam. 
+Duration 
+(in Hrs) 
+   
+Test 
+1 
+Test
+2 Avg      
+CSC601 Data Analytics and 
+Visualization 20 20 20 80 3 -- -- 100 
+CSC602 Cryptography and System 
+Security 20 20 20 80 3 -- -- 100 
+CSC603 Software Engineering and 
+Project Management 20 20 20 80 3 -- -- 100 
+CSC604 Machine Learning 20 20 20 80 3 -- -- 100 
+CSDLO6 
+01X 
+Department  Level Optional 
+Course -2 20 20 20 80 3 -- -- 100 
+CSL601 Data Analytics and 
+Visualization  Lab -- -- -- -- -- 25 25 50 
+CSL602 Cryptography & System 
+Security Lab -- -- -- -- -- 25 -- 25 
+CSL603 Software Engineering and 
+Project Management Lab -- -- -- -- -- 25 - 25 
+CSL604 Machine Learning Lab      25 25 50 
+CSL605 Skill base Lab Course:  
+Cloud Computing  -- -- -- -- -- 50 25 75 
+CSM601 Mini Project Lab:  2B -- -- -- -- -- 25 25 50 
+Total -- -- 100 400 -- 175 100 775 
+ 
+ 
+ 
+PROGRAM STRUCTURE FOR THIRD YEAR 
+UNIVERSITY OF MUMBAI (With Effect from 2022-2023) 
+DEPARTMENT OPTIONAL COURSES 
+ 
+Department 
+Optional 
+Courses 
+Semester Code & Subject 
+ 
+Department 
+Optional 
+Course -1 
+ 
+V 
+CSDLO5011 : Statistics for Artificial Intelligence & Data Science  
+CSDLO5012: Advanced Algorithms  
+CSDLO5013: Internet of Things  
+ 
+ 
+Department 
+Optional 
+Course -2 
+ 
+VI 
+CSDLO6011 :High Performance Computing 
+CSDLO6012: Distributed Computing 
+CSDLO6013: Image & Video processing  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Course Code Course Name Credit 
+CSC501 Computer  Networks 03 
+ 
+ 
+Pre-requisite: None 
+ 
+Course Objectives: The course aims: 
+1 To introduce concepts of computer networks and working of various layers of OSI. 
+2 To explore the issues and challenges of protocols design while delving into TCP/IP protocol 
+suite. 
+3 To assess the strengths and weaknesses of various routing algorithms. 
+4 To understand various transport layer and application layer protocols 
+5 To design enterprise network for given user requirements in an application. 
+ 
+Course Outcomes: 
+1 Demonstrate the concepts of data communication at physical layer and compare ISO - OSI 
+model with TCP/IP model. 
+2 Explore different design issues at data link layer. 
+3 Design the network using IP addressing and sub netting / supernetting schemes. 
+4 Analyze transport layer protocols and congestion control algorithms. 
+5 Explore protocols at application layer 
+6 Understand the customer requirements and Apply a Methodology to Network Design and 
+software defined networks 
+ 
+ 
+Module  Detailed Content Hours 
+1  Introduction to Networking  
+ 1.1 Introduction to computer network, Network Devices, Network topology, 
+Switching: Circuit-Switched Networks, Packet Switching, Network Types: 
+LAN, MAN, WAN 
+6 
+ 1.2 Reference models: Layer details of OSI, TCP/IP models. Difference between 
+OSI and TCP/IP 
+ 
+2  Physical and Data Link Layer 10 
+ 2.1 Physical Layer: Communication mechanisms and Electromagnetic Spectrum, 
+Guided Transmission Media: Twisted pair, Coaxial, Fiber optics 
+ 
+ 2.2 Data Link Layer: DLL Design Issues (Services, Framing, Error Control, Flow  
+Control), Error Detection and Correction (Hamming Code, CRC, Checksum) ,  
+Elementary Data Link protocols , Stop and Wait, Sliding Window (Go Back N,  
+Selective Repeat), Medium Access Control sublayer Channel Allocation 
+problem, Multiple access Protocol( ALOHA, Carrier Sense Multiple Access, 
+ 
+  (CSMA/CD)).  
+3  Network Layer 7 
+ 3.1 Network Layer: Communication Primitives, IPv4 Addressing (classful and 
+classless), Subnetting, IPv4 Protocol, Network Address Translation (NAT),  
+IPv6 addressing, IPv4 vs IPv6 addressing, Routed vs Routing protocols, 
+Classification of Routing algorithms, Shortest Path algorithms (Dijkastra‗s),  
+Link state routing, Distance Vector Routing 
+ 
+4  Transport Layer and Application Layer 7 
+ 4.1 Transport   Layer:   Service   primitives,   Sockets,   Connection management 
+(Handshake), UDP, TCP, TCP state transition, TCP timers, TCP Flow control 
+(sliding Window) 
+ 
+ 4.2 Application Layer: HTTP, SMTP, Telnet, FTP, DHCP, DNS and Types of 
+Name Server 
+ 
+5  Enterprise Network Design 5 
+  The Cisco Service Oriented Network Architecture, Network Design 
+Methodology, Top-Down vs Bottom up Approach to Network Design, Classic 
+Three-Layer Hierarchical Model: Core, Access and Distribution Layers, 
+Campus Design Considerations, Designing a Campus Network Design 
+Topology. 
+ 
+6  Software Defined Networks 4 
+  Introduction to Software Defined Network, Fundamental Characteristics of  
+SDN, SDN Building Blocks, Control and Data planes, SDN Operation, 
+OpenFlow messages – Controller to Switch, Symmetric and Asynchronous  
+messages, SDN OpenFlow Controllers: PoX, NoX Architecture. 
+ 
+ 
+ 
+Textbooks: 
+1 A.S. Tanenbaum, Computer Networks,4 th edition Pearson Education 
+2 B.A. Forouzan, Data Communications and Networking, 5 th edition, TMH 
+3 James F. Kurose, Keith W. Ross, Computer Networking, A Top-Down Approach Featuring the 
+Internet,6th edition, Addison Wesley 
+4  
+Behrouz A. Forouzan, Forouzan Mosharrat , Computer Networks A Top down Approach, Mc 
+Graw Hill education 
+5 Diane Teare , Authorized Self-Study Guide, Designing for Cisco Internetwork Solutions 
+(DESGN), Second Edition, Cisco Press. 
+6 Paul Göransson, Chuck Black, Software Defined Networks: A Comprehensive Approach, MK 
+Publication 
+7 Thomas D. Nadeau and Ken Gray, Software Defined Networks,1st Edition,O‘Reilly publication 
+ 
+References: 
+1 S.Keshav,An Engineering Approach To Computer Networking, Pearson . 
+2 Natalia Olifer & Victor Olifer,Computer Networks: Principles, Technologies & Protocols for 
+Network Design, Wiley India, 2011 
+3 Larry L.Peterson, Bruce S.Davie, Computer Networks: A Systems Approach, Second Edition 
+The Morgan Kaufmann Series in Networking 
+4 Siamak Azodolmolky, Software Defined Networking with Open Flow : PACKT Publishing. 
+5 Priscilla Oppenheimer, Top-Down Network Design (Networking Technology) 3rd Edition, 
+Cisco Press Book 
+ 
+Assessment: 
+ 
+Internal Assessment: 
+Assessment consists of two class tests of 20 marks each. The first-class test is to be conducted 
+when 
+approx. 40% syllabus is completed and second class test when additional40% syllabus is 
+completed. Duration of each test shall be one hour. 
+ 
+End Semester Theory Examination: 
+1 Question paper will consist of 6 questions, each carrying 20 marks. 
+2 The students need to solve a total of 4 questions. 
+3 Question No.1 will be compulsory and based on the entire syllabus. 
+4 Remaining question (Q.2 to Q.6) will be selected from all the modules. 
+ 
+ 
+ 
+Useful Links 
+1 https://nptel.ac.in/courses/106105183 
+2 https://www.coursera.org/specializations/computer-communications 
+3 https://www.coursera.org/learn/tcpip?action=enroll 
+Course Code Course Name Credit 
+CSC502 Web Computing 03 
+ 
+ 
+Pre-requisite: 
+ 
+Course Objectives: The course aims: 
+1 To orient students to Web Programming fundamental. 
+2 To expose students to JavaScript to develop interactive web page development 
+3 To orient students to Basics of REACT along with installation 
+4 To expose students to node.js applications using express framework 
+5 To orient students to Fundamentals of node.js 
+6 To expose students to Advanced concepts in REACT 
+ 
+Course Outcomes: 
+1 Select protocols or technologies required for various web applications 
+2 Apply JavaScript to add functionality to web pages. . 
+3 Design front end application using basic React. . 
+4 Construct web based Node.js applications using Express 
+5 Design front end applications using functional components of React. 
+6 Design back-end applications using Node.js 
+ 
+ 
+Modul
+e 
+ Detailed Content Hours 
+1  Web programming fundamentals  
+ 1.1 Working of web browser, HTTP protocol, HTTPS, DNS, TLS, XML 
+introduction, Json introduction, DOM, URL, URI, REST API 
+8 
+2  Javascript 8 
+ 2.1 Introduction to JavaScript: JavaScript language constructs, Objects in 
+JavaScript- Built in, Browser objects and DOM ob jects, event handling, form  
+validation and cookies. 
+Introduction to ES5,ES6, Difference between ES5 and ES6. Variables, 
+Condition, Loops, Functions, Events, Arrow functions, Setting CSS Styles  
+using JavaScript, DOM manipulation, Classes and Inheritance. Iterators and 
+Generators, Promise, Client-server communication, Fetch 
+ 
+3  React Fundamentals 10 
+ 3.1 Installation, Installing libraries, Folder and file structure, Components, 
+Component lifecycle, State and Props, React Router and Single page 
+applications, UI design, Forms, Events, Animations, Best practices. 
+ 
+4  Node. js 5 
+ 4.1 Environment setup, First app, Asynchronous programming, Callback concept, 
+Event loops, REPL, Event emitter, Networking module, Buffers, Streams, File 
+system, Web module. 
+ 
+5  Express 4 
+ 5.1 Introduction, Express router, REST API, Generator, Authentication, 
+sessions, Integrating with React 
+ 
+6  Advance React 4 
+ 6.1 Functional components- Refs, Use effects, Hooks, Flow architecture, 
+Model-ViewController framework, Flux, Bundling the application. Web 
+pack. 
+ 
+ 
+ 
+Textbooks: 
+1 Rediscovering JavaScript, Master ES6, ES7, and ES8, By Venkat Subramaniam · 2018 
+2 Learning React Functional Web Development with React and Redux, Alex Banks and Eve 
+Porcello, O‘Reilly 
+3 Learning Redux, Daniel Bugl, Packt Publication 
+4 Learning Node.js Development, Andrew Mead, Packt Publishing 
+5 RESTful Web API Design with Node.js 10, Valentin Bojinov, Packt Publication 
+ 
+References: 
+1 ―Web Development with Node and Express, Ethan Brown, O‘Reilly 
+2 HTML5 Cookbook, By Christopher Schmitt, Kyle Simpson, O'Reilly Media 
+3 Core Python Applications Programming by Wesley J Chun Third edition Pearson Publication 
+ 
+Assessment: 
+ 
+Internal Assessment: 
+Assessment consists of two class tests of 20 marks each. The first-class test is to be conducted when 
+approx. 40% syllabus is completed and second class test when additional40% syllabus is completed. 
+Duration of each test shall be one hour. 
+ 
+End Semester Theory Examination: 
+1 Question paper will consist of 6 questions, each carrying 20 marks. 
+2 The students need to solve a total of 4 questions. 
+3 Question No.1 will be compulsory and based on the entire syllabus. 
+4 Remaining question (Q.2 to Q.6) will be selected from all the modules. 
+ 
+ 
+Useful Links 
+1 https://www.coursera.org/learn/html-css-javascript-for-web-developers?action=enroll 
+2 ttps://onlinecourses.swayam2.ac.in/ugc19_lb05/preview 
+3 https://reactjs.org/tutorial/tutorial.html 
+4  https://react-redux.js.org/introduction/quick-start 4. https://webpack.js.org/ 
+Course Code Course Name Credit 
+CSC503 Artificial Intelligence 03 
+ 
+ 
+Pre-requisite: C Programming 
+ 
+Course Objectives: The course aims: 
+1 To gain perspective of AI and its foundations. 
+2 To study different agent architectures and properties of the environment 
+3 To understand the basic principles of AI towards problem solving, inference, perception, 
+knowledge representation, and learning. 
+4 To investigate probabilistic reasoning under uncertain and incomplete information. 
+5 To explore the current scope, potential, limitations, and implications of intelligent systems 
+ 
+Course Outcomes: 
+After successful completion of the course students will be able to: 
+1 Identify the characteristics of the environment and differentiate between various agent 
+architectures. 
+2 Apply the most suitable search strategy to design problem solving agents. 
+3 Represent a natural language description of statements in logic and apply the inference rules 
+to design Knowledge Based agents. 
+4 Apply a probabilistic model for reasoning under uncertainty. 
+5 Comprehend various learning techniques. 
+6 Describe the various building blocks of an expert system for a given real word problem. 
+ 
+ 
+Module  Detailed Content Hours 
+1  Introduction to Artificial Intelligence 3 
+ 1.1 Artificial Intelligence (AI), AI Perspectives: Acting and Thinking 
+humanly, Acting and Thinking rationally 
+ 
+1.2 History of AI, Applications of AI, The present state of AI, Ethics in AI 
+2  Intelligent Agents 4 
+ 2.1 Introduction of agents, Structure of Intelligent Agent, Characteristics of 
+Intelligent Agents 
+ 
+2.2 Types of Agents: Simple Reflex, Model Based, Goal Based, Utility Based 
+Agents. 
+2.2 Environment Types: Deterministic, Stochastic, Static, Dynamic, 
+Observable, Semi-observable, Single Agent, Multi Agent 
+3  Solving Problems by Searching 12 
+ 3.1 Definition, State space representation, Problem as a state space search, 
+Problem formulation, Well-defined problems 
+ 
+3.2 Solving Problems by Searching, Performance evaluation of search strategies, 
+Time Complexity, Space Complexity, Completeness, Optimality 
+ 3.3 Uninformed Search: Depth First S earch, Breadth First Search, Depth Limited  
+Search, Iterative Deepening Search, Uniform Cost Search, Bidirectional 
+Search 
+ 
+3.4 Informed Search: Heuristic Function, Admissible Heuristic, Informed Search  
+Technique, Greedy Best First Search, A* Search, Local  Search: Hill Climbing 
+Search, Simulated Annealing Search, Optimization: Genetic Algorithm 
+3.5 Game Playing, Adversarial Search Techniques, Mini-max Search, Alpha-Beta 
+Pruning 
+4  Knowledge and Reasoning 10 
+ 4.1 Definition and importance of Knowledge, Issues in Knowledge 
+Representation, Knowledge Representation Systems, Properties of Knowledge 
+Representation Systems 
+ 
+4.2 Propositional Logic (PL): Syntax, Semantics, Formal logic-connectives, truth 
+tables, tautology, validity, well-formed-formula, Introduction to logic 
+programming (PROLOG) 
+4.3 Predicate Logic: FOPL, Syntax, Semantics, Quantification, Inference rules in 
+FOPL, 
+4.4 Forward Chaining, Backward Chaining and Resolution in FOPL 
+5  Reasoning Under Uncertainty 5 
+  Handling Uncertain Knowledge, Random Variables, Prior and Posterior 
+Probability, Inference using Full Joint Distribution 
+ 
+ Bayes' Rule and its use, Bayesian Belief Networks, Reasoning in Belief 
+Networks 
+6  Planning and Learning 5 
+ 6.1 The planning problem, Partial order planning, total order planning.  
+6.2 Learning in AI, Learning Agent, Concepts of Supervised, Unsupervised, Semi 
+-Supervised Learning, Reinforcement Learning, Ensemble Learning. 
+6.3 Expert Systems, Components of Expert System: Knowledge base, Inference 
+engine, user interface, working memory, Development of Expert Systems 
+    
+  Total 39 
+ 
+Textbooks: 
+1 Stuart J. Russell and Peter Norvig, "Artificial Intelligence A Modern Approach ―Second 
+Edition" Pearson Education. 
+2 Elaine Rich and Kevin Knight ―Artificial Intelligenceǁ Third Edition, Tata McGraw-Hill 
+Education Pvt. Ltd., 2008. 
+3 George F Luger ―Artificial Intelligence‖ Low Price Edition, Pearson Education., Fourth 
+edition. 
+ 
+References: 
+1 Ivan Bratko ―PROLOG Programming for Artificial Intelligence‖, Pearson Education, Third 
+Edition. 
+2 D. W. Patterson, Artificial Intelligence and Expert Systems, Prentice Hall. 
+3 Saroj Kaushik ―Artificial Intelligence‖, Cengage Learning. 
+4 Davis E. Goldberg, ―Genetic Algorithms: Search, Optimization and Machine Learning‖, Addison 
+Wesley, N.Y., 1989. 
+5 Patrick Henry Winston, ―Artificial Intelligence‖, Addison-Wesley, Third Edition. 
+6 N. P. Padhy, ―Artificial Intelligence and Intelligent Systems‖, Oxford University Press. 
+Assessment: 
+ 
+Internal Assessment: 
+Assessment consists of two class tests of 20 marks each. The first-class test is to be conducted 
+when approx. 40% syllabus is completed and second class test when additional 40% syllabus is 
+completed. Duration of each test shall be one hour. 
+ 
+End Semester Theory Examination: 
+1 Question paper will consist of 6 questions, each carrying 20 marks. 
+2 The students need to solve a total of 4 questions. 
+3 Question No.1 will be compulsory and based on the entire syllabus. 
+4 Remaining question (Q.2 to Q.6) will be selected from all the modules. 
+ 
+ 
+ 
+Useful Links 
+1 An Introduction to Artificial Intelligence - Course (nptel.ac.in) 
+2 NPTEL 
+3 https://www.classcentral.com/course/independent-elements-of-ai-12469 
+4 https://tinyurl.com/ai-for-everyone 
+Course Code Course Name Credit 
+CSC504 Data Warehousing    and Mining 03 
+ 
+ 
+Pre-requisite: Database Management concepts 
+ 
+Course Objectives: The course aims: 
+1 To create awareness of how enterprise can organize and analyze large amounts of data by 
+creating a Data Warehouse 
+2 To introduce the concept of data Mining as an important tool for enterprise data management 
+and as a cutting edge technology for building competitive advantage. 
+3 To enable students to effectively identify sources of data and process it for data mining 
+4 To make students well versed in all data mining algorithms, methods of evaluation 
+5 To impart knowledge of tools used for data mining,and study web mining 
+ 
+Course Outcomes: 
+1 Organize strategic data in an enterprise and build a data Warehouse. 
+2 Analyze data using OLAP operations so as to take strategic decisions and Demonstrate an 
+understanding of the importance of data mining. 
+3 Organize and Prepare the data needed for data mining using pre preprocessing techniques 
+4 Implement the appropriate data mining methods like classification, clustering or Frequent 
+Pattern mining on large data sets. 
+5 Define and apply metrics to measure the performance of various data mining algorithms 
+6 Understand Concepts related to Web mining 
+ 
+ 
+Modul
+e 
+ Detailed Content Hours 
+1  Data Warehouse and OLAP   
+  Data Warehousing, Dimensional Modeling and OLAP The Need for Data 
+Warehousing; Data Warehouse Defined; Benefits of Data Warehousing ; 
+Features of a Data Warehouse; Data Warehouse Architecture; Data 
+Warehouse and Data Marts; Data Warehousing Design Strategies. 
+Dimensional Model Vs ER Model; The Star Schema, The Snowflake 
+Schema; Fact Tables and Dimension Tables; Factless Fact Table; Updates 
+To Dimension Tables, Primary Keys, Surrogate Keys & Foreign Keys; 
+Aggregate Tables; Fact Constellation Schema or Families of Star Need for 
+Online Analytical Processing; OLTP vs OLAP; OLAP Operations in a 
+cube: Roll-up, Drilldown, Slice, Dice, Pivot ; OLAP Models: MOLAP, 
+ROLAP, HOLAP. Major steps in ETL Process 
+9 
+2  Introduction to Data Mining ,Data Exploration and Data Preprocessing 8 
+  Data Mining Task primitives,Architecture,KDD process,Issues in data 
+Mining,Types of Attributes; Statistical Description of Data; Data 
+Visualization; Measuring similarity and dissimilarity. Why Preprocessing?  
+Data Cleaning; Data Integration; Data Reduction: Attribute subset selection,  
+Histograms, Clustering and Sampling; Data Transformation & Data 
+Discretization: Normalization, Binning, Histogram Analysis and Concept 
+hierarchy generation. 
+ 
+3  Classification 6 
+  Basic Concepts; Classification methods: 1. Decision Tree Induction: Attribute  
+Selection Measures, Tree pruning. 2. Bayesian Classification: Naïve Bayes‟  
+Classifier. Prediction: Structure of regression models; Simple linear 
+regression, Multiple linear regression. Accuracy and Error measures, 
+Precision, Recall 
+ 
+4  Clustering 4 
+  Cluster Analysis: Basic Concepts; Partitioning Methods: K-Means, 
+KMediods; Hierarchical Methods: Agglomerative, Divisive, BIRCH; Density-
+Based Methods: DBSCAN What are outliers? Types, Challenges; Outlier 
+Detection Methods: Supervised, Semi Supervised, Unsupervised, Proximity 
+based, Clustering Based 
+ 
+5  Frequent Pattern 8 
+  Market Basket Analysis, Frequent Itemsets, Closed Itemsets, and Association Rules; 
+Frequent Pattern Mining, Efficient and Scalable Frequent Itemset Mining Methods, 
+The Apriori Algorithm for finding Frequent Itemsets Using Candidate Generation, 
+Generating Association Rules from Frequent Itemsets, Improving the Efficiency of 
+Apriori, A pattern growth approach for mining Frequent Itemsets; Mining Frequent 
+itemsets using vertical data formats; Introduction to Mining Multilevel Association 
+Rules and Multidimensional Association Rules; From Association Mining to 
+Correlation Analysis, lift, ; Introduction to Constraint-Based Association Mining 
+ 
+6  Web Mining 4 
+  Introduction to Web content Mining, Crawlers, Personalization, 
+Web structure mining, Page rank,, Clever, Web Usage Mining 
+ 
+ 
+ 
+Textbooks: 
+1 Han, Kamber, "Data Mining Concepts and Techniques", Morgan Kaufmann 3nd Edition 
+2 P. N. Tan, M. Steinbach, Vipin Kumar, ―Introduction to Data Mining‖, Pearson Education. 
+3 Paulraj Ponniah, ―Data Warehousing: Fundamentals for IT Professionals‖, Wiley India. 
+4 Raghu Ramakrishnan and Johannes Gehrke, ―Database Management Systems‖ 3rd Edition - 
+McGraw Hill 
+5 Elmasri and Navathe, ―Fundamentals of Database Systems‖, 6th Edition, PEARSON 
+Education 
+ 
+References: 
+1 Theraja Reema, ―Data Warehousing‖, Oxford University Press, 2009 
+2 Ralph Kimball, Margy Ross, ―The Data Warehouse Toolkit: The Definitive Guide To 
+Dimensional Modeling‖, 3rd Edition. Wiley India. 
+3 Michael Berry and Gordon Linoff ―Mastering Data Mining- Art & science of CRM‖, Wiley 
+Student Edition 
+4 Michael Berry and Gordon Linoff ―Data Mining Techniques‖, 2nd Edition Wiley Publications 
+ 
+Assessment: 
+ 
+Internal Assessment: 
+Assessment consists of two class tests of 20 marks each. The first-class test is to be conducted 
+when approx. 40% syllabus is completed and second class test when additional40% syllabus is 
+completed. 
+Duration of each test shall be one hour. 
+ 
+End Semester Theory Examination: 
+1 Question paper will consist of 6 questions, each carrying 20 marks. 
+2 The students need to solve a total of 4 questions. 
+3 Question No.1 will be compulsory and based on the entire syllabus. 
+4 Remaining question (Q.2 to Q.6) will be selected from all the modules. 
+ 
+ 
+ 
+Useful Links 
+1 https://www.coursera.org/learn/data-warehousing-business-intelligence 
+2 https://www.coursera.org/specializations/data-mining-foundations-practice 
+3 https://onlinecourses.nptel.ac.in/noc20_cs12/preview 
+4 https://nptel.ac.in/courses/106105174 
+Course Code Course Name Credit 
+CSDLO5011 Statistics for Artificial Intelligence  Data Science 03 
+ 
+ 
+Prerequisite: C Programming 
+ 
+Course Objectives: The course aims: 
+1 To Perform exploratory analysis on the datasets 
+2 To Understand the various distribution and sampling 
+3 To Perform Hypothesis Testing on datasets 
+4 To Explore different techniques for Summarizing Data 
+5 To Perform The Analysis of Variance 
+6 To Explore Linear Least Squares 
+Course Outcomes: Learner will be able to 
+1 Illustrate Exploratory Data Analysis 
+2 Describe Data and Sampling Distributions 
+3 Solve Statistical Experiments and Significance Testing 
+4 Demonstrate Summarizing Data 
+5 Interpret the Analysis of Variance 
+6 Use Linear Least Squares 
+ 
+Prerequisite: Discrete Structures and Graph Theory 
+ 
+Module  Detailed Content Hours 
+1  Exploratory Data Analysis 5 
+ 1.1 Elements of Structured Data ,Further Reading ,Rectangular Data ,Data Frames and 
+Indexes ,Nonrectangular Data Structures , Estimates of Location ,Mean ,Median and 
+Robust Estimates , Estimates of Variability,Standard Deviation and Related Estimates 
+,Estimates Based on Percentiles , Exploring the Data Distribution ,Percentiles and 
+Boxplots ,Frequency Tables and Histograms ,Density Plots and Estimates. 
+ 
+ 1.2 Exploring   Binary   and   Categorical   Data   ,   Mode   ,Expected   Value,   Probability 
+,Correlation ,Scatterplots ,Exploring Two or More Variables ,Hexagonal Binning and 
+Contours (Plotting Numeric Versus Numerical Data) ,Two Categorical Variables 
+,Categorical and Numeric Data ,Visualizing Multiple Variables. 
+ 
+2  Data and Sampling Distributions 6 
+ 2.1 Random Sampling and Sample Bias ,Bias ,Random Selection ,Size Versus 
+Quality,Sample Mean Versus Population Mean ,Selection Bias ,Regression to the Mean 
+,Sampling Distribution of a Statistic ,Central Limit Theorem ,Standard Error ,The 
+Bootstrap ,Resampling Versus Bootstrapping . 
+ 
+ 2.2 Confidence Intervals ,Normal Distribution ,Standard Normal and QQ-Plots 
+,Long-Tailed Distributions ,Student‘s t-Distribution ,Binomial Distribution ,Chi-Square 
+Distribution ,F-Distribution ,Poisson and Related Distributions ,Poisson Distributions 
+,Exponential Distribution ,Estimating the Failure Rate ,Weibull Distribution . 
+ 
+Self Study : Problems in distributions. 
+ 
+3  Statistical Experiments and Significance Testing 8 
+ 3.1 A/B Testing ,Hypothesis Tests ,The Null Hypothesis ,Alternative Hypothesis ,One-Way 
+Versus Two-Way Hypothesis Tests ,Resampling ,Permutation Test ,Example: Web 
+Stickiness,Exhaustive and Bootstrap Permutation Tests ,Permutation Tests: The Bottom 
+Line for Data Science ,Statistical Significance and p-Values ,p-Value ,Alpha ,Type 1 and 
+ 
+  Type 2 Errors  
+ 3.2 Data Science and p-Values , t-Tests ,Multiple Testing ,Degrees of Freedom ,ANOVA 
+,F-Statistic ,Two-Way ANOVA , Chi-Square Test ,Chi-Square Test: A Resampling 
+Approach ,Chi-Square Test: Statistical Theory ,Fisher‘s Exact Test ,Relevance for Data 
+Science ,Multi-Arm Bandit Algorithm ,Power and Sample Size ,Sample Size . 
+ 
+Self Study : Testing of Hypothesis using any statistical tool 
+ 
+4  Summarizing Data 6 
+ 4.1 Methods Based on the Cumulative Distribution Function , The Empirical Cumulative 
+Distribution Function ,The Survival Function ,Quantile-Quantile Plots , Histograms, 
+Density Curves, and Stem-and-Leaf Plots , Measures of Location. 
+ 
+ 4.2 The Arithmetic Mean ,The Median , The Trimmed Mean , M Estimates , Comparison of 
+Location Estimates ,Estimating Variability of Location Estimates by the Bootstrap , 
+Measures of Dispersion , Boxplots , Exploring Relationships with Scatterplots . 
+ 
+Self Study : using any statistical tool perform data summarization 
+ 
+5  The Analysis of Variance 6 
+ 5.1 The One-Way Layout, Normal Theory; the F Test ,The Problem of Multiple 
+Comparisons , A Nonparametric Method—The Kruskal-Wallis Test ,The Two-Way 
+Layout , Additive Parametrization , Normal Theory for the Two-Way Layout 
+,Randomized Block Designs , A Nonparametric Method—Friedman‘s Test . 
+ 
+6  Linear Least Squares 8 
+ 6.1 Simple Linear Regression, Statistical Properties of the Estimated Slope and Intercept , 
+Assessing the Fit , Correlation and Regression , The Matrix Approach to Linear Least 
+Squares , Statistical Properties of Least Squares Estimates , Vector-Valued Random 
+Variables , Mean and Covariance of Least Squares Estimates , Estimation of σ2, 
+Residuals and Standardized Residuals , Inference about β , Multiple Linear 
+Regression—An Example , Conditional Inference, Unconditional Inference, and the 
+Bootstrap , Local Linear Smoothing . 
+ 
+Self Study :Create a Linear Regression model for a dataset and display the error 
+measures, Chose a dataset with categorical data and apply linear regression 
+model 
+ 
+ 
+ 
+Textbooks: 
+1 Bruce, Peter, and Andrew Bruce. Practical statistics for data scientists: 50 essential concepts. Reilly Media, 
+2017. 
+2 Mathematical Statistics and Data Analysis John A. Rice University of California, Berkeley,Thomson Higher 
+Education 
+References: 
+1 Dodge, Yadolah, ed. Statistical data analysis and inference. Elsevier, 2014. 
+2 Ismay, Chester, and Albert Y. Kim. Statistical Inference via Data Science: A Modern Dive into R and the 
+Tidyverse. CRC Press, 2019. 
+3 Milton. J. S. and Arnold. J.C., "Introduction to Probability and Statistics", Tata McGraw Hill, 4th Edition, 
+2007. 
+4 Johnson. R.A. and Gupta. C.B., "Miller and Freund‘s Probability and Statistics for Engineers", Pearson 
+Education, Asia, 7th Edition, 2007. 
+5 A. Chandrasekaran, G. Kavitha, ―Probability, Statistics, Random Processes and Queuing Theory‖, Dhanam 
+Publications, 2014. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Internal Assessment: 
+Assessment: 
+ 
+Assessment consists of two class tests of 2 0 marks each. The first -class test is to be conducted when approx. 
+40% syllabus is completed and second class test when additional40% syllabus is completed. Duration of each 
+test shall be one hour. 
+End Semester Theory Examination: 
+1 Question paper will consist of 6 questions, each carrying 20 marks. 
+2 The students need to solve a total of 4 questions. 
+3 Question No.1 will be compulsory and based on the entire syllabus. 
+4 Remaining question (Q.2 to Q.6) will be selected from all the modules. 
+ 
+ 
+ 
+Useful Links 
+1 https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2 
+2 https://www.coursera.org/learn/statistical-inference 
+3 https://www.datacamp.com/community/open-courses/statistical-inference-and-data-analysis 
+ 
+* Suggestion: Laboratory work based on the above syllabus can be incorporated as a mini project in 
+CSM501: Mini-Project. 
+Course Code Course Name Credit 
+CSDL05012 Advanced Algorithms 03 
+ 
+Pre-requisite: 
+ 
+Course Objectives: The course aims: 
+1 To provide mathematical approaches for problem solving using advanced concepts of 
+Algorithms 
+2 To understand and solve problems using various algorithmic approaches like Randomized 
+algorithms, approximation algorithms, Local search and Amortized algorithms. 
+3 To discuss and apply the Combinatorial Analysis techniques to solve various mathematical and 
+statistical problems 
+ 
+Course Outcomes: 
+1 Analyze the classification of problems into various NP classes and their Computational 
+Intractability 
+2 Describe, apply and analyze the complexity of Approximation Algorithms. 
+3 Describe, apply and analyze the complexity of Randomized Algorithms. 
+4 Describe, apply and analyze the complexity of Local Search Algorithms. 
+5 Design and Apply the concepts of String and Amortized Analysis 
+6 To Understand Combinatorial Analysis techniques 
+ 
+ 
+Module  Detailed Content Hours 
+1  NP and Computational Intractability  
+ 1.1 Polynomial-Time Reductions, NP Completeness: Overview, Class P– Class NP 
+– NP Hardness, NP Completeness, Cook Levine Theorem, Charact eristics of 
+NP Complete Problems, The Satisfiability Problem, NP -Complete Problems,  
+Sequencing Problems Partitioning Problems, Graph Coloring, Numerical 
+Problems, Co -NP and the Asymmetry of NP, A Partial Taxonomy of Hard  
+Problems. Reduction of standard NP Complete Problems: SAT, 3SAT, Clique, 
+Vertex Cover, Set Cover, Hamiltonian Cycle. 
+8 
+2  Approximation Algorithms 9 
+ 2.1 Approximation algorithms for known NP hard problems, Inapproximability,  
+Approximation algorithms with small additive error: Edge Coloring, Bin 
+Packing, Randomized rounding and linear programming, Problems having 
+polynomial approximation schemes, Optimization problems with constant-
+factor approximations, Hard-to-approximate problems, Analysis of 
+Approximation Algorithms. 
+ 
+3  Randomized Algorithms 9 
+ 3.1 Introduction to randomized algorithm, Finding the Global Minimum Cut, 
+Random Variables and Their Expectations, A Randomized Approximation 
+Algorithm for MAX 3-SAT, Randomized Divide and Conquer: Median-
+Finding and Quicksort, Hashing: A Ran domized Implementation of  
+Dictionaries, Finding the Closest Pair of Points: A Randomized Approach,  
+Randomized Caching, Chernoff Bounds, Load Balancing, Packet Routing, Las  
+Vegas Algorithm, Monte Carlo Algorithm. 
+ 
+4  Local Search 5 
+ 4.1 The Landscape of an Optimization Problem, The Metropolis Algorithm and  
+Simulated Annealing, An Application of Local Search to Hopfield Neural 
+Networks, Maximum-Cut Approximation via Local Search, Choosing a 
+Neighbour Relation, Classification via Local Search, Best -Response Dynamics 
+and Nash Equilibria. 
+ 
+5  String and Amortized Analysis 4 
+ 5.1 String Sort, Tries, Substring Search, Regular Expressions, Data Compression,  
+String Matching Algorithms: Introduction to String matching, The Knuth-
+Morris-Pratt algorithm, Aho - Korasik algorithm, Z -algorithm, Amortized  
+Analysis: Aggregate analysis, The accounting method, The potential method  
+Dynamic tables. 
+ 
+6  Combinatorial Analysis 4 
+ 6.1 Introduction, Next subset of n-Set problems, Random Subset of n-
+Set problems, Sequencing, Ranking and selection algorithms for 
+general combinatorial families. 
+ 
+ 
+ 
+ 
+Textbooks: 
+1 Jon Kleinberg, Eva Tardos, ―Algorithm Design‖, Cornell University, Pearson Publications 
+2 Robert Sedgewick, Kevin Wayne, ―Algorithms‖, Princeton, FOURTH EDITION, 
+Addison Wessely. 
+3 Thomas H. Cormen , Charles E., Ronald l., Clifford Stein, ―Introduction to 
+Algorithms‖, Third Edition, The MIT Press Cambridge. 
+4 Albert Nijenhuis, Herbert Wilf, ―Combinatorial Algorithms for computers and 
+calculators‖, Second edition, Academic Press 
+5 George Heineman, Gary Pollice, Stanley Selkow, ―Algorithms in a Nutshell‖, Oreilly Press. 
+ 
+References: 
+1 Anany Levitin, Introduction to The design and analysis of algorithms, 3rd Edition, Pearson 
+publication. 
+2 Peter J. Cameron, ―Combinatorics: Topics, Techniques, Algorithms‖, Cambridge University 
+Press 
+ 
+Assessment: 
+ 
+Internal Assessment: 
+Assessment consists of two class tests of 20 marks each. The first-class test is to be conducted when 
+approx. 40% syllabus is completed and second class test when additional40% syllabus is completed. 
+Duration of each test shall be one hour. 
+ 
+End Semester Theory Examination: 
+1 Question paper will consist of 6 questions, each carrying 20 marks. 
+2 The students need to solve a total of 4 questions. 
+3 Question No.1 will be compulsory and based on the entire syllabus. 
+4 Remaining question (Q.2 to Q.6) will be selected from all the modules. 
+ 
+ 
+ 
+Useful Links 
+1 https://www.binghamton.edu/watson/continuing-education/data-science/advanced-algorithms 
+.html 
+2  
+https://nptel.ac.in/courses/106104019 
+3  
+https://www.coursera.org/learn/advanced-algorithms-and-complexity 
+4  
+https://onlinecourses.swayam2.ac.in/cec20_cs03/preview 
+ 
+ 
+*Suggestion: Laboratory work based on the above syllabus can be incorporated as a mini 
+project in CSM501: Mini-Project. 
+ 
+ 
+ 
+ 
+ 
+Course Code Course Name Credit 
+     CSDLO5013 Internet   of Things 
+ 
+03 
+ 
+ 
+Course Objectives: To understand Internet   of Things (IoT) Characteristics and Conceptual Framework 
+1. To comprehend Characteristics and Conceptual Framework of IoT 
+2. To understand levels of the IoT architectures 
+3. To correlate the connection of smart objects and IoT access technologies 
+4. To Interpret edge to cloud protocols 
+5. To explore data analytics and data visualization on IoT Data 
+6. To explore IoT applications 
+ 
+Course Outcomes: Learner will be able to 
+1. Describe the Characteristics and Conceptual Framework of IoT 
+2. Differentiate between the levels of the IoT architectures 
+3. Analyze the IoT access technologies 
+4. Illustrate various edge to cloud protocol for IoT 
+5. Apply IoT analytics and data visualization 
+6. Analyze and evaluate IoT applications 
+ 
+Prerequisite: 
+1. Python programming 
+2. C programing language 
+3. Computer Networks 
+DETAILED SYLLABUS: 
+ 
+Sr. 
+No. 
+Module Detailed 
+Content 
+Hou
+r s 
+1 Introduction 
+to IoT 
+Introduction to IoT- Defining IoT, Characteristics of IoT, 
+Conceptual Framework of IoT, Physical design of IoT, Logical 
+design of IoT, Functional  blocks of IoT, Brief review of 
+applications of IoT. Smart Object – Definition, Characteristics 
+and Trends 
+Self-learning Topics: Hardware and software development 
+tools for - Arduino, NodeMCU, ESP32, Raspberry Pi, f or 
+implementing internet of  things, Simulators-
+Circuit.io,Eagle,Tinkercad 
+4 
+2 IoT 
+Architecture 
+Drivers Behind New Network Architectures : 
+Scale,Security,Constrained 
+Devices and Networks ,Data,Legacy Device Support 
+Architecture : The IoT World Forum (IoTWF) Standardized 
+Architecture 
+:Layer 1-7, IT and OT Responsibilities in the IoT Reference 
+Model,Additional IoT Reference Models 
+A Simplified IoT Architecture 
+The Core IoT Functional Stack ::Layer 1-3 , Analytics Versus 
+Control Applications , Data Versus Network Analytics Data 
+Analytics Versus Business Benefits , Smart Services, 
+IoT Data Management and Compute Stack :Fog Computing , 
+Edge Computing ,The Hierarchy of Edge, Fog, and Cloud 
+Self-learning Topics: Brief review of applications of IoT: 
+Connected Roadways , Connected Factory, Smart Connected 
+Buildings , Smart Creatures etc, 
+7 
+3 Principles of 
+Connected 
+Devices and 
+Protocols in 
+IoT 
+ 
+RFID and NFC (Near -Field Communication), Bluetooth Low 
+Energy (BLE)  roles, LiFi , WPAN std : 802.15 standards: 
+Bluetooth, IEEE 802.15.4, Zigbee, Z-wave, Narrow Band IoT, 
+Internet Protocol and Transmission Control Protocol, 
+6LoWPAN, WLAN and WAN , IEEE 802.11, Long-range 
+Communication Systems and Protocols: Cellular Connectivity -
+LTE, LTE-A, LoRa and LoRaWAN. 
+8 
+4 Edge to 
+Cloud 
+Protocol 
+ 
+HTTP, WebSocket, Platforms. HTTP - MQTT -.Complex 
+Flows: IoT Patterns: Real-time Clients, MQTT, MQTT -SN, 
+Constrained Application  Protocol (CoAP), Streaming Text 
+Oriented Message Protocol ( STOMP), Advanced Message 
+Queuing Protocol (AMQP), Comparison of Protocols. 
+8 
+5 IoT and 
+Data 
+Analytics 
+Defining IoT Analytics, IoT Analytics challenges, IoT analytics 
+for the cloud,  Strategies to organize Data for IoT Analytics, 
+Linked Analytics Data Sets,  Managing Data lakes, The data 
+retention strategy, visualization and Dashboarding-Designing 
+visual analysis for IoT data, creating a dashboard 
+,creating and visualizing alerts. 
+Self-learning Topics: AWS and Hadoop Technology 
+7 
+6 IoT 
+Application 
+Design 
+ 
+Prototyping for IoT and M2M, Case study related to : Home 
+Automation (Smart lighting, Home intrusion detection), Cities 
+(Smart Parking), Environment (Weather monitoring, weather 
+reporting Bot, Air pollution monitoring, Forest fire detection, 
+Agriculture (Smart irrigation), Smart Library. Introduction to I-
+IoT, Use cases of the I-IoT,IoT and I-IoT – similarities and 
+differences, Introduction to Internet of Behavior (IoB) 
+ 
+Self-learning Topics: Internet of Behaviors (IoB) and its role in 
+customer services 
+5 
+Text Book 
+ 
+1. Arsheep Bahga (Author), Vijay Madisetti, Internet Of Things: A Hands-On Approach 
+Paperback, Universities Press, Reprint 2020 
+2. David Hanes, Gonzalo Salgueiro, Patrick Grossetete, Robert Barton, Jerome Henry, 
+IoT Fundamentals Networking Technologies, Protocols, and Use Cases for the Internet of 
+Things CISCO. 
+3. Analytics for the Internet of Things (IoT) Intelligent Analytics for Your Intelligent 
+Devices.Andrew Minteer,Packet 
+4. Giacomo Veneri , Antonio Capasso,‖ Hands-On Industrial Internet of Things: Create a 
+powerful Industrial IoT infrastructure using Industry 4.0‖, Packt 
+ 
+ 
+References: 
+1. Pethuru Raj, Anupama C. Raman, The Internet of Things: Enabling Technologies, 
+Platforms, and Use Cases by , CRC press, 
+2. Raj Kamal, Internet of Things, Architecture and Design Principles, McGraw Hill 
+Education, Reprint 2018. 
+3. Perry Lea, Internet of Things for Architects: Architecting IoT solutions by implementing 
+sensors, communication infrastructure, edge computing, analytics, and security, Packt 
+Publications, Reprint 2018. 
+4. Amita Kapoor, ―Hands on Artificial intelligence for IoT‖, 1st Edition, Packt Publishing, 
+2019. 
+5. Sheng-Lung Peng, Souvik Pal, Lianfen Huang Editors: Principles of Internet of Things 
+(IoT)Ecosystem:Insight Paradigm, Springer 
+ 
+ 
+Online References: 
+1. https://owasp.org/www-project-internet-of-things/ 
+2. NPTEL: Sudip Misra, IIT Khargpur, Introduction to IoT: Part-1, 
+https://nptel.ac.in/courses/106/105/106105166/ 
+3. NPTEL: Prof. Prabhakar, IISc Bangalore, Design for Internet of Things, 
+https://onlinecourses.nptel.ac.in/noc21_ee85/preview 
+4. Mohd Javaid, Abid Haleem, Ravi Pratap Singh, Shanay Rab, Rajiv Suman,Internet of 
+Behaviors (IoB) and its role in customer services,Sensors International,Volume 
+2,2021,100122,ISSN 2666-3511,https://doi.org/10.1016/j.sintl.2021.100122 
+ 
+ 
+* Suggestion: Laboratory work based on the above syllabus can be      
+incorporated as a mini project in CSM501: Mini-Project. 
+Lab Code Lab Name Credit 
+CSL501      Web Computing and Network Lab 1 
+ 
+ 
+Prerequisite: Operating System, Basics of Java and Python Programming. 
+Lab Objectives: 
+1 To orient students to HTML for making webpages 
+2 To expose students to CSS for formatting web pages 
+3 To expose students to developing responsive layout 
+4 To expose students to JavaScript to make web pages interactive 
+5 To orient students to React for developing front end applications 
+6 To orient students to Node.js for developing backend applications 
+Lab Outcomes: 
+1 Identify and apply the appropriate HTML tags to develop a webpage 
+2 Identify and apply the appropriate CSS tags to format data on webpage 
+3 Construct responsive websites using Bootstrap 
+4 Use JavaScript to develop interactive web pages. 
+5 Construct front end applications using React and back end using Node.js/express 
+6 Use simulator for CISco packet tracer/GNS3 
+ 
+ 
+Suggested Experiments: Students are required to complete at least 10 experiments. 
+Star (*) marked experiments are compulsory. 
+Sr. No. Name of the Experiment 
+1* HTML:Elements, Attributes, Head, Body, Hyperlink, Formatting, Images, Tables, 
+List, Frames, Forms, Multimedia 
+2* CSS3.Syntax, Inclusion, Color, Background, Fonts, Tables, lists,CSS3 selectors, 
+Pseudo classes, Pseudo elements . 
+3 Bootstrap:BootstrapGrid system, Forms, Button, Navbar, Breadcrumb, Jumbotron 
+4* Javascript:Variables, Operators, Conditions, Loops, Functions, Events, Classes and 
+Objects, Error handling, Validations, Arrays, String, Date 
+5* React:Installation and Configuration. JSX, Components, Props, State, Forms, Events, 
+Routers, Refs, Keys. 
+6* Node.Js:Installation and Configuration, Callbacks, Event loops, Creating express app 
+7* To design and simulate the environment for Dynamic routing using Cisco packet 
+tracer/ GNS3 
+8* To design and Simulate VLANs on the switch/router using Cisco packet tracer/ GNS3 
+9* To design and Simulate NAT on the router using Cisco packet tracer/ GNS3 
+10* Simulation of Software Defined Network using Mininet 
+ 
+Useful Links: 
+1 www.leetcode.com 
+2 www.hackerrank.com 
+3 www.cs.usfca.edu/~galles/visualization/Algorithms.html 
+4 www.codechef.com 
+ 
+Term Work: 
+1 Term work should consist of 10 experiments from above list. 
+2 Journal must include at least 2 assignments. 
+3 The final certification and acceptance of term work ensures that satisfactory performance of 
+laboratory work and minimum passing marks in term work. 
+4 Total 25 Marks (Experiments: 15-marks, Attendance Theory & Practical: 05-marks, 
+Assignments: 05-marks) 
+Oral & Practical exam 
+ Based on the entire syllabus of CSL501and CSC502 
+Lab Code Lab Name Credit 
+CSL502 Artificial Intelligence Lab 1 
+ 
+ 
+Prerequisite: C Programming Language. 
+Lab Objectives: 
+1 To design suitable Agent Architecture for a given real world AI problem 
+2 To implement knowledge representation and reasoning in AI language 
+3 To design a Problem-Solving Agent 
+4 To incorporate reasoning under uncertainty for an AI agent 
+Lab Outcomes: 
+At the end of the course, students will be able to —- 
+1 Identify suitable Agent Architecture for a given real world AI problem 
+2 Implement simple programs using Prolog. 
+3 Implement various search techniques for a Problem-Solving Agent. 
+4 Represent natural language description as statements in Logic and apply inference rules to it. 
+5 Construct a Bayesian Belief Network for a given problem and draw probabilistic inferences 
+from it 
+ 
+ 
+ 
+Suggested Experiments: Students are required to complete at least 10 experiments. 
+ 
+Sr. No. Name of the Experiment 
+1 Provide the PEAS description and TASK Environment for a given AI problem. 
+2 Identify suitable Agent Architecture for the problem 
+3 Write simple programs using PROLOG as an AI programming Language 
+4 Implement any one of the Uninformed search techniques 
+5 Implement any one of the Informed search techniques 
+E.g. A-Star algorithm for 8 puzzle problem 
+6 Implement adversarial search using min-max algorithm. 
+7 Implement any one of the Local Search techniques. 
+E.g. Hill Climbing, Simulated Annealing, Genetic algorithm 
+8 Prove the goal sentence from the following set of statements in FOPL by applying 
+forward, backward and resolution inference algorithms. 
+9 Create a Bayesian Network for the given Problem Statement and draw inferences 
+from it. (You can use any Belief and Decision Networks Tool for modeling Bayesian 
+Networks) 
+10 Implement a Planning Agent 
+11 Design a prototype of an expert system 
+12 Case study of any existing successful AI system 
+Useful Links: 
+1 An Introduction to Artificial Intelligence - Course (nptel.ac.in) 
+2 https://tinyurl.com/ai-for-everyone 
+3 https://ai.google/education/ 
+4 https://openai.com/research/ 
+ 
+Term Work: 
+1 Term work should consist of 10 experiments. 
+2 Journal must include at least 2 assignments. 
+3 The final certification and acceptance of term work ensures that satisfactory performance of 
+laboratory work and minimum passing marks in term work. 
+4 Total 25 Marks (Experiments: 15-marks, Attendance Theory & Practical: 05-marks, 
+Assignments: 05-marks) 
+Oral & Practical exam 
+ Based on the entire syllabus 
+Lab Code Lab Name Credit 
+CSL503 Data warehousing  and Mining Lab 1 
+ 
+ 
+Prerequisite: Java and Python Programming. 
+Lab Objectives: 
+1 To create awareness of how enterprise can organize and analyze large amounts of data by 
+creating a Data Warehouse 
+2 To introduce the concept of data Mining as an important tool for enterprise data management 
+and as a cutting edge technology for building competitive advantage 
+3 To enable students to effectively identify sources of data and process it for data mining 
+4 To make students well versed in all data mining algorithms, methods, and tools.. 
+Lab Outcomes: 
+1 Build a data warehouse 
+2 Analyze data using OLAP operations so as to take strategic decisions. 
+3 Demonstrate an understanding of the importance of data mining 
+4 Organize and Prepare the data needed for data mining using pre preprocessing techniques 
+5 Perform exploratory analysis of the data to be used for mining. 
+6 Implement the appropriate data mining methods like classification, clustering or Frequent 
+Pattern mining on large data sets. 
+ 
+ 
+Suggested Experiments: Students are required to complete all experiments from the list given 
+below. 
+Sr. No. Name of the Experiment 
+1 Data Warehouse Construction a) Real life Problem to be defined for Warehouse Design 
+b) Construction of star schema and snow flake schema c) ETL Operations. 
+2 Construction of Cubes , OLAP Operations, OLAP Queries 
+3 Tutorials a) Solving exercises in Data Exploration b) Solving exercises in Data 
+preprocessing 
+4 Using open source tools Implement Classifiers 
+5 Using open source tools Implement Association Mining Algorithms 
+6 Using open source tools Implement Clustering Algorithms 
+7 Implementation of any one classifier using languages like JAVA/ python 
+8 Implementation of any one clustering algorithm using languages like JAVA/ python 
+9 Implementation of any one association mining algorithm using languages like JAVA/ 
+python . 
+10 Implementation of page rank algorithm. 
+11 Implementation of HITS algorithm. 
+ 
+Useful Links: 
+1 www.leetcode.com 
+2 www.hackerrank.com 
+3 www.cs.usfca.edu/~galles/visualization/Algorithms.html 
+4 www.codechef.com 
+ 
+Term Work: 
+1 Term work should consist of 10 experiments. 
+2 Journal must include at least 2 assignments. 
+3 The final certification and acceptance of term work ensures that satisfactory performance of 
+laboratory work and minimum passing marks in term work. 
+4 Total 25 Marks (Experiments: 15-marks, Attendance Theory & Practical: 05-marks, 
+Assignments: 05-marks) 
+Oral & Practical exam 
+ Based on the entire syllabus of CSL301and CSC303 
+Course Code Course Name Credit 
+CSL504 Business Communication & Ethics II 02 
+ 
+ 
+Course Rationale: This curriculum is designed to build up a professional and ethical 
+approach, effective oral and written communication with enhanced soft skills. Through 
+practical sessions, it augments student's interactive competence and confidence to respond 
+appropriately and creatively to the implied challenges of the global Industrial and Corporate 
+requirements. It further inculcates the 
+social responsibility of engineers as technical citizens. 
+Course Objectives 
+1 To discern and develop an effective style of writing important technical/business 
+documents. 
+2 To investigate possible resources and plan a successful job campaign. 
+3 To understand the dynamics of professional communication in the form of group 
+discussions, meetings, etc. required for career enhancement. 
+4 To develop creative and impactful presentation skills. 
+5 To analyze personal traits, interests, values, aptitudes and skills. 
+6 To understand the importance of integrity and develop a personal code of ethics. 
+Course Outcomes: At the end of the course, the student will be able to 
+1 Plan and prepare effective business/ technical documents which will in turn provide 
+solid 
+foundation for their future managerial roles. 
+2 Strategize their personal and professional skills  to build a professional  image and 
+meet 
+the demands of the industry. 
+3 Emerge successful in group discussions, meetings and result-oriented agreeable 
+solutions in 
+group communication situations. 
+4 Deliver persuasive and professional presentations. 
+5 Develop creative thinking and interpersonal skills required for effective professional 
+communication. 
+6 Apply codes of ethical conduct, personal integrity and norms of organizational 
+behaviour. 
+ 
+ 
+Module Conten
+ts 
+Ho
+urs 
+1 ADVANCED TECHNICAL WRITING: PROJECT/PROBLEM 
+BASED LEARNING (PBL) 06 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Purpose and Classification of Reports: 
+Classification on the basis of: Subject Matter (Technology, Accounting, 
+Finance, Marketing, etc.), Time Interval (Periodic, One-time, Special), 
+Function (Informational, Analytical, etc.), Physical Factors 
+(Memorandum, Letter, Short & Long) 
+Parts of a Long Formal Report: Prefatory Parts (Front Matter), 
+Report Proper (Main Body), Appended Parts (Back Matter) 
+Language and Style of Reports: Tense, Person & Voice of Reports, 
+Numbering Style of Chapters, Sections, Figures, Tables and Equations, 
+Referencing Styles in APA & MLA Format, Proofreading through Plagiarism 
+Checkers 
+Definition, Purpose & Types of Proposals: Solicited (in conformance 
+ 
+ with RFP) & Unsolicited Proposals, Types (Short and Long proposals) 
+Parts of a Proposal: Elements, Scope and Limitations, Conclusion Technical 
+Paper Writing: Parts of a Technical Paper (Abstract, Introduction, Research 
+Methods, Findings and Analysis, Discussion, Limitations, Future Scope and 
+References), Language and Formatting, Referencing in IEEE Format 
+2 EMPLOYMENT SKILLS 06 
+ Cover Letter & Resume: Parts and Content of a Cover Letter, 
+Difference between Bio-data, Resume & CV, Essential Parts of a 
+Resume, Types of Resume (Chronological, Functional & Combination) 
+Statement of Purpose: Importance of SOP, Tips for Writing an Effective SOP 
+Verbal Aptitude Test: Modelled on CAT, GRE, GMAT exams 
+Group Discussions: Purpose of a GD, Parameters of Evaluating a 
+GD, Types of GDs (Normal, Case-based & Role Plays), GD Etiquettes 
+Personal Interviews: Planning and Preparation, Types of 
+Questions, Types of Interviews (Structured, Stress, Behavioural, 
+Problem Solving & Case-based), Modes of Interviews: Face-to-face 
+(One-to one and Panel) Telephonic, Virtual 
+ 
+3 BUSINESS MEETINGS 02 
+ Conducting Business Meetings: Types of Meetings, Roles and 
+Responsibilities of Chairperson, Secretary and Members, Meeting 
+Etiquette 
+Documentation: Notice, Agenda, Minutes 
+ 
+4 TECHNICAL/ BUSINESS PRESENTATIONS 02 
+ Effective Presentation Strategies: Defining Purpose, Analyzing 
+Audience, Location and Event, Gathering, Selecting &Arranging 
+Material, structuring a Presentation, Making Effective Slides, Types 
+of Presentations Aids, Closing a Presentation, Platform skills 
+Group Presentations: Sharing Responsibility in a Team, Building 
+the contents and visuals together, Transition Phases 
+ 
+5 INTERPERSONAL SKILLS 08 
+ Interpersonal Skills: Emotional Intelligence, Leadership & 
+Motivation, Conflict Management & Negotiation, Time Management, 
+Assertiveness, Decision Making 
+Start-up Skills: Financial Literacy, Risk Assessment, Data 
+Analysis (e.g. Consumer Behaviour, Market Trends, etc.) 
+ 
+6 CORPORATE ETHICS 02 
+ Intellectual Property Rights: Copyrights, Trademarks, Patents, 
+Industrial Designs, Geographical Indications, Integrated Circuits, 
+Trade Secrets (Undisclosed Information) 
+Case Studies: Cases related to Business/ Corporate Ethics 
+ 
+ 
+ 
+List of assignments: (In the form of Short Notes, Questionnaire/ MCQ Test, Role Play, 
+Case Study, Quiz, etc.) 
+Sr. 
+No. 
+Title of Experiment 
+1 Cover Letter and Resume 
+2 Short Proposal 
+3 Meeting Documentation 
+4 Writing a Technical Paper/ Analyzing a Published Technical Paper 
+5 Writing a SOP 
+6 IPR 
+7 Interpersonal Skills 
+Note: 
+1 The Main Body of the project/book report should contain minimum 25 pages (excluding Front 
+and Back matter). 
+2 The group size for the final report presentation should not be less than 5 students or exceed 7 
+students. 
+3 There will be an end–semester presentation based on the book report. 
+Assessment: 
+Term Work: 
+1 Term work shall consist of minimum 8 experiments. 
+2 The distribution of marks for term work shall be as follows: 
+Assignment : 10 Marks 
+Attendance : 5 Marks 
+Presentation slides  : 5 Marks 
+Book Report (hard copy) : 5 Marks 
+3 The final certification and acceptance of term work ensures the satisfactory performance of 
+laboratory work and minimum passing in the term work. 
+Internal oral: Oral Examination will be based on a GD & the Project/Book Report presentation. 
+ Group Discussion : 10 marks 
+Project Presentation : 10 Marks  
+Group Dynamics : 5 Marks 
+Books Recommended: Textbooks and Reference books 
+1 Arms, V. M. (2005). Humanities for the engineering curriculum: With selected 
+chapters from Olsen/Huckin: Technical writing and professional communication, 
+second edition. Boston, MA: McGraw-Hill. 
+2 Bovée, C. L., &Thill, J. V. (2021). Business communication today. Upper Saddle 
+River, NJ: Pearson. 
+3 Butterfield, J. (2017). Verbal communication: Soft skills for a digital workplace. 
+Boston, MA: Cengage Learning. 
+4 Masters, L. A., Wallace, H. R., & Harwood, L. (2011). Personal development for life 
+and work. Mason: South-Western Cengage Learning. 
+5 Robbins, S. P., Judge, T. A., & Campbell, T. T. (2017). Organizational behaviour. 
+Harlow, England: Pearson. 
+6 Meenakshi Raman, Sangeeta Sharma (2004) Technical Communication, Principles and 
+Practice. Oxford University Press 
+7 Archana Ram (2018) Place Mentor, Tests of Aptitude for Placement Readiness. 
+Oxford University Press 
+8 Sanjay Kumar &PushpLata (2018). Communication Skills a workbook, New Delhi: 
+Oxford University Press. 
+ 
+ 
+ 
+Course Code Course Name Credits 
+CSM501 Mini Project 2A 02 
+ 
+Objectives 
+1 To understand and identify the problem 
+2 To apply basic engineering fundamentals and attempt to find solutions to the problems. 
+3 Identify, analyze, formulate and handle programming projects with a comprehensive and 
+systematic  approach 
+4 To develop communication skills and improve teamwork amongst group members and 
+inculcate the process of self-learning and research.   
+Outcome: Learner will be able to… 
+1 Identify societal/research/innovation/entrepreneurship problems through appropriate 
+literature surveys 
+2 Identify Methodology for solving above problem and apply engineering knowledge and 
+skills to solve it  
+3 Validate, Verify the results using test cases/benchmark data/theoretical/ 
+inferences/experiments/simulations 
+4 Analyze and evaluate the impact of solution/product/research/innovation 
+/entrepreneurship  towards societal/environmental/sustainable development 
+5 Use standard norms of engineering practices and project management principles during 
+project work 
+6 Communicate through technical report writing and oral presentation.  
+● The work may result in research/white paper/ article/blog writing and publication 
+● The work may result in business plan for entrepreneurship product created 
+● The work may result in patent filing. 
+7 Gain technical competency towards participation in Competitions, Hackathons, etc. 
+8 Demonstrate capabilities of self-learning, leading to lifelong learning. 
+9 Develop interpersonal skills to work as a member of a group or as leader 
+Guidelines for Mini Project 
+1 Mini project may be carried out in one or more form of following:  
+Product preparations, prototype development model, fabrication of set -ups, laboratory 
+experiment  development, process modification/development, simulation, software 
+development, integr ation of  software (frontend -backend) and hardware, statistical 
+data analysis, creating awareness in society/environment  etc.  
+2 Students shall form a group of 3 to 4 students, while forming a group shall not be 
+allowed less than three or more than four students, as it is a group activity. 
+3 Students should do survey and identify needs, which shall be converted into problem 
+statement for mini project in consultation with faculty supervisor or 
+head of department/internal committee of faculties. 
+4 Students shall submit an implementation plan in the form of Gantt/PERT/CPM chart, 
+which will cover weekly activity of mini projects. 
+5 A logbook may be prepared by each group, wherein the group can record weekly work 
+progress, guide/supervisor can verify and record notes/comments. 
+6 Faculty supervisors may give inputs to students during mini project activity; however, 
+focus shall be on self-learning. 
+7 Students under the guidance of faculty supervisor shall convert the best solution into a 
+working model using various components of their domain areas and demonstrate. 
+8 The solution to be validated with proper justification and report to be compiled in 
+standard format of University of Mumbai. Software requirement specification (SRS) 
+documents, research papers, competition certificates may be submitted as part of 
+annexure to the report. 
+9 With the focus on self -learning, innovation, addressing societal/research/innovation 
+problems and entrepreneurship quality development within the students through the 
+Mini Projects, it is preferable that a single project of appropriate level and quality be 
+carried out in two semesters by all the groups of the students. i.e. Mini Project 2 in 
+semesters V and VI. 
+10 However, based on the individual students or group capability, wit h the mentor‘s 
+recommendations, if   the   proposed   Mini Project adhering to the qualitative aspects 
+mentioned above, gets completed in odd semester, then that group can be allowed to 
+work on the extension of the Mini Project with suitable improvements/m odifications or 
+a completely new project idea in even semester. This policy can be adopted on a case 
+by case basis. 
+ 
+Term Work 
+The review/ progress monitoring committee shall be constituted by the heads of departments of 
+each institute. The progress of the mini project to be evaluated on a continuous basis, based on 
+the SRS document submitted. minimum two reviews in each semester. 
+In continuous assessment focus shall also be on each individual student, assessment based on 
+individual‘s contribution in group activity, their understanding and response to questions. 
+Distribution of Term work marks for both semesters shall be as below: Marks 25 
+1 Marks awarded by guide/supervisor based on logbook 10 
+2 Marks awarded by review committee 10 
+3 Quality of Project report 05 
+ Review / progress monitoring committee may consider following points for assessment 
+based on either one year or half year project asmentioned in general guidelines 
+One-year project: 
+1 In one-year project (sem V and VI), first semester the entire theoretical solution shall be 
+made ready, including components/system selection and cost analysis. Two reviews will 
+be conducted based on a presentation given by a student group. 
+ First shall be for finalization of problem 
+ Second shall be on finalization of proposed solution of problem. 
+2 In the second semester expected work shall be procurement of component‘s/systems, 
+building of working prototype, testing and validation of results based on work completed 
+in an earlier semester. 
+ First review is based on readiness of building working prototype to be conducted. 
+ Second review shall be based on poster presentation cum demonstration of 
+working model in the last month of the said semester. 
+Half-year project: 
+1 In this case in one semester students‘ group shall complete project in all aspects including, 
+ Identification of need/problem 
+ Proposed final solution 
+ Procurement of components/systems 
+ Building prototype and testing 
+2 Two reviews will be conducted for continuous assessment, 
+ First shall be for finalization of problem and proposed solution 
+ Second shall be for implementation and testing of solution. 
+ 
+Mini Project shall be assessed based on following points 
+1 Clarity of problem and quality of literature Survey for problem identification 
+2 Requirement Gathering via SRS/ Feasibility Study 
+3  Completeness of methodology implemented 
+4  Design, Analysis and Further Plan  
+5  Novelty, Originality or Innovativeness of project 
+6 Societal / Research impact 
+7  Effective use of skill set : Standard engineering practices and Project management 
+standard 
+8  Contribution of an individual‘s as member or leader 
+9 Clarity in written and oral communication 
+10  Verification and  validation of the solution/ Test Cases 
+11   Full functioning of working model as per stated requirements 
+12 Technical writing /competition/hackathon outcome being met 
+ 
+In one year project (sem V and VI), first semester evaluation may be based on first 10 criteria and 
+remaining may be used for second semester evaluation of performance of students in mini 
+projects. 
+In case of half year projects (completing in V sem) all criteria in generic may be considered for 
+evaluation of performance of students in mini projects. 
+ 
+Guidelines for Assessment of Mini Project Practical/Oral Examination: 
+1  Report should be prepared as per the guidelines issued by the University of Mumbai. 
+2  Mini Project shall be assessed through a presentation and demonstration of working model 
+by the student project group to a panel of Internal and Exte rnal Examiners preferably from 
+industry or research organizations having experience of more than five years approved by 
+the head of Institution. 
+3  Students shall be motivated to publish a paper/participate in competition based on the work 
+in Conferences/students competitions. 
+ 
+ 
+Course Code Course Name Credit 
+CSC601 Data Analytics and Visualization 03 
+ 
+  
+Prerequisite:Basic statistics and Maths, Python programming 
+ 
+Course Objectives: The course aims: 
+1 To Introduce the concept of Data Analytics Lifecycle. 
+2 To Develop Mathematical concepts required for advance regression. 
+3 To Understand data modeling in time series and its process. 
+4 To create awareness about Text analytics and its applications. 
+5 To provide overview of Data analytics and visualization with R. 
+6 To provide overview of Data analytics and visualization with Python. 
+ 
+Course Outcomes: After successful completion of the course students will be able to: 
+1 Comprehend basics of data analytics and visualization. 
+2 Apply various regression models on given data set and perform prediction. 
+3 Demonstrate advance understanding of Time series concepts and analysis of data using 
+various time series models. 
+4 Analyze Text data and gain insights. 
+5 Experiment with different analytics techniques and visualization using R. 
+6 Experiment with different analytics techniques and visualization using Python. 
+ 
+ 
+Modu
+le 
+ Detailed Content Hours 
+1  Introduction to Data analytics and life cycle 5 
+ 1.1 Data Analytics Lifecycle overview: Key Roles for a Suc cessful 
+Analytics, Background and Overview of Data Analytics Lifecycle 
+Project 
+Phase 1 : Discovery: Learning the Business Domain, Resources 
+Framing the Problem, Identifying Key Stakeholders. Interviewing the 
+Analytics Sponsor, Developing Initial Hypotheses Identifying 
+Potential Data Sources  
+Phase 2 : Data Preparation: Preparing the Analytic Sandbox, 
+Performing ETLT, Learning About the Data, DataConditioning, 
+Survey and visualize, Common Tools for the Data Preparation Phase 
+Phase 3: Model Planning: Data Explo ration and Variable Selection, 
+Model Selection ,Common Tools for the Model Planning Phase  
+Phase 4 : Model Building: Common Tools for the Model Building 
+Phase  
+Phase 5: Communicate Results 
+Phase 6: Operationalize  
+ 
+2  Regression Models 8 
+ 2.1 Introduction to simple Linear Regression: The Regression Equation, 
+Fittedvalue and Residuals, Least Square 
+ 
+Introduction to Multiple Linear Regression: Assessing the Model, 
+Cross-Validation, Model Selection and Stepwise Regression, 
+Prediction Using Regression  
+2.2 Logistic Regression: Logistic Response function and logit, Logistic 
+Regression and GLM, Generalized Linear model, Predicted values 
+from Logistic Regression, Interpreting the coefficients and odds 
+ratios, Linear and Logistic Regression: similarities and Diff erences, 
+Assessing the models. 
+3  Time Series  7 
+  Overview of Time Series Analysis Box -Jenkins Methodology, 
+ARIMA Model Autocorrelation Function (ACF) ,Autoregressive 
+Models ,Moving Average Models ,ARMA and ARIMA Models , 
+Building and Evaluating an ARI MA Model, Reasons to Choose and 
+Cautions 
+ 
+4  Text Analytics 7 
+ 4.1 History of text mining, Roots of text mining overview of seven 
+practices of text analytic, Application and use cases for Text mining: 
+extracting meaning from unstructured text, Summarizing Text. 
+ 
+  Text Analysis Steps, A Text Analysis Example , Collecting Raw Text 
+,Representing Text ,Term Frequency —Inverse Document Frequency 
+(TFIDF),Categorizing Documents by Topics, Determining 
+Sentiments , Gaining Insights . 
+ 
+ 
+5  Data analytics and visualization with R 6 
+ 5.1 Introduction to R: Data Import and Export, Attribute and Data type, 
+Descriptive statistics. 
+Exploratory Data Analysis: Visualization before analysis, DirtyData, 
+visualizing single variable, examining Multiple variable, Data 
+Exploration versus presentation. 
+ 
+6  Data analytics and Visualization with Python 6 
+ 6.1 Essential Data Libraries for data analytics:Pandas, NumPy, SciPy. 
+Plotting and visualization with python: Introduction to Matplotlib, 
+Basic Plotting with Matplotlib, Create  Histogram, BarChart, Pie 
+chart, Box Plot, violin plot using Matplotlib. 
+ 
+6.2 Introduction to seaborn Library, MultiplePlots, Regressionplot, 
+regplot. 
+                                                                                                              Total 39 
+ 
+Textbooks: 
+1 Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting    
+Data,EMC Education services Wiley Publication 
+2 Data Analytics using Python: Bharati Motwani, Wiley Publications. 
+3 Practical Statistics for Data Scientists 50+ Essential Concepts Using R 
+and Python, O‘Reilly Publications 2nd Edition 
+4 Practical Text Mining and statistical Analysis for non-structured text data applications,1st 
+edition,Grey Miner,Thomas Hill. 
+ 
+References: 
+1 Data Mining, Concepts and Techniques: 3rd edition, Jiawei Han, Micheline Kamber and 
+Jian Pei 
+2 Data Analytics using R, Bharati Motwani, Wiley Publications 
+3 Python for Data Analysis: 3rd Edition, Wes McKinney ,Publisher(s): O'Reilly Media, Inc. 
+ 
+Assessment: 
+ 
+Internal Assessment: 
+Assessment consists of two class tests of 20 marks each. The first-class test is to be conducted 
+when approx. 40% syllabus is completed and second-class test when additional 40% syllabus is 
+completed. Duration of each test shall be one hour. 
+ 
+End Semester Theory Examination: 
+1 Question paper will consist of 6 questions, each carrying 20 marks. 
+2 The students need to solve a total of 4 questions. 
+3 Question No.1 will be compulsory and based on the entire syllabus. 
+4 Remaining question (Q.2 to Q.6) will be selected from all the modules. 
+ 
+ 
+ 
+Useful Links 
+1 http://varianceexplained.org/RData/ 
+2 https://www.kaggle.com/code/iamleonie/time-series-interpreting-acf-and-pacf 
+3 https://www.geeksforgeeks.org/data-visualization-using-matplotlib/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Course Code Course Name Credit 
+CSC602 Cryptography and System Security 03 
+ 
+ 
+Pre-requisite: Basic concepts of OSI Layer 
+ 
+Course Objectives: The course aims: 
+1 The concepts of classical encryption techniques and concepts of finite fields and number 
+theory. 
+2 To explore the working principles and utilities of various cryptographic algorithms including 
+secret key cryptography, hashes and message digests, and public key algorithms 
+3 To explore the design issues and working principles of various authentication protocols, PKI 
+standards. 
+4 To explore various secure communication standards including Kerberos, IPsec, and SSL/TLS 
+and email. 
+5 The ability to use existing cryptographic utilities to build programs for secure communication. 
+6 The concepts of cryptographic utilities and authentication mechanisms to design secure 
+applications 
+ 
+Course Outcomes: 
+1 Identify information security goals, classical encryption techniques and acquire fundamental 
+knowledge on the concepts of finite fields and number theory. 
+2 Understand, compare and apply different encryption and decryption techniques to solve 
+problems related to confidentiality and authentication 
+3 Apply the knowledge of cryptographic checksums and evaluate the performance of different 
+message digest algorithms for verifying the integrity of varying message sizes 
+4 Apply different digital signature algorithms to achieve authentication and create secure 
+applications . 
+5 Apply network security basics, analyze different attacks on networks and evaluate the 
+performance of firewalls and security protocols like SSL, IPSec, and PGP 
+6 Apply the knowledge of cryptographic utilities and authentication mechanisms to design 
+secure applications 
+ 
+ 
+Module  Detailed Content Hours 
+1  Introduction & Number Theory  
+ 1.1 Services, Mechanisms and attacks-the OSI security architecture-Network 
+security model-Classical Encryption techniques (Symmetric cipher model, 
+mono-alphabetic and poly-alphabetic substitution techniques: Vignere 
+cipher, playfair cipher, Hill cipher, transposition techniques: keyed and 
+keyless transposition ciphers, steganography). 
+7 
+2  Block Ciphers & Public Key Cryptography 7 
+ 2.1 Data Encryption Standard-Block cipher principles-block cipher modes of 
+operationAdvanced Encryption Standard (AES)-Triple DES-Blowfish-RC5 
+algorithm. Public key cryptography: Principles of public key cryptosystems-
+The RSA algorithm, The knapsack algorithm, El-Gamal Algorithm. Key 
+management – Diffie Hellman Key exchange 
+ 
+ 
+Internal Assessment: 
+Assessment: 
+3  Cryptographic Hashes, Message Digests and Digital Certificates 7 
+ 3.1 Authentication requirement – Authentication function , Types of 
+Authentication, MAC – Hash function – Security of hash function and MAC 
+–MD5 – SHA – HMAC – CMAC, Digital Certificate: X.509, PKI 
+ 
+4  Digital signature schemes and authentication Protocols 6 
+ 4.1 Digital signature and authentication protocols : Needham Schroeder 
+Authentication protocol, Digital Signature Schemes – RSA, EI Gamal and  
+Schnorr, DSS. 
+ 
+5  System Security 6 
+  Operating System Sec urity: Memory and Address Protection, File Protection  
+Mechanism, User Authentication. Linux and Windows: Vulnerabilities, File 
+System Security 
+Database Security: Database Security Requirements, Reliability and Integrity, 
+Sensitive Data, Inference Attacks, Multilevel Database Security 
+ 
+6  Web security 6 
+ 6.1 Web Security Considerations, User Authentication and Session 
+Management, Cookies, SSL, HTTPS, SSH, Web Browser Attacks, 
+Web Bugs, Clickjacking, CrossSite Request Forgery, Session 
+Hijacking and Management, Phishing Technique, DNS Attack, 
+Secure Electronic Transaction, Email Attacks, Firewalls, Penetration 
+Testing 
+ 
+ 
+ 
+Textbooks: 
+1 Computer Security Principles and Practice, William Stallings, Sixth Edition, Pearson 
+Education 
+2 Security in Computing, Charles P. Pfleeger, Fifth Edition, Pearson Education 
+3 Network Security and Cryptography, Bernard Menezes, Cengage Learning 
+4 Network Security Bible, Eric Cole, Second Edition, Wiley 
+5 Mark Stamp‘s Information Security Principles and Practice, Wiley 
+ 
+References: 
+1 Web Application Hackers Handbook by Wiley. 
+2 Computer Security, Dieter Gollman, Third Edition, Wiley 
+3 CCNA Security Study Guide, Tim Boyle, Wiley 
+4 Introduction to Computer Security, Matt Bishop, Pearson. 5. 
+5 Cloud Security and Privacy, Tim Mather, Subra Kumaraswamy, Shahed Latif , O‘Riely 
+6 Cryptography and Network Security, Atul Kahate, Tata Mc Graw Hill 
+ 
+ 
+ 
+Assessment consists of two class tests of 20 marks each. The first-class test is to be conducted 
+when approx. 40% syllabus is completed and second class test when additional40% syllabus is 
+completed. 
+Duration of each test shall be one hour. 
+ 
+End Semester Theory Examination: 
+1 Question paper will consist of 6 questions, each carrying 20 marks. 
+2 The students need to solve a total of 4 questions. 
+3 Question No.1 will be compulsory and based on the entire syllabus. 
+4 Remaining question (Q.2 to Q.6) will be selected from all the modules. 
+ 
+ 
+ 
+Useful Links 
+1 https://nptel.ac.in/courses/106105031 
+2 https://onlinecourses.nptel.ac.in/noc22_cs03/preview 
+3 https://www.coursera.org/learn/basic-cryptography-and-crypto-api 
+Course Code Course Name Credit 
+CSC603 Software Engineering and Project Management 03 
+ 
+ 
+Pre-requisite: None 
+ 
+Course Objectives: The course aims: 
+1 To provide the knowledge of software engineering discipline. 
+2 To understand Requirements and analyze it 
+3 To do planning and apply scheduling 
+4 To apply analysis, and develop software solutions 
+5 To demonstrate and evaluate real time projects with respect to software engineering principles 
+and Apply testing and assure quality in software solution. 
+6 To understand need of project management and project management life cycle. 
+ 
+Course Outcomes: 
+1 Understand and use basic knowledge in software engineering. 
+2 Identify requirements, analyze and prepare models. 
+3 Plan, schedule and track the progress of the projects. 
+4 Design & develop the software solutions for the growth of society 
+5 Apply testing and assure quality in software solutions 
+6 Generate project schedule and can construct, design and develop network diagram for 
+different type of Projects. They can also organize different activities of project 
+ 
+ 
+Module  Detailed Content Hours 
+1  Introduction to Software Engineering  
+  Nature of Software, Software Engineering, Software Process, Capability 
+Maturity Model (CMM) Generic Process Model, Prescriptive Process 
+Models: The Waterfall Model, V-model, Incremental Process Models, 
+Evolutionary Process Models, Concurrent Models, Agile process, Agility 
+Principles, Extreme Programming (XP), Scrum, Kanban model 
+08 
+2  Requirements Analysis and Cost Estimation 06 
+ 2.1 Software Requirements: Functional & non-functional – user-system 
+requirement engineering process – feasibility studies – elicitation – validation 
+& management – software prototyping – S/W documentation – Analysis and 
+modelling Requirement Elicitation, Software requirement specification (SRS) 
+3Ps (people, product and process) Process and Project metrics Software 
+Project Estimation: LOC, FP, Empirical Estimation Models - COCOMO II 
+Model 
+ 
+3  Design Engineering 07 
+ 3.1 Design Process & quality, Design Concepts, The design Model, Pattern -based 
+Software Design. 4.2 Architectural Design :Design Decisions, Views, Patterns, 
+Application Architectures, Modeling Component level Design: component,  
+Designing class based com ponents, conducting component -level design, User  
+Interface Design: The golden rules, Interface Design steps & Analysis, Design 
+Evaluation 
+ 
+4  Software Risk, Configuration Management 05 
+ 4.1 Risk Identification, Risk Assessment, Risk Projection, RMMM Software 
+Configuration management, SCM repositories, SCM process Software Quality 
+Assurance Task and Plan, Metrics, Software Reliability, Formal Technical 
+Review (FTR), Walkthrough. 
+ 
+5  Software Testing and Maintenance 05 
+ 5.1 Testing: Software Quality, Testing: Strategic Approach, Strategic Issues- 
+Testing: Strategies for Conventional Software, Object oriented software, Web 
+AppsValidating Testing- System Testing- Art of Debugging. 
+Maintenance : Software Maintenance-Software Supportability- 
+Reengineering- Business Process Reengineering- Software Reengineering- 
+Reverse Engineering- Restructuring- Forward Engineering. 
+ 
+6  IT Project Management and Project Scheduling 08 
+ 6.1 Introduction, 4 P‘s, W5HH Principle, Need for Project Management, Project 
+Life cycle and ITPM, Project Feasibility, RFP, PMBOK Knowledge areas, 
+Business Case, Project Planning, Project Charter and Project Scope. 
+ 
+ 6.2 Project Scheduling:Defining a Task Set for the Software Project, Timeline 
+chartsWBS, Developing the Project Schedule, Network Diagrams (AON, 
+AOA), CPM and PERT, Gantt Chart , Tracking the Schedule, Earned Value 
+Analysis 
+ 
+ 
+ 
+ 
+Textbooks: 
+1 Roger S. Pressman, Software Engineering: A practitioner's approach, McGraw Hill 
+2 Rajib Mall, Fundamentals of Software Engineering, Prentice Hall India 
+3 John M. Nicholas, Project Management for Business and Technology, 3rd edition, Pearson 
+Education. 
+ 
+References: 
+1 ―Software Engineering : A Precise Approach‖ Pankaj Jalote , Wiley India 
+2 Ian Sommerville ― Software Engineering‖ 9th edition Pearson Education SBN-13: 978-0- 13- 
+703515-1, ISBN-10: 0-13-703515-2 
+3 PankajJalote, An integrated approach to Software Engineering, Springer/Narosa. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Assessment: 
+ 
+Internal Assessment: 
+Assessment consists of two class tests of 20 marks each. The first-class test is to be conducted 
+when 
+approx. 40% syllabus is completed and second class test when additional40% syllabus is 
+completed. Duration of each test shall be one hour. 
+ 
+End Semester Theory Examination: 
+1 Question paper will consist of 6 questions, each carrying 20 marks. 
+2 The students need to solve a total of 4 questions. 
+3 Question No.1 will be compulsory and based on the entire syllabus. 
+4 Remaining question (Q.2 to Q.6) will be selected from all the modules. 
+ 
+ 
+Useful Links 
+1 https://onlinecourses.swayam2.ac.in/cec21_cs21/preview 
+2  
+https://nptel.ac.in/courses/106101061 
+3  
+http://www.nptelvideos.com/video.php?id=911&c=9 4 
+Course Code Course  Name Credit 
+CSC604 Machine        Learning 03 
+ 
+ 
+Pre-requisite: Data Structures, Basic Probability and Statistics, Algorithms 
+ 
+Course Objectives: The course aims: 
+1 To introduce Machine learning concepts 
+2 To develop mathematical concepts required for Machine learning algorithms 
+3 To understand various Regression techniques 
+4 To understand Clustering techniques 
+5 To develop Neural Network based learning models 
+ 
+Course Outcomes: 
+After successful completion of the course students will be able to: 
+1 Comprehend basics of Machine Learning 
+2 Build Mathematical foundation for machine learning 
+3 Understand various Machine learning models 
+4 Select suitable Machine learning models for a given problem 
+5 Build Neural Network based models 
+6 Apply Dimensionality Reduction techniques 
+ 
+ 
+Modul 
+e 
+ Detailed Content Hours 
+1  Introduction to Machine Learning 6 
+ 1.1 Introduction to Machine Learning, Issues in Machine Learning, 
+Application of Machine Learning, Steps of developing a Machine 
+Learning Application. 
+ 
+ Supervised and Unsupervised Learning: Concepts of Classification, 
+Clustering and prediction, Training, Testing and validation dataset, cross 
+validation, overfitting and underfitting of model 
+ Performance Measures: Measuring Quality of model- Confusion Matrix, 
+Accuracy, Recall, Precision, Specificity, F1 Score, RMSE 
+2  Mathematical Foundation for ML 5 
+ 2.1 System of Linear equations, Norms, Inner products, Length of Vector, Distance 
+between vectors, Orthogonal vectors 
+ 
+2.2 Symmetric Positive Definite Matrices, Determinant, Trace, Eigenvalues and 
+vectors, Orthogonal Projections, Diagonalization, SVD and its applications 
+3  Linear Models 7 
+ 3.1 The least-squares method, Multivariate Linear Regression, Regularized 
+Regression, Using Least-Squares Regression for classification 
+ 
+3.2 Support Vector Machines 
+4  Clustering 4 
+ 4.1 Hebbian Learning rule  
+ 4.2 Expectation -Maximization algorithm for clustering  
+5  Classification models 10 
+ 5.1 Introduction, Fundamental concept, Evolution of Neural Networks, Biological 
+Neuron, Artificial Neural Networks, NN architecture, McCulloch-Pitts Model. 
+Designing a simple network, Non-separable patterns, Perceptron model with 
+Bias. Activation functions, Binary, Bipolar, continuous, Ramp. Limitations of 
+Perceptron. 
+ 
+5.2 Perceptron Learning Rule. Delta Learning Rule (LMS-Widrow Hoff), 
+Multi-layer perceptron network. Adjusting weights of hidden layers. Error back 
+propagation algorithm. 
+ 5.3 Logistic regression  
+6  Dimensionality Reduction 07 
+ 6.1 Curse of Dimensionality.  
+6.2 Feature Selection and Feature Extraction 
+6.3 Dimensionality Reduction Techniques, Principal Component Analysis. 
+ 
+ 
+ 
+Textbooks: 
+1 Nathalie Japkowicz & Mohak Shah, ―Evaluating Learning Algorithms: A 
+Classification Perspective‖, Cambridge. 
+2 Marc Peter Deisenroth, Aldo Faisal, Cheng Soon Ong, ―Mathematics for machine learning‖, 
+3 Samir Roy and Chakraborty, ―Introduction to soft computing‖, Pearson Edition. 
+4 Ethem Alpaydın, ―Introduction to Machine Learning‖, MIT Press McGraw-Hill Higher 
+Education 
+5 Peter Flach, ―Machine Learning‖, Cambridge University Press 
+ 
+References: 
+1 Tom M. Mitchell, ―Machine Learning‖, McGraw Hill 
+2 Kevin P. Murphy, ―Machine Learning ― A Probabilistic Perspective‖, MIT Press 
+3 Stephen Marsland, ―Machine Learning an Algorithmic Perspective‖, CRC Press 
+4 Shai Shalev-Shwartz, Shai Ben-David, ―Understanding Machine Learning‖, Cambridge 
+University Press 
+5 Peter Harrington, ―Machine Learning in Action‖, DreamTech Press 
+ 
+Assessment: 
+ 
+Internal Assessment: 
+Assessment consists of two class tests of 20 marks each. The first-class test is to be conducted 
+when approx. 40% syllabus is completed and second class test when additional40% syllabus is 
+completed. Duration of each test shall be one hour. 
+ 
+End Semester Theory Examination: 
+1 Question paper will consist of 6 questions, each carrying 20 marks. 
+2 The students need to solve a total of 4 questions. 
+3 Question No.1 will be compulsory and based on the entire syllabus. 
+4 Remaining question (Q.2 to Q.6) will be selected from all the modules. 
+ 
+ 
+ 
+Useful links:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 NPTEL 
+2 AI and ML Certification - Enroll in PGP AI ML Courses with Purdue (simplilearn.com) 
+3 https://www.learndatasci.com/out/coursera-machine-learning/ 
+4 https://www.learndatasci.com/out/google-machine-learning-crash-course/ 
+Course  Code Course Name Credit 
+CSDLO6011 High Performance Computing 03 
+ 
+ 
+Course Objectives: Students will try to: 
+ 
+1. Learn the concepts of high-performance computing. 
+2. Gain knowledge of platforms for high performance computing. 
+3. Design and implement algorithms for parallel programming applications. 
+4. Analyze the performance metrics of High Performance Computing. 
+5. Understand the parallel programming paradigm, algorithms and applications. 
+6. Demonstrate the understanding of different High Performance Computing tools. 
+ 
+Course Outcomes: Students will be able to: 
+ 
+1. Understand the fundamentals of parallel Computing. 
+2. Describe different parallel processing platforms involved in achieving High 
+Performance Computing. 
+3. Demonstrate the principles of Parallel Algorithms and their execution. 
+4. Evaluate the performance of HPC systems. 
+5. Apply HPC programming paradigm to parallel applications 
+6. Discuss different current HPC Platforms. 
+ 
+Prerequisite: Computer Organization, C Programming, Data structures and Algorithm Analysis. 
+ 
+ 
+DETAILED SYLLABUS: 
+ 
+Sr. 
+No. 
+Module Detailed 
+Content 
+Hours 
+0 Prerequisite Computer Organization, C Programming, Data 
+structures and Algorithm Analysis. 
+02 
+I Introduction Introduction to Parallel Computing: Motivating 
+Parallelism, Scope of Parallel Computing, Levels of 
+parallelism (instruction, transaction, task, thread, memory, 
+function), Models (SIMD, 
+MIMD, SIMT, SPMD, Dataflow Models, Demand-
+driven Computation). 
+Self-learning Topics: Parallel Architectures: 
+Interconnection network, Processor Array, 
+Multiprocessor. 
+05 
+II Parallel 
+Programming 
+Platforms 
+Parallel Programming Platforms: Implicit 
+Parallelism: Dichotomy of Parallel Computing 
+Platforms, Physical 
+Organization of Parallel Platforms, Communication 
+Costs in Parallel Machines. 
+Self-learning Topics: Trends in Microprocessor & 
+Architectures, Limitations of Memory System Performance. 
+04 
+III Parallel 
+Algorithm 
+And 
+Concurrency 
+Principles of Parallel Algorithm Design: 
+Preliminaries, Decomposition Techniques, 
+Characteristics of Tasks and Interactions, Mapping 
+Techniques for Load Balancing, 
+Basic Communication operations: Broadcast and 
+Reduction Communication types. 
+Self-learning Topics: Parallel Algorithm Models 
+09 
+IV Performance 
+Measures for  
+HPC 
+Performance Measures : Speedup, execution time, 
+efficiency, cost, scalability, Effect of granularity on 
+performance, Scalability of Parallel Systems, Amdahl‘s 
+Law, Gustavson‘s Law. 
+Self-learning Topics: Performance Bottlenecks. 
+05 
+V Programming 
+Paradigms for  
+HPC 
+Programming Using the Message-Passing 
+Paradigm : Principles of Message Passing 
+Programming, The Building Blocks: Send and Receive 
+Operations, MPI: the Message Passing Interface, 
+Topology and Embedding. 
+Parallel Algorithms and Applications : 
+09 
+  One-Dimensional Matrix-Vector Multiplication, Graph 
+Algorithms, Sample Sort, Two-Dimensional 
+MatrixVector Multiplication. 
+Self-learning Topics: Introduction to OpenMP. 
+ 
+VI General 
+Purpose 
+Graphics 
+Processing 
+Unit(GPGPU) 
+Architecture 
+and 
+Programming 
+OpenCL Device Architectures, Introduction to OpenCL 
+Programming. 
+Self-learning Topics: Introduction to CUDA 
+architecture, and Introduction to CUDA Programming. 
+05 
+ 
+ 
+ 
+ 
+ 
+ 
+Text Books: 
+ 
+1. AnanthGrama, Anshul Gupta, George Karypis, Vipin Kumar , ―Introduction to Parallel 
+Computing‖, Pearson Education, Second Edition, 2007. 
+2. Kai Hwang, Naresh Jotwani, ―Advanced Computer Architecture: Parallelism, 
+Scalability, Programmability‖, McGraw Hill, Second Edition, 2010. 
+3. Edward Kandrot and Jason Sanders, ―CUDA by Example – An Introduction to General 
+Purpose GPU Programming‖, Addison-Wesley Professional ©, 2010. 
+4. Georg Hager, Gerhard Wellein, ―Introduction to High Performance Computing for 
+Scientists and Engineers", Chapman & Hall / CRC Computational Science series, 2011. 
+5. Benedict Gaster, Lee Howes, David Kaeli, Perhaad Mistry, Dana Schaa , 
+―Heterogeneous Computing with OpenCL‖ , 2nd Edition, Elsevier, 2012. 
+ 
+Reference Books: 
+ 
+1. Michael J. Quinn, ―Parallel Programming in C with MPI and OpenMP‖, McGraw-Hill 
+International Editions, Computer Science Series, 2008. 
+2. Kai Hwang, Zhiwei Xu, ―Scalable Parallel Computing: Technology, Architecture, 
+Programming‖, McGraw Hill, 1998. 
+3. Laurence T. Yang, MinyiGuo, ―High- Performance Computing: Paradigm and 
+Infrastructure‖ Wiley, 2006. 
+4. Fayez Gebali, ―Algorithms and Parallel Computing‖, John Wiley & Sons, Inc., 2011. 
+ 
+Online References: 
+Sr. No. Website Name 
+1. https://onlinecourses.nptel.ac.in/noc21_cs46/preview 
+2. https://onlinecourses.nptel.ac.in/noc22_cs21/preview 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Assessment: 
+Internal Assessment (IA) for 20 marks: 
+• IA will consist of Two Compulsory Internal Assessment Tests. 
+Approximately 40% to 50% of syllabus content must be covered in 
+First IA Test and remaining 40% to 50% of syllabus content must be 
+covered in Second IA Test. 
+ 
+End Semester Examination: Some guidelines for setting the question papers are as: 
+ 
+● Weightage of each module in end semester examination is expected to 
+be/will be proportional to number of respective lecture hours mentioned in 
+the syllabus. 
+● Question paper format 
+• Question Paper will comprise of a total of six questions each 
+carrying 20 marks. Q.1 will be compulsory and should cover 
+maximum contents of the syllabus 
+• Remaining questions will be mixed in nature (part (a) and part (b) 
+of each question must be from different modules. For example, if 
+Q.2 has part (a) from Module 3 then part (b) must be from any other 
+Module randomly selected from all the modules) 
+• A total of four questions need to be answered. 
+ 
+• Suggestion: Laboratory work based on the above syllabus can be 
+incorporated as a mini project in CSM601: Mini-Project. 
+Course Code Course Name Credit 
+CSDLO6012 Distributed Computing 03 
+ 
+ 
+Pre-requisite: C Programming 
+ 
+Course Objectives: The course aims: 
+1 To provide students with contemporary knowledge in distributed systems 
+2 To equip students with skills to analyze and design distributed applications. 
+3 To provide master skills to measure the performance of distributed synchronization 
+algorithms 
+4 To equip students with skills to availability of resources 
+5 To provide master skills to distributed file system 
+ 
+Course Outcomes: 
+1 Demonstrate knowledge of the basic elements and concepts related to distributed system 
+technologies. 
+2 Illustrate the middleware technologies that support distributed applications such as RPC, RMI 
+and Object based middleware. 
+3 Analyze the various techniques used for clock synchronization and mutual exclusion 
+4 Demonstrate the concepts of Resource and Process management and synchronization 
+algorithms 
+5 Demonstrate the concepts of Consistency and Replication Management 
+6 Apply the knowledge of Distributed File System to analyze various file systems like NFS, 
+AFS and the experience in building large-scale distributed applications 
+ 
+ 
+Module  Detailed Content Hours 
+1  Introduction to Distributed Systems  
+ 1.1 Characterization of Distributed Systems: Issues, Goals, and Types of 
+distributed systems, Distributed System Models, Hardware concepts, 
+Software Concept. 
+06 
+ 1.2 Middleware: Models of Middleware, Services offered by middleware, Client 
+Server model. 
+ 
+2  Communication 06 
+ 2.1 Layered Protocols, Interprocess communication (IPC): MPI, Remote Procedure Call 
+(RPC), Remote Object Invocation, Remote Method Invocation (RMI) 
+ 
+ 2.2 Message Oriented Communication, Stream Oriented Communication, Group 
+Communication 
+ 
+3  Synchronization 09 
+ 3.1 Clock Synchronization, Physical Clock, Logical Clocks, Election Algorithms,  
+Mutual Exclusion, Distributed Mutual Exclusion-Classification of Mutual 
+Exclusion Algorithm, Requirements of Mutual Exclusion Algorithms, 
+Performance measure. 
+ 
+ 3.2 Non   Token   based   Algorithms:   Lamport   Algorithm, Ricart–Agrawala‘s 
+Algorithm, Maekawa‘s Algorithm 
+ 
+ 3.3 Token Based Algorithms: Suzuki-Kasami‘s Broadcast Algorithms, Singhal‘s 
+Heuristic Algorithm, Raymond‘s Tree.based Algorithm, Comparative 
+Performance Analysis. 
+ 
+4  Resource and Process Management 06 
+ 4.1 Desirable Features of global Scheduling algorithm, Task assignment approach, 
+Load balancing approach, load sharing approach 
+ 
+ 4.2 Introduction to process management, process migration, Threads, 
+Virtualization, Clients, Servers, Code Migration 
+ 
+5  Consistency, Replication and Fault Tolerance 06 
+ 5.1 Introduction to replication and consistency, Data-Centric and Client-Centric 
+Consistency Models, Replica Management 
+ 
+ 5.2 Fault Tolerance: Introduction, Process resilience, Reliable client-server and group 
+communication, Recovery 
+ 
+6  Distributed File Systems and Name Services 06 
+ 6.1 Introduction and features of DFS, File models, File Accessing models, File-Caching 
+Schemes, File Replication, Case Study: Distributed File Systems (DSF), Network File 
+System (NFS), Andrew File System (AFS), HDFS 
+ 
+ 
+Textbooks: 
+1 Andrew S. Tanenbaum and Maarten Van Steen, ―Distributed Systems: Principles and Paradigms, 
+2nd edition, Pearson Education. 
+2 George Coulouris, Jean Dollimore, Tim Kindberg, , "Distributed Systems: Concepts and Design", 
+4th Edition, Pearson Education, 2005. 
+References: 
+1 A. S. Tanenbaum and M. V. Steen, "Distributed Systems: Principles and Paradigms", Second 
+Edition, Prentice Hall, 2006. 
+2 M. L. Liu, ―Distributed Computing Principles and Applications‖, Pearson Addison Wesley, 2004. 
+3 Learn to Master Distributed Computing by ScriptDemics, StarEdu Solutions 
+ 
+Assessment: 
+ 
+Internal Assessment: 
+Assessment consists of two class tests of 20 marks each. The first-class test is to be conducted when 
+approx. 40% syllabus is completed and second class test when additional40% syllabus is completed. 
+Duration of each test shall be one hour. 
+ 
+End Semester Theory Examination: 
+1 Question paper will consist of 6 questions, each carrying 20 marks. 
+2 The students need to solve a total of 4 questions. 
+3 Question No.1 will be compulsory and based on the entire syllabus. 
+4 Remaining question (Q.2 to Q.6) will be selected from all the modules. 
+ 
+ 
+ 
+Useful Links 
+1 https://onlinecourses.nptel.ac.in/noc21_cs87/ 
+2 https://nptel.ac.in/courses/106106168 
+ 
+* Suggestion: Laboratory work based on the above syllabus can be incorporated as a mini project in 
+CSM601: Mini-Project. 
+Course Code: Course Title Credit 
+CSDLO6013 Image and Video Processing 3 
+ 
+ 
+Prerequisite: Engineering Mathematics, Algorithms 
+Course Objectives: 
+1 To introduce students to the basic concepts of image processing, file formats. 
+2 To acquire an in-depth understanding of image enhancement technqiues. 
+3 To gain knowledge of image segmentation and compression techniques. 
+4 To acquire fundamentals of image transform techniques. 
+  
+Course Outcomes 
+1 To gain fundamental knowledge of Image processing. 
+2 To apply image enhancement techniques. 
+3 To apply image segmentation and compression techniques. 
+4 To gain an in-depth understanding of image transforms. 
+5 To gain fundamental understanding of video processing. 
+  
+ 
+Module  Content Hrs 
+1  Digital Image Fundamentals 04 
+ 1.1 Introduction to Digital Image, Digital Image Processing System, Sampling 
+and Quantization, 
+ 
+ 1.2 Representation of Digital Image, Connectivity, Image File Formats : BMP, 
+TIFF and JPEG. 
+ 
+2  Image Enhancement in Spatial domain 08 
+ 2.1 Introduction to Image Enhancement :Gray Level Transformations, Zero 
+Memory Point Operations, 
+ 
+ 2.2 Histogram Processing,.  
+ 2.3 Neighbourhood Processing, Spatial Filtering, Smoothing and Sharpening 
+Filters 
+ 
+3  Image Segmentation 06 
+ 3.1 Segmentation based on Discontinuities (point, Line, Edge)  
+ 3.2 Image Edge detection using Robert, Sobel, Previtt masks, Image Edge 
+detection using Laplacian Mask. 
+ 
+ 3.3 Region Oriented Segmentation: Region growing by pixel Aggregation, 
+Split and Merge 
+ 
+4  Image Transforms 09 
+ 4.1 Introduction to Unitary Transforms  
+ 4.2 Discrete Fourier Transform(DFT), Inverse DFT, Properties of DFT, Fast 
+Fourier Transform(FFT), 
+ 
+ 4.3 Discrete Hadamard Transform(DHT), Inverse DHT, Fast Hadamard 
+Transform(FHT), Discrete Cosine Transform(DCT), Inverse DCT 
+ 
+5  Image Compression 08 
+ 5.1 Introduction, Redundancy, Fidelity Criteria  
+ 5.2 Lossless Compression Techniques : Run length Coding, Arithmetic 
+Coding, Huffman Coding 
+ 
+ 5.3 Lossy Compression Techniques: Improved Gray Scale Quantization, 
+Vector Quantization 
+ 
+6  Digital Video Processing 04 
+ 6.1 Introduction to Digital Video Processing, Sampled Video  
+ 6.2 Composite and Component Video, Digital video formats and 
+applications 
+ 
+  Total 39 
+ 
+ 
+ 
+Textbooks: 
+1 Rafael C. Gonzalez and Richard E. Woods, ‗Digital Image Processing‘, Pearson Education 
+Asia, Third Edition, 2009 
+2 S. Jayaraman, E. Esakkirajan and T. Veerkumar, ―Digital Image Processing‖ TataMcGraw 
+Hill Education Private Ltd, 2009 
+3 Anil K. Jain, ―Fundamentals and Digital Image Processing‖, Prentice Hall of India Private 
+Ltd, Third Edition 
+4 S. Sridhar, ―Digital Image Processing‖, Oxford University Press, Second Edition, 2012. 
+5. Alan C. Bovik, ―The Essential Guide To Video Processing‖ Academic Press, 
+6 Yao Wang, Jorn Ostermann, Ya-Qin Zang, ―Video Processing and Communications‖, 
+Prentice Hall, Signal Processing series. 
+ 
+ 
+References Books  
+1. David A. Forsyth, Jean Ponce, ―Computer Vision: A Modern Approach‖, Pearson Education, 
+Limited, 2011 
+2. Malay K. Pakhira, ―Digital Image Processing and Pattern Recognition‖, Prentice Hall of 
+India Private Ltd, Third Edition 
+3 B. Chandra and D. Dutta Majumder, ―Digital Image Processing and Analysis‖, Prentice Hall 
+of India Private Ltd, 2011 
+4 Khalid Sayood, ―Introduction to Data Compression‖, Third Edition , Morgan Kaufman MK 
+Publication 
+ 
+ 
+Assessment: 
+Internal Assessment: 
+Assessment consists of two class tests of 20 marks each. The first class test is to be conducted  
+when approximately 40% syllabus is completed and the second class test when an additional 40% 
+syllabus is completed. Duration of each test shall be one hour. 
+End Semester Theory Examination: 
+1 Question paper will comprise a total of six questions. 
+2 All questions carry equal marks. 
+3 Questions will be mixed in nature (for example supposed Q.2 has part (a) from module 3 
+then part (b) will be from any module other than module 3). 
+4 Only Four questions need to be solved. 
+5 In question, paper weightage of each module will be proportional to the number of 
+respective lecture hours as mentioned in the syllabus. 
+ 
+Useful Links 
+1 https://swayam.gov.in 
+2 https://nptel.ac.in/courses 
+3 https://www.coursera.org 
+ 
+* Suggestion: Laboratory work based on the above syllabus can be incorporated as a 
+mini project in CSM601: Mini-Project. 
+Lab Code Lab Name Credit 
+CSL601 Data Analytics and Visualization Lab 1 
+ 
+Prerequisite: Basic Python 
+Lab Objectives: 
+1 To effectively use libraries for data analytics. 
+2 To understand the use of regression Techniques in data analytics applications. 
+3 To use time series models for prediction. 
+4 To introduce the concept of text analytics and its applications. 
+5 To apply suitable visualization techniques using R and Python. 
+Lab Outcomes: 
+At the end of the course, students will be able to —- 
+1  Explore various data analytics Libraries in R and Python. 
+2  Implement various Regression techniques for prediction. 
+3 Build various time series models on a given data set. 
+4  Design Text Analytics Application on a given data set. 
+5   Implement visualization techniques to given data sets using R . 
+6  Implement visualization techniques to given data sets using Python. 
+ 
+Suggested Experiments: Students are required to complete at least 08 experiments 
+Preferably using R Programming Language/Python 
+ 
+Sr. No. Name of the Experiment 
+1 Getting introduced to data analytics libraries in Python and R. 
+2 Simple Linear Regression in Python/R. 
+3 Multiple Linear Regression in Python/R. 
+4 Time Series Analysis in Python/R. 
+5 Implementation of ARIMA model in python / R. 
+6 Text analytics: Implementation of Spam filter/Sentiment analysis in python/R. 
+7,8 Two visualization experiments in R using different Libraries. 
+9,10 Two visualization experiments in python using different Libraries. 
+ 
+Useful Links: 
+1 https://www.geeksforgeeks.org/data-visualization-with-python 
+2 https://www.coursera.org/specializations/data-science-python 
+3 https://www.geeksforgeeks.org/data-visualization-in-r/ 
+5 https://towardsdatascience.com/introduction-to-arima-for-time-series-forecasting- 
+ 
+References: 
+1 Data Analytics using R, Bharati Motwani, Wiley Publications 
+2 Python for Data Analysis: 3rd Edition, WesMcKinney, Publisher(s): O'Reilly Media, Inc. 
+ 
+ 
+ 
+ 
+ 
+3 Better Data Visualizations A Guide for Scholars, Researchers, and Wonks, Jonathan 
+Schwabish, Columbia University Press 
+ 
+ 
+ 
+Term Work: 
+1 Term work should consist of 08 experiments. 
+2 Journal must include at least 2 assignments based on Theory and Practicals 
+3 The final certification and acceptance of term work ensures satisfactory performance of 
+laboratory work and minimum passing marks in term work. 
+4 Total 25 Marks (Experiments: 15-marks, Attendance Theory & Practical: 05-marks, 
+Assignments: 05-marks) 
+Oral & Practical exam 
+ Based on the entire syllabus 
+Lab Code Lab Name Credit 
+CSL602 Cryptographic and system security Lab 1 
+ 
+ 
+Prerequisite: Operating System, Basics of Java and Python Programming. 
+Lab Objectives: 
+1 To be able to apply the knowledge of symmetric cryptography to implement simple ciphers 
+2 To be able to analyze and implement public key algorithms like RSA and El Gamal 
+3 To analyze and evaluate performance of hashing algorithms 
+4 To explore the different network reconnaissance tools to gather information about networks . 
+Lab Outcomes: 
+1 Apply the knowledge of symmetric cryptography to implement simple ciphers 
+2 Analyze and implement public key algorithms like RSA and El Gamal 
+3 Analyze and evaluate performance of hashing algorithms 
+4 Explore the different network reconnaissance tools to gather information about networks 
+5 Use tools like sniffers, port scanners and other related tools for analyzing packets in a network. 
+6 Apply and set up firewalls and intrusion detection systems using open source technologies and 
+to explore email security. 
+ 
+ 
+Suggested Experiments: Students are required to complete at least 10 experiments. 
+Star (*) marked experiments are compulsory. 
+Sr. No. Name of the Experiment 
+1* Design and Implementation of a product cipher using Substitution and Transposition 
+ciphers. 
+2* Implementation and analysis of RSA cryptosystem and Digital signature scheme 
+using RSA/El Gamal. 
+3* Implementation of Diffie Hellman Key exchange algorithm 
+4 For varying message sizes, test integrity of message using MD-5, SHA-1, and analyse 
+the performance of the two protocols. Use crypt APIs. 
+5* Exploring wireless security tools like Kismet, NetStumbler etc. 
+6* Study the use of network reconnaissance tools like WHOIS, dig,traceroute, nslookup 
+to gather information about networks and domain registrars. 
+7 Study of packet sniffer tools wireshark, :- 1. Observer performance in promiscuous as 
+well as non-promiscuous mode. 2. Show the packets can be traced based on different 
+filters. 
+8* Download and install nmap. Use it with different options to scan open ports, perform 
+OS fingerprinting, do a ping scan, tcp port scan, udp port scan, etc. . 
+9* Detect ARP spoofing using nmap and/or open source tool ARPWATCH and wireshark 
+10 Use the NESSUS/ISO Kaali Linux tool to scan the network for vulnerabilities 
+11 Set up IPSEC under LINUX. b) Set up Snort and study the logs. c) Explore the GPG 
+tool of linux to implement email security. 
+ 
+Useful Links: 
+1 www.leetcode.com 
+2 www.hackerrank.com 
+3 www.cs.usfca.edu/ 
+4 www.codechef.com 
+ 
+Term Work: 
+1 Term work should consist of 10 experiments. 
+2 Journal must include at least 2 assignments. 
+3 The final certification and acceptance of term work ensures that satisfactory performance of 
+laboratory work and minimum passing marks in term work. 
+4 Total 25 Marks (Experiments: 15-marks, Attendance Theory & Practical: 05-marks, 
+Assignments: 05-marks) 
+Oral & Practical exam 
+ Based on the entire syllabus of CSL602and CSC602 
+Lab Code Lab Name Credit 
+CSL603 Software Engineering and Project Management Lab 1 
+ 
+ 
+Prerequisite: Knowledge of Linux Operating system, installation and configuration of 
+services and command line basics, Basics of Computer Networks and Software 
+Development Life cycle. 
+Lab Objectives: 
+1 To understand DevOps practices which aims to simplify Software Development Life Cycle. 
+2 To be aware of different Version Control tools like GIT, CVS or Mercurial 
+3 To Integrate and deploy tools like Jenkins and Maven, which is used to build, test and deploy 
+applications in DevOps environment 
+4 To understand the importance of Jenkins to Build and deploy Software Applications on server 
+environment 
+5 To use Docker to Build, ship and manage applications using containerization 
+6 To understand the concept of Infrastructure as a code and install and configure Ansible tool 
+Lab Outcomes: 
+1 To understand the fundamentals of DevOps engineering and be fully proficient with DevOps 
+terminologies, concepts, benefits, and deployment options to meet your business requirements 
+2 To obtain complete knowledge of the ―version control system‖ to effectively track changes 
+augmented with Git and GitHub 
+3 Understand the importance of Selenium and Jenkins to test Software Applications 
+4 To understand the importance of Jenkins to Build and deploy Software Applications on server 
+environment 
+5 To understand concept of containerization and Analyze the Containerization of OS images and 
+deployment of applications over Dockerk. 
+6 To Synthesize software configuration and provisioning using Ansible. 
+ 
+ 
+Suggested Experiments: Students are required to complete at least 10 experiments from the list 
+given below. 
+Star (*) marked experiments are compulsory. 
+Sr. No. Name of the Experiment 
+1 To understand DevOps: Principles, Practices, and DevOps Engineer Role and 
+Responsibilities 
+2 To understand Version Control System / Source Code Management, install git and 
+create a GitHub account 
+3 To Perform various GIT operations on local and Remote repositories using GIT 
+Cheat-Sheet 
+4 To understand Continuous Integration, install and configure Jenkins with 
+ Maven/Ant/Gradle to setup a build Job 
+5 To Build the pipeline of jobs using Maven / Gradle / Ant in Jenkins, create a pipeline 
+script to Test and deploy an application over the tomcat server. 
+6 To understand Jenkins Master-Slave Architecture and scale your Jenkins standalone 
+implementation by implementing slave nodes. 
+7 To Setup and Run Selenium Tests in Jenkins Using Maven. 
+8 To understand Docker Architecture and Container Life Cycle, install Docker and 
+execute docker commands to manage images and interact with containers 
+9 To learn Dockerfile instructions, build an image for a sample web application using 
+Dockerfile. 
+10 To install and Configure Pull based Software Configuration Management and 
+provisioning tools using Puppet 
+11 To learn Software Configuration Management and provisioning using Puppet 
+Blocks(Manifest, Modules, Classes, Function) 
+12 To provision a LAMP/MEAN Stack using Puppet Manifest. 
+ 
+Useful Links: 
+1 https://nptel.ac.in/courses/128106012 
+2 https://www.edureka.co/devops-certification-training 
+3 https://www.coursera.org/professional-certificates/devops-and-software-engineering 
+ 
+Term Work: 
+1 Term work should consist of 10 experiments. 
+2 Journal must include at least 2 assignments. 
+3 The final certification and acceptance of term work ensures that satisfactory performance of 
+laboratory work and minimum passing marks in term work. 
+4 Total 25 Marks (Experiments: 15-marks, Attendance Theory & Practical: 05-marks, 
+Assignments: 05-marks) 
+Oral & Practical exam 
+ Based on the entire syllabus of CSL603 and CSC603 
+Lab Code Lab Name Credit 
+CSL604 Machine Learning         Lab 1 
+ 
+ 
+Prerequisite: C Programming Language. 
+Lab Objectives: 
+1 To introduce platforms such as Anaconda, COLAB suitable to Machine learning 
+2 To implement various Regression techniques 
+3 To develop Neural Network based learning models 
+4 To implement Clustering techniques 
+Lab Outcomes: 
+After successful completion of the course students will be able to: 
+1 Implement various Machine learning models 
+2 Apply suitable Machine learning models for a given problem 
+3 Implement Neural Network based models 
+4 Apply Dimensionality Reduction techniques 
+ 
+ 
+Suggested Experiments: Students are required to complete at least 10 experiments. 
+Sr. No. Name of the Experiment 
+1 Introduction to platforms such as Anaconda, COLAB 
+2 Study of Machine Learning Libraries and tools (Python library, tensorflow, keras,...) 
+ Implementation of following algorithms for a given example data set- 
+3 Linear Regression. 
+4 Logistic Regression. 
+5 Support Vector Machines 
+6 Hebbian Learning 
+7 Expectation -Maximization algorithm 
+8 McCulloch Pitts Model. 
+9 Single Layer Perceptron Learning algorithm 
+10 Error Backpropagation Perceptron Training Algorithm 
+11 Principal Component Analysis 
+12 Applications of above algorithms as a case study (E.g. Hand Writing Recognition 
+using MNIST data set, classification using IRIS data set, etc) 
+ 
+Useful Links: 
+1 https://www.learndatasci.com/out/edx-columbia-machine-learning/ 
+2 https://www.learndatasci.com/out/oreilly-hands-machine-learning-scikit-learn-keras-and-ten 
+sorflow-2nd-edition/ 
+3 https://www.learndatasci.com/out/google-machine-learning-crash-course/ 
+4 https://www.learndatasci.com/out/edx-columbia-machine-learning/ 
+ 
+Term Work: 
+1 Term work should consist of 10 experiments. 
+2 Journal must include at least 2 assignments. 
+3 The final certification and acceptance of term work ensures that satisfactory performance of 
+laboratory work and minimum passing marks in term work. 
+4 Total 25 Marks (Experiments: 15-marks, Attendance Theory & Practical: 05-marks, 
+Assignments: 05-marks) 
+Oral & Practical exam 
+ Based on the entire syllabus of CSL604and CSC604 
+Lab Code Lab Name Credit 
+CSL605 Skill Based Lab course : Cloud Computing 2 
+ 
+ 
+Prerequisite: Computer Networks 
+Lab Objectives: 
+1 To make students familiar with key concepts of virtualization. 
+2 To make students familiar with various deployment models of cloud such as private, public, 
+hybrid and community so that they start using and adopting appropriate types of cloud for 
+their application. 
+3 To make students familiar with various service models such as IaaS, SaaS, PaaS, Security as 
+a Service (SECaaS) and Database as a Service. 
+4 To make students familiar with security and privacy issues in cloud computing and how to 
+address them. 
+Lab Outcomes: 
+1 Implement different types of virtualization techniques. 
+2 Analyze various cloud computing service models and implement them to solve the given 
+problems. 
+3 Design and develop real world web applications and deploy them on commercial cloud(s). 
+4 Explain major security issues in the cloud and mechanisms to address them. 
+5 Explore various commercially available cloud services and recommend the appropriate one 
+for the given application. 
+6 Implement the concept of containerization 
+ 
+Theory : 
+ 
+ 
+Module 
+ 
+Detailed Contents 
+ 
+Hou 
+rs 
+1 Introduction and overview of cloud computing. To understand the origin  
+of cloud computing, cloud cube model, NIST model, chara cteristics of  
+cloud, different deployment   models service models, 
+advantages     and disadvantages. 
+4 
+2 Concept of Virtualization along with their types, structures and 
+mechanisms. Demonstration of creating and running Virtual machines 
+inside hosted hypervisors like Virtual Box and KVM with their 
+comparison based on various virtualization parameters. 
+4 
+ 
+3 
+Functionality of Bare-metal hypervisors and their relevance in cloud 
+computing platforms. Installation, configure and manage Bare Metal 
+hypervisor along with instructions to create and run virtual machines 
+inside it. It should also emphasize on accessing VMs in different 
+environments along with additional services provided by them like Load  
+balancing, Auto-Scaling, Security etc. 
+4 
+ 
+Lab: (Teachers are requested to complete above theory before staring lab work) 
+ 
+1 Title: To study and Implement Infrastructure as a Service using 
+AWS/Microsoft Azure. 
+Objective: To demonstrate the steps to create and run virtual machines  
+inside a Public cloud platform. This e xperiment should emphasize on  
+creating and running Linux/Windows Virtual machines inside Amazon  
+EC2 or Microsoft Azure Compute and accessing them using RDP or  
+VNC tools. 
+4 
+2 Title: To study and Implement Platform as a Service using AWS Elastic  
+Beanstalk/ Microsoft Azure App Service. 
+Objective: To demonstrate the steps to deploy Web applications or Web  
+services written in different languages on AWS Elastic Beanstalk/ 
+Microsoft Azure App Service. 
+4 
+3 To study and Implement Storage as a Service using Own Cloud/ AWS 
+S3, Glaciers/ Azure Storage. 
+2 
+4 To study and Implement Database as a Service on SQL/NOSQL 
+databases like AWS RDS, AZURE SQL/ MongoDB Lab/ Firebase. 
+2 
+5 Title: To study and Implement Security as a Service on AWS/Azure 
+Objective: To understand the Security practices available in public cloud 
+platforms and to demonstrate various Threat detection, Data protection 
+and Infrastructure protection services in AWS and Azure. 
+3 
+6 Title: To study and implement Identity and Access Management (IAM)  
+practices on AWS/Azure cloud. 
+Objective: To understand the working of Identity and Access 
+Management IAM in cloud computing and to demonstrate the case study  
+based on Identity and Access Management (IAM) on AWS/Azure cloud  
+platform. 
+2 
+7 Title: To study and Implement Containerization using Docker 
+Objective: To know the basic differences between Virtual machine and 
+Container. It involves demonstration of creating, finding, building, installing, 
+and running Linux/Windows application containers inside a local machine or 
+cloud platform. 
+4 
+8 Title: To study and implement container orchestration using Kubernetes 
+Objective: To understand the steps to deploy Kubernetes Cluster on local 
+systems, deploy applications on Kubernetes, creating a Service in 
+Kubernetes, develop Kubernetes configuration files in YAML and 
+creating a deployment in Kubernetes using YAML, 
+2 
+9 Mini-project: Design a Web Application hosted on a public cloud 
+platform [It should cover the concept of IaaS, PaaS, DBaaS, Storage as a 
+Service, Security as a Service etc.] 
+4 
+ 
+ 
+Suggested Experiments: Students are required to complete the above experiments. 
+Sr. No. Assignment 
+1 Assignment based on selection of suitable cloud platform solution based on 
+requirement analysis considering given problem statement 
+2 Assignment on recent trends in cloud computing and related technologies 
+3 Assignment   on comparative   study   of different computing 
+technologies [Parallel, Distributed, Cluster, Grid, Quantum) 
+4 
+Comparative study of different hosted and bare metal Hypervisors with suitable 
+parameters along with their use in public/private cloud platform 
+5 
+Assignment on explore and compare the similar type of services provided by 
+AWS and Azure [Any ten services] 
+Useful Links: 
+1 https://docs.aws.amazon.com/ 
+2 https://docs.microsoft.com/en-us/azure 
+3 https://kubernetes.io/docs/home/ 
+4 https://docs.docker.com/get-started/ 
+ 
+Term Work: 
+1 Term work should consist of 10 experiments and mini project. 
+2 Journal must include at least 3 assignments. 
+3 The final certification and acceptance of term work ensures satisfactory performance of 
+laboratory work and minimum passing marks in term work. 
+4 Total 25 Marks (Experiments: 15-marks, Attendance Theory & Practical: 05-marks, 
+Assignments: 05-marks) 
+ 
+ Oral examination will be based on Laboratory work, mini project and above syllabus 
+ 
+Course code Course Name Credits 
+CSM601 Mini Project 2B 02 
+ 
+Objectives 
+1 To understand and identify the problem 
+2 To apply basic engineering fundamentals and attempt to find solutions to the problems. 
+3 Identify, analyze, formulate and handle programming project s with a comprehensive and 
+systematic  approach 
+4 To develop communication skills and improve teamwork amongst group members and 
+inculcate the process of self-learning and research.   
+Outcome: Learner will be able to… 
+1 Identify societal/research/innova tion/entrepreneurship problems through appropriate 
+literature surveys 
+2 Identify Methodology for solving above problem and apply engineering knowledge and 
+skills to solve it  
+3 Validate, Verify the results using test cases/benchmark data/theoretical/ 
+inferences/experiments/simulations 
+4 Analyze and evaluate the impact of solution/product/research/innovation 
+/entrepreneurship  towards societal/environmental/sustainable development 
+5 Use standard norms of engineering practices and project management princ iples during 
+project work 
+6 Communicate through technical report writing and oral presentation.  
+● The work may result in research/white paper/ article/blog writing and publication 
+● The work may result in business plan for entrepreneurship product created 
+● The work may result in patent filing. 
+7 Gain technical competency towards participation in Competitions, Hackathons, etc. 
+8 Demonstrate capabilities of self-learning, leading to lifelong learning. 
+9 Develop interpersonal skills to work as a member of a group or as leader 
+Guidelines for Mini Project 
+1 Mini project may be carried out in one or more form of following:  
+Product preparations, prototype development model, fabrication of set -ups, laboratory 
+experiment  development, process modification/developm ent, simulation, software 
+development, integration of  software (frontend -backend) and hardware, statistical data 
+analysis, creating awareness in society/environment  etc.  
+2 Students shall form a group of 3 to 4 students, while forming a group shall not be allowed 
+less than three or more than four students, as it is a group activity. 
+3 Students should do survey and identify needs, which shall be converted into problem 
+statement for mini project in consultation with faculty supervisor/head 
+of department/internal committee of faculties. 
+4 Students shall submit an implementation plan in the form of Gantt/PERT/CPM chart, 
+which will cover weekly activity of mini projects. 
+5 A logbook may be prepared by each group, wherein the group can record weekly work 
+progress, guide/supervisor can verify and record notes/comments. 
+6 Faculty supervisors may give inputs to students during mini project activity; however, 
+focus shall be on self-learning. 
+7 Students under the guidance of faculty supervisor shall convert the best solution into a 
+working model using various components of their domain areas and demonstrate. 
+8 The solution to be validated with proper justification and report to be compiled in 
+standard format of University of Mumbai. Software requirement specific ation (SRS) 
+documents, research papers, competition certificates may be submitted as part of annexure 
+to the report. 
+9 With the focus on self -learning, innovation, addressing societal/research/innovation 
+problems and entrepreneurship quality development within the students through the Mini 
+Projects, it is preferable that a single project of appropriate level and quality be carried 
+out in two semesters by all the groups of the students. i.e. Mini Project 2 in semesters V 
+and VI. 
+10 However, based on the in dividual students or group capability, with the mentor‘s 
+recommendations, if   the   proposed   Mini Project adhering to the qualitative aspects 
+mentioned above, gets completed in odd semester, then that group can be allowed to 
+work on the extension of the Mini Project with suitable improvements/modifications or a 
+completely new project idea in even semester. This policy can be adopted on a case by 
+case basis. 
+Term Work 
+The review/ progress monitoring committee shall be constituted by the heads of departm ents of 
+each institute. The progress of the mini project to be evaluated on a continuous basis, based on 
+the SRS document submitted. minimum two reviews in each semester. 
+In continuous assessment focus shall also be on each individual student, assessment based on 
+individual‘s contribution in group activity, their understanding and response to questions. 
+Distribution of Term work marks for both semesters shall be as below: Marks 25 
+1 Marks awarded by guide/supervisor based on logbook 10 
+2 Marks awarded by review committee 10 
+3 Quality of Project report 05 
+Review / progress monitoring committee may consider following points for assessment 
+based on either one year or half year project as mentioned in general guidelines 
+One-year project: 
+1 In the first s emester the entire theoretical solution shall be made ready, including 
+components/system selection and cost analysis. Two reviews will be conducted based on 
+a presentation given by a student group. 
+ First shall be for finalization of problem 
+ Second shall be on finalization of proposed solution of problem. 
+2 In the second semester expected work shall be procurement of component‘s/systems, 
+building of working prototype, testing and validation of re sults based on work completed 
+in an earlier semester. 
+ First review is based on readiness of building working prototype to be conducted. 
+ Second review shall be based on poster presentation cum demonstration of working 
+model in the last month of the said semester. 
+Half-year project: 
+1 In this case in one semester students‘ group shall complete project in all aspects including, 
+ Identification of need/problem 
+ Proposed final solution 
+ Procurement of components/systems 
+ Building prototype and testing 
+2 Two reviews will be conducted for continuous assessment, 
+ First shall be for finalization of problem and proposed solution 
+ Second shall be for implementation and testing of solution. 
+Mini Project shall be assessed based on following points 
+1  Clarity of problem and quality of literature Survey for problem identification 
+2 Requirement gathering via SRS/ Feasibility Study 
+3  Completeness of methodology implemented 
+4  Design, Analysis and Further Plan 
+5  Novelty, Originality or Innovativeness of project 
+6 Societal / Research impact 
+7  Effective use of skill set : Standard engineering practices and Project management 
+standard 
+8  Contribution of an individual‘s as member or leader 
+9 Clarity in written and oral communication 
+10  Verification and  validation of the solution/ Test Cases 
+11   Full functioning of working model as per stated requirements 
+12 Technical writing /competition/hackathon outcome being met 
+ 
+In one year project (sem V and VI), first semester evaluation may be based on first 1 0 criteria 
+and remaining may be used for second semester evaluation of performance of students in mini 
+projects. 
+In case of half year projects (completing in VI sem) all criteria‘s in generic may be considered 
+for evaluation of performance of students in mini projects. 
+ 
+Guidelines for Assessment of Mini Project Practical/Oral Examination: 
+1  Report should be prepared as per the guidelines issued by the University of Mumbai. 
+2  Mini Project shall be assessed through a presentation and demonstration of wo rking 
+model by the student project group to a panel of Internal and External Examiners 
+preferably from industry or research organizations having experience of more than five 
+years approved by the head of Institution. 
+3  Students shall be motivated to publish a paper/participate in competition based on the 
+work in Conferences/students competitions. 
+ 
+ 

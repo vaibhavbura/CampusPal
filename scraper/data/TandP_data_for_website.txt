@@ -1,0 +1,26 @@
+Sr.No. Student Name Employer Name Year of 
+Passing Branch
+1 Mihir Rajendra Manjrekar Cognizant 2025 AIML
+2 Atul Gupta Cognizant 2025 AIML
+3 Mohd. Rahil Shaikh DSW 2025 AIML
+4 Ms. Sakshi Sanjay Rajeshirke DSW 2025 AIML
+5 Shubham Subhash Singh Hindustan Unliver Limted 2025 AIML
+6 Rohit Negi Exceller Tech 2025 AIML
+7 Shlok Dalvi Exceller Tech 2025 AIML
+8 Siddhesh Dige Exceller Tech 2025 AIML
+9 Kaiser Momin Brighton School of Business Analytics 2025 AIML
+10 Sanjita Shukla Aurionpro 2025 AIML
+11 Tanisha Chitnis LTIMindTree 2025 AIML
+12 Shipra Asthana LTIMindTree 2025 AIML
+13 Abhishek Bapat LTIMindTree 2025 AIML
+14 Ruchir Powar Aura Jewels 2025 AIML
+15 Mihir R Manjrekar Capgemini 2025 AIML
+16 Atul Gupta Capgemini 2025 AIML
+17 Shihab kasim karol Concentrix 2025 AIML
+18 Jayesh Patil Finhaat Technologies pvt. ltd. 2025 AIML
+19 Mansi Ghanwat Depth consulting Services 2025 AIML
+20 Kapil Surve Champ Code Academy Pte. Ltd. 2025 AIML
+                          DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING
+                            (ARTIFICIAL INTELLIGENCE & MACHINE LEARNING)
+List of Placed Students_ B.E. 2025 Batch
+
