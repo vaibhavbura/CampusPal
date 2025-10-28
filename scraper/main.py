@@ -5,245 +5,263 @@ import time
 import logging
 import requests
 import pandas as pd
+from tqdm import tqdm
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
-from tqdm import tqdm
 import pypdf
-import concurrent.futures  
-import threading           
 
+#specific URLs to scrape
+TARGET_URLS = [ 
+    "https://www.apsit.edu.in/about-us",
+    "https://www.apsit.edu.in/permissions",
+    "https://www.apsit.edu.in/sites/default/files/2025-06/Institutional%20Development%20Plan%20-%20APSIT_0.pdf",
+    "https://www.apsit.edu.in/governing-body-1",
+    "https://www.apsit.edu.in/node/41", # Principal
+    "https://www.apsit.edu.in/controller-examination",
+    "https://www.apsit.edu.in/index.php/board-management", # Board of Management
+    "https://www.apsit.edu.in/index.php/academic-council", # Academic Council
+    "https://www.apsit.edu.in/index.php/board-studies", # Board of Studies
+    "https://www.apsit.edu.in/board-studies-bos-cse-artificial-intelligence-and-machine-learning", # BOS AIML
+    "https://www.apsit.edu.in/index.php/finance-committee", # Finance Committee
+    "https://www.apsit.edu.in/academic-leadership",
+    "https://www.apsit.edu.in/ug-courses",
+    "https://www.apsit.edu.in/cse-ai-and-ml", # AIML Department
+    "https://www.apsit.edu.in/library",
+    "https://www.apsit.edu.in/node/1463", # Seems related to AIML syllabus/info
+    "https://www.apsit.edu.in/sites/default/files/2023-03/3%20and%204%20th%20sem%20syllabus_0.pdf", # Syllabus PDF
+    "https://www.apsit.edu.in/sites/default/files/2022-11/6.42_T.E._AI_ML_DS_DE_R2019_Sep14.pdf", # Syllabus PDF
+    "https://www.apsit.edu.in/sites/default/files/2024-05/BE%20Syllabus.pdf", # Syllabus PDF
+    "https://www.apsit.edu.in/cseaiml-placement-data", # Placement Data AIML
+    "https://www.apsit.edu.in/sites/default/files/2025-08/TandP%20data%20for%20website.pdf", # Placement Data PDF
+    "https://www.apsit.edu.in/aiml-faculty",
+    "https://www.apsit.edu.in/sites/default/files/2025-06/Brochure%202025-26%204mb.pdf", # Brochure PDF
+    "https://www.apsit.edu.in/admission-notification",
+    "https://www.apsit.edu.in/sites/default/files/2025-07/ADVT%20IL%201%202025.pdf", # Admission Ad PDF
+    "https://www.apsit.edu.in/admission-documents",
+    "https://www.apsit.edu.in/admission-criteria",
+    "https://www.apsit.edu.in/admission-faqs",
+    "https://www.apsit.edu.in/sites/default/files/2025-09/instructions-for-students-and-parents.pdf", # Instructions PDF
+    "https://www.apsit.edu.in/sites/default/files/2025-09/Admission%20Schedule%20for%20ILS%20Quota.pdf", # Admission Schedule PDF
+    "https://www.apsit.edu.in/data-science-faculty",
+    "https://www.apsit.edu.in/computer-faculty",
+    "https://www.apsit.edu.in/civil-faculty",
+    "https://www.apsit.edu.in/mechanical-faculty",
+    "https://www.apsit.edu.in/Information-faculty",
+    "https://www.apsit.edu.in/has-faculty",
+    "https://www.apsit.edu.in/fee-refund-policy",
+    "https://www.apsit.edu.in/national-service-scheme",
+    "https://www.apsit.edu.in/vision-and-mission-t-p", # Placement About
+    "https://www.apsit.edu.in/health-facilities",
+    "https://www.apsit.edu.in/anti-ragging-cell",
+    "https://www.apsit.edu.in/alumni-association-details",
+    "https://www.apsit.edu.in/RnD",
+    "https://www.apsit.edu.in/national-service-scheme",
+    "https://www.apsit.edu.in/vision-and-mission-t-p",
+    "https://www.apsit.edu.in/anti-ragging-cell",
+    "https://www.apsit.edu.in/index.php/exalt-2019",
+    "https://www.apsit.edu.in/index.php/counselling",
+    "https://www.apsit.edu.in/index.php/student-council",
+    "https://www.apsit.edu.in/index.php/alumni-association-details"
+]
+DATA_DIR = "data" 
+LOG_FILE = "scraper.log"
+BASE_URL = "https://www.apsit.edu.in/" # Needed for domain checking
 
-BASE_URL = "https://www.apsit.edu.in/"  # The starting point for our scrape
-DATA_DIR = "data"  # Where we'll save all the good stuff
-LOG_FILE = "scraper.log"  # A log file to see what's happening and debug errors
-MAX_DEPTH = 1  # How deep to crawl. 0=homepage only, 1=homepage + all links on it
-MAX_WORKERS = 10 # How many pages to scrape at the same time (concurrently)
-
-# Get the "apsit.edu.in" part to make sure we don't accidentally crawl Google
-BASE_HOSTNAME = urlparse(BASE_URL).hostname 
-
-# Make sure the 'data' folder exists before we try to save stuff to it
 os.makedirs(DATA_DIR, exist_ok=True)
 
+#LOGGING SETUP
+logger = logging.getLogger(__name__)
+logger.handlers.clear()
+logger.setLevel(logging.INFO)
 
-# Setup Logging
-# This is a bit fancy, but it lets us log to *both* a file and the console.
-# It's super helpful for debugging a long-running scrape.
-logger = logging.getLogger()
-logger.setLevel(logging.INFO) 
-
-# 1. Log to a file
 file_handler = logging.FileHandler(LOG_FILE, encoding='utf-8')
 file_handler.setLevel(logging.INFO)
 file_formatter = logging.Formatter("%(asctime)s [%(levelname)s] %(message)s")
 file_handler.setFormatter(file_formatter)
 logger.addHandler(file_handler)
 
-# 2. Log to the console
 console_handler = logging.StreamHandler()
 console_handler.setLevel(logging.INFO)
 console_formatter = logging.Formatter("[%(levelname)s] %(message)s")
 console_handler.setFormatter(console_formatter)
 logger.addHandler(console_handler)
 
-
-# Pretend to be a real browser (Mozilla Firefox on Windows)
-# Some websites block scripts, so a User-Agent helps us look like a person
 REQUEST_HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
+                  '(KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
 }
 
-# Keep track of pages we've already scraped to avoid getting stuck in infinite loops
-visited = set()
-visited_lock = threading.Lock() # A lock to make sure threads don't update 'visited' at the same time
-
+#HELPER FUNCTIONS
 
 def clean_filename(url):
-    """
-    Takes a URL and turns it into a safe filename.
-    e.g., "https://.../about/us.html" -> "about_us"
-    """
-    # Get the path part of the URL (e.g., "/about/us.html")
-    name = urlparse(url).path
-    # Remove any characters that aren't allowed in filenames
+    """Turn a URL path into a safe filename."""
+    parsed_url = urlparse(url)
+    path = parsed_url.path
+    if path.lower().endswith((".pdf", ".html", ".php")):
+         name = os.path.basename(path)
+         # Remove extension and clean common URL encodings
+         name = os.path.splitext(name)[0].replace('%20', '_').replace('%', '_')
+    elif not path or path == '/':
+        name = parsed_url.hostname or "index"
+    else:
+        name = path
+    # General cleaning for filesystem compatibility
     name = re.sub(r'[\\/*?:"<>|]', "_", name)
-    # Tidy it up: remove leading/trailing underscores and switch "/" to "_"
-    return name.strip("_").replace("/", "_") or "index" # Use "index" if the path is empty (homepage)
+    name = name.replace('%20', '_').replace('%', '_') # Catch edge cases
+    return name.strip('/').strip('_').replace("/", "_") or "index"
 
 def save_text(content, path):
-    """Helper function to just write text to a file."""
-    # 'errors="replace"' is a safety net for any weird characters
-    # that utf-8 can't handle, preventing the script from crashing.
-    with open(path, "w", encoding="utf-8", errors="replace") as f:
-        f.write(content)
-
-def extract_pdf_text(pdf_url, page_name):
-    """
-    Downloads a PDF from a URL, rips the text out, and saves it as a .txt file.
-    'page_name' is used to create a unique filename, e.g., "admissions_fee_structure.txt"
-    """
+    """Saves text content to a file."""
     try:
-        # 1. Download the PDF file
-        response = requests.get(pdf_url, timeout=15, headers=REQUEST_HEADERS)
-        response.raise_for_status() # Check if the download failed
-        
-        # 2. Load it into memory so we don't have to save it as a .pdf first
-        pdf_file = io.BytesIO(response.content)
-        
-        # 3. Use pypdf to read the in-memory file
-        reader = pypdf.PdfReader(pdf_file)
-
-        text = ""
-        # 4. Loop through each page and grab the text
-        for page in reader.pages:
-            page_text = page.extract_text()
-            if page_text:
-                text += page_text + "\n" # Add a newline between pages
-        
-        # 5. Save the combined text to our main DATA_DIR
-        pdf_path = os.path.join(DATA_DIR, f"{page_name}.txt")
-        save_text(text, pdf_path)
-        logging.info(f"[PDF OK] Extracted: {pdf_url}")
+        with open(path, "w", encoding="utf-8", errors="replace") as f:
+            f.write(content)
     except Exception as e:
-        # Catch failures if the PDF is broken, password-protected, or the link is dead
-        logging.error(f"[PDF FAIL] Failed: {pdf_url}: {e}")
+        logger.error(f"[SAVE FAIL] Failed to save text to {path}: {e}")
+
+def extract_pdf_text(pdf_url, pdf_name_cleaned):
+    """Download PDF, extract text, and save ONLY IF the file doesn't exist."""
+    pdf_save_path = os.path.join(DATA_DIR, f"{pdf_name_cleaned}.txt")
+    if os.path.exists(pdf_save_path):
+        logger.info(f"[PDF SKIP] Already extracted: {os.path.basename(pdf_save_path)}")
+        return
+    try:
+        logger.info(f"[PDF START] Downloading: {pdf_url}")
+        time.sleep(0.5) # Be polite
+        response = requests.get(pdf_url, timeout=30, headers=REQUEST_HEADERS)
+        response.raise_for_status()
+
+        content_type = response.headers.get('Content-Type', '').lower()
+        if 'application/pdf' not in content_type:
+             logger.warning(f"[PDF WARN] URL did not return PDF content: {pdf_url} ({content_type})")
+             return
+
+        pdf_file = io.BytesIO(response.content)
+        reader = pypdf.PdfReader(pdf_file)
+        text = ""
+        for page_num, page in enumerate(reader.pages):
+            try:
+                page_text = page.extract_text()
+                if page_text:
+                    text += page_text + "\n"
+            except Exception as page_e:
+                logger.warning(f"[PDF WARN] Page {page_num+1} extraction failed for {pdf_url}: {page_e}")
+        save_text(text, pdf_save_path)
+        logger.info(f"[PDF OK] Extracted: {pdf_url} -> {os.path.basename(pdf_save_path)}")
+    except pypdf.errors.PdfReadError as pdf_e:
+         logger.error(f"[PDF FAIL] Corrupt or encrypted PDF {pdf_url}: {pdf_e}")
+    except requests.exceptions.Timeout:
+         logger.error(f"[PDF FAIL] Timeout downloading {pdf_url}")
+    except requests.exceptions.RequestException as req_e:
+        logger.error(f"[PDF FAIL] Network error downloading {pdf_url}: {req_e}")
+    except Exception as e:
+        logger.error(f"[PDF FAIL] General error processing {pdf_url}: {e}", exc_info=True)
 
 def extract_tables(html_content, page_name):
-    """
-    Finds any <table> tags in the HTML and saves them as CSV files.
-    This is amazing for faculty lists, placement stats, etc.
-    """
+    """Save any HTML tables as CSVs if they don't exist."""
     try:
-        # pandas.read_html() is magic. It scans the HTML and returns
-        # a list of all tables it finds as DataFrame objects.
         tables = pd.read_html(io.StringIO(html_content))
+        if not tables:
+             logger.debug(f"[TABLE INFO] No HTML tables found on page {page_name}")
+             return
+
         for i, table in enumerate(tables):
-            # If the page has multiple tables, save them as "page_name_table_0.csv", etc.
+            if table.empty: continue
             csv_path = os.path.join(DATA_DIR, f"{page_name}_table_{i}.csv")
-            table.to_csv(csv_path, index=False)
-            logging.info(f"[TABLE OK] Saved table from {page_name} -> {csv_path}")
+            if not os.path.exists(csv_path):
+                table.to_csv(csv_path, index=False)
+                logger.info(f"[TABLE OK] Saved: {os.path.basename(csv_path)}")
+            else:
+                 logger.info(f"[TABLE SKIP] Exists: {os.path.basename(csv_path)}")
     except ValueError:
-        # This isn't really an error. It just means pandas didn't find any
-        # tables on the page, which is fine. We just log it for debugging.
-        logging.debug(f"[TABLE INFO] No tables found on page {page_name}")
+        logger.debug(f"[TABLE INFO] No HTML tables found on page {page_name}")
+    except ImportError:
+         logger.error("[TABLE FAIL] `lxml` not installed? `pip install lxml` might be needed.")
     except Exception as e:
-        # This is a real error, e.g., pandas couldn't parse a weirdly-formed table
-        logging.error(f"[TABLE FAIL] Failed to parse tables on page {page_name}: {e}")
+        logger.error(f"[TABLE FAIL] Failed parsing tables for {page_name}: {e}")
 
+#MAIN SCRAPER FUNCTION FOR TARGETED URLS
+def scrape_target_url(url, base_url_for_domain_check):
+    """Scrapes a specific URL for text, any PDFs linked, and tables."""
 
-def scrape_page(url, depth, executor):
-    """
-    This is the main workhorse function. It scrapes a single page
-    and then submits new links to the thread pool executor.
-    """
-    
-    # Safety Checks
-    # We stop scraping this path if:
-    # 1. We've gone too deep
-    # 2. We've already scraped this exact URL (checked in a thread-safe way)
-    if depth > MAX_DEPTH:
-        return
+    page_name = clean_filename(url)
+    save_path = os.path.join(DATA_DIR, f"{page_name}.txt")
+    html_content = None # Initialize html_content
+    is_new_scrape = False
 
-    try:
-        current_hostname = urlparse(url).hostname
-    except Exception:
-        return # Got a bad/malformed URL, just ignore it and stop.
+    if os.path.exists(save_path):
+        logger.info(f"[PAGE SKIP] Main text exists: {os.path.basename(save_path)}")
+        try:
+            time.sleep(0.5)
+            response = requests.get(url, timeout=15, headers=REQUEST_HEADERS)
+            response.raise_for_status()
+            html_content = response.text # Still need content for links/tables
+        except requests.exceptions.RequestException as e:
+             logger.error(f"[PAGE CHECK FAIL] Could not fetch skipped page {url} to check content: {e}")
+             return
+    else:
+        try:
+            logger.info(f"[PAGE START] Scraping {url}")
+            time.sleep(0.5)
+            response = requests.get(url, timeout=20, headers=REQUEST_HEADERS)
+            response.raise_for_status()
 
-    # 3. The link goes to a different website (e.g., Google, Facebook, etc.)
-    if current_hostname != BASE_HOSTNAME:
-        return
+            content_type = response.headers.get('Content-Type', '').lower()
+            if 'text/html' not in content_type:
+                 logger.warning(f"[PAGE WARN] Skipped non-HTML content at {url} ({content_type})")
+                 return
 
-    # Thread-Safe 'visited' Check ---
-    # We must 'lock' the visited set before checking/writing to it.
-    # This prevents two threads from trying to add the same URL at the
-    # exact same time (a "race condition").
-    with visited_lock:
-        if url in visited:
-            return # Another thread is already scraping (or has scraped) this
-        # If we're here, it's a new, valid page. Add it to our 'visited' set.
-        visited.add(url)
+            html_content = response.text
+            soup = BeautifulSoup(html_content, "html.parser")
 
-    try:
-        # WARNING: This is much faster but RISKY. You may get IP banned
-        # by the website for scraping too aggressively.
-        
-        response = requests.get(url, timeout=15, headers=REQUEST_HEADERS)
-        response.raise_for_status() # Exit if the page is broken (e.g., 404 error)
-        
-        html_content = response.text
-        soup = BeautifulSoup(html_content, "html.parser")
-        
-        #    Clean the HTML 
-        # Rip out all the <script> and <style> tags. We only
-        # want the human-readable text, not a bunch of JavaScript or CSS.
-        for tag in soup(["script", "style", "noscript"]):
-            tag.decompose()
+            for tag in soup(["script", "style", "noscript", "header", "footer", "nav", "aside"]):
+                tag.decompose()
+            text_content = soup.get_text(separator='\n', strip=True)
+            text_content = "\n".join([line for line in text_content.splitlines() if line.strip()])
+            save_text(text_content, save_path)
+            logger.info(f"[PAGE OK] Scraped: {url} -> {os.path.basename(save_path)}")
+            is_new_scrape = True
 
-        # Get the clean text, using newlines to keep some structure
-        text = soup.get_text(separator='\n', strip=True)
-        page_name = clean_filename(url)
-        save_path = os.path.join(DATA_DIR, f"{page_name}.txt")
-        save_text(text, save_path)
-        logging.info(f"[PAGE OK] Scraped: {url}")
+        except requests.exceptions.Timeout:
+             logger.error(f"[PAGE FAIL] Timeout error scraping {url}")
+             return
+        except requests.exceptions.RequestException as e:
+            logger.error(f"[PAGE FAIL] Network error scraping {url}: {e}")
+            return
+        except Exception as e:
+             logger.error(f"[PAGE FAIL] Unexpected error scraping {url}: {e}", exc_info=True)
+             return
 
-        #  Now, find all the goodies on this page
-        # (These will run inside the current thread)
-        
-        # 1. Find all PDF links
-        pdf_links = [link for link in soup.find_all("a", href=True) if link["href"].endswith(".pdf")]
+    #Extract PDFs and Tables (Runs if html_content was fetched)
+    if html_content:
+        if 'soup' not in locals(): # Create soup if we loaded content for checks only
+             soup = BeautifulSoup(html_content, "html.parser")
+
+        pdf_links = [a for a in soup.find_all("a", href=True) if a["href"].lower().endswith(".pdf")]
         if pdf_links:
-            logging.info(f"    Found {len(pdf_links)} PDFs on this page...")
+            logger.info(f"    Found {len(pdf_links)} potential PDFs on {url}...")
             for link in pdf_links:
                 href = link["href"]
                 pdf_url = urljoin(url, href)
-                pdf_name = os.path.basename(href).replace(".pdf", "")
-                extract_pdf_text(pdf_url, page_name + "_" + pdf_name)
+                # Check domain using the passed base_url
+                if urlparse(pdf_url).hostname == urlparse(base_url_for_domain_check).hostname:
+                    pdf_name_cleaned = clean_filename(pdf_url)
+                    extract_pdf_text(pdf_url, pdf_name_cleaned)
 
-        # 2. Find all tables
         extract_tables(html_content, page_name)
 
-        #  Find New Jobs for the Thread Pool 
-        if depth < MAX_DEPTH:
-            links_to_crawl = []
-            for link in soup.find_all("a", href=True):
-                full_link = urljoin(url, link["href"])
-                
-                try:
-                    link_hostname = urlparse(full_link).hostname
-                except Exception:
-                    continue # Skip bad links
-
-                # We only need to check hostname here. The 'visited' check
-                # will be handled by the function when it starts.
-                if (link_hostname == BASE_HOSTNAME and 
-                    full_link not in links_to_crawl):
-                         links_to_crawl.append(full_link)
-            
-            if links_to_crawl:
-                logging.info(f"    Found {len(links_to_crawl)} new links to submit...")
-                for full_link in links_to_crawl:
-                    # Instead of calling the function directly, we submit
-                    # it as a new job to the thread pool.
-                    executor.submit(scrape_page, full_link, depth + 1, executor)
-
-    except requests.exceptions.RequestException as e:
-        logging.error(f"[PAGE FAIL] Error scraping {url}: {e}")
-
-
-#  Start the Scrape 
-# This makes sure the code only runs when you execute `python main.py`
-# and not if it's imported by another script.
+#MAIN EXECUTION
 if __name__ == "__main__":
     start_time = time.time()
-    print(f"Starting advanced scraper for {BASE_URL} (MAX_DEPTH={MAX_DEPTH}, MAX_WORKERS={MAX_WORKERS})\n")
-    
-    # Create the thread pool
-    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        # Kick off the whole process by submitting the *first* job
-        executor.submit(scrape_page, BASE_URL, 0, executor)
-    
-    # The 'with' block will automatically wait for all submitted jobs
-    # (and any jobs they submit) to finish before moving on.
-    
-    print(f"\nScraping completed in {time.time() - start_time:.2f}s. Check the 'data/' folder.")
+    logger.info(f"Starting TARGETED scraper for {len(TARGET_URLS)} URLs...\n")
 
+    for target_url in tqdm(TARGET_URLS, desc="Scraping Target URLs"):
+        if target_url.lower().endswith(".pdf"):
+            pdf_name_cleaned = clean_filename(target_url)
+            extract_pdf_text(target_url, pdf_name_cleaned)
+        else:
+            # Pass the BASE_URL for domain checking within the function
+            scrape_target_url(target_url, BASE_URL)
+
+    duration = time.time() - start_time
+    logger.info(f"\nTargeted scraping completed in {duration:.2f} seconds.")
+    logger.info(f"   Check the '{DATA_DIR}/' folder and '{LOG_FILE}' for results.")
