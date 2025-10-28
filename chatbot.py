@@ -6,7 +6,7 @@ from langchain_nvidia import ChatNVIDIA
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain.chains.combine_documents import create_stuff_documents_chain
-from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain.chains import create_retrieval_chain
 from langchain_core.messages import HumanMessage, AIMessage
 from langchain.chains import create_history_aware_retriever
@@ -26,11 +26,10 @@ def setup_chain():
     try:
        
         llm = ChatNVIDIA(
-        model="nvidia/nemotron-mini-4b-instruct",
-        api_key=NVIDIA_API_KEY,
-        temperature=0.3
-)
-
+            model="nvidia/nemotron-mini-4b-instruct",
+            api_key=NVIDIA_API_KEY,
+            temperature=0.3
+        )
 
         #  Embeddings + Retriever
         embeddings = HuggingFaceEmbeddings(
@@ -45,10 +44,10 @@ def setup_chain():
         )
 
         
-        #  Contextualized Prompt
+        #  Contextualized Prompt (Corrected)
         contextualize_q_prompt = ChatPromptTemplate.from_messages([
             ("system", "Given a chat history and the latest user question which might reference context in the chat history, formulate a standalone question. Do NOT answer it, only rewrite."),
-            ("human", "{chat_history}"),
+            MessagesPlaceholder(variable_name="chat_history"), 
             ("human", "Input: {input}"),
             ("human", "Standalone question:")
         ])
@@ -102,13 +101,23 @@ if retrieval_chain:
 
         with st.chat_message("assistant"):
             
+            # chat_history_for_chain
+            # Format chat history for the chain
+            chat_history_for_chain = []
+            # Get all messages *except* the new one (which is the last one)
+            for msg in st.session_state.messages[:-1]: 
+                if msg["role"] == "user":
+                    chat_history_for_chain.append(HumanMessage(content=msg["content"]))
+                elif msg["role"] == "assistant":
+                    chat_history_for_chain.append(AIMessage(content=msg["content"]))
+            
 
-                response = retrieval_chain.invoke({
-                    "chat_history": chat_history_for_chain,
-                    "input": user_query
-                })
+            response = retrieval_chain.invoke({
+                "chat_history": chat_history_for_chain, # <-- This variable is now defined
+                "input": user_query
+            })
 
-                st.markdown(response['answer'])
+            st.markdown(response['answer'])
 
 
         st.session_state.messages.append({"role": "assistant", "content": response['answer']})
