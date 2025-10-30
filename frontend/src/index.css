@@ -2,13 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
-/* You can add any global base styles here */
+
 * {
   -webkit-tap-highlight-color: transparent;
 }
 
 html {
-  /* Prevent font size adjustments on mobile devices */
+  
   -webkit-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
   text-size-adjust: 100%;
@@ -23,25 +23,25 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  /* Prevent overscroll bounce on iOS */
+  
   overscroll-behavior: none;
-  /* Support for iOS safe areas */
+  
   padding-top: env(safe-area-inset-top);
 }
 
-/* iOS safe area support for footer */
+
 .safe-area-inset-bottom {
   padding-bottom: max(0.75rem, env(safe-area-inset-bottom));
 }
 
-/* Improve touch targets for mobile */
+
 @media (max-width: 640px) {
   button, a, input, textarea {
-    min-height: 44px; /* iOS recommended minimum touch target */
+    min-height: 44px; 
   }
 }
 
-/* Prevent pull-to-refresh on mobile */
+
 @media (max-width: 768px) {
   body {
     overscroll-behavior-y: contain;

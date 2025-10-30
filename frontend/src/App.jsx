@@ -1,19 +1,13 @@
 import React, { useState, useEffect, useRef } from 'react';
+import logo from './logo.jpg';
 
-// --- Helper Components ---
-
-/**
- * A simple loading spinner component.
- */
 const Spinner = () => (
   <div className="flex justify-center items-center h-full">
     <div className="w-6 h-6 border-4 border-blue-200 dark:border-blue-900 border-t-blue-500 rounded-full animate-spin"></div>
   </div>
 );
 
-/**
- * Animated typing indicator with three bouncing dots.
- */
+
 const TypingDots = () => (
   <div className="flex items-center gap-1 py-1">
     <span className="w-2 h-2 bg-gray-400 dark:bg-gray-500 rounded-full animate-bounce [animation-delay:-0.2s]"></span>
@@ -22,13 +16,11 @@ const TypingDots = () => (
   </div>
 );
 
-/**
- * Simple circular avatar with an emoji and background tint.
- */
+
 const Avatar = ({ role }) => {
   const isUser = role === 'user';
-  const bg = isUser ? 'bg-blue-600' : 'bg-emerald-600';
-  const emoji = isUser ? '🧑‍🎓' : '🤖';
+  const bg = isUser ? 'bg-blue-600' : 'bg-emerald-000';
+  const emoji = isUser ? '🧑‍🎓' : <img src={logo} alt="Logo" />;
   return (
     <div className={`flex-shrink-0 w-9 h-9 ${bg} text-white rounded-full grid place-items-center shadow-md`}
          aria-hidden="true">
@@ -37,9 +29,7 @@ const Avatar = ({ role }) => {
   );
 };
 
-/**
- * Enhanced Dark Mode Toggle Switch with animated icon
- */
+
 const DarkModeToggle = ({ darkMode, onToggle }) => {
   return (
     <button
@@ -200,7 +190,7 @@ const MessageList = ({ messages, isLoading, onScrolledStateChange }) => {
   );
 };
 
-// --- Main App Component ---
+//Main App Component
 
 function App() {
   const [messages, setMessages] = useState([
@@ -321,8 +311,10 @@ function App() {
       <header className="sticky top-0 bg-white/90 dark:bg-slate-900/90 backdrop-blur-md border-b border-gray-200 dark:border-slate-800 z-10 shadow-sm">
         <div className="mx-auto max-w-5xl px-4 sm:px-6 py-3 sm:py-4 flex items-center justify-between gap-3">
           <div className="flex items-center gap-2 sm:gap-3 min-w-0 flex-1">
-            <div className="w-10 h-10 sm:w-9 sm:h-9 rounded-xl bg-gradient-to-br from-emerald-500 to-emerald-600 grid place-items-center shadow-md flex-shrink-0">
-              <span className="text-white text-lg sm:text-base">🤖</span>
+            {/* Header logo container */}
+            <div className="w-10 h-10 sm:w-9 sm:h-9 rounded-xl bg-gradient-to-br from-emerald-500 to-emerald-600 grid place-items-center shadow-md flex-shrink-0 overflow-hidden">
+               {/* Use the logo in the header */}
+              <img src={logo} alt="Logo" className="w-full h-full object-cover"/>
             </div>
             <div className="min-w-0">
               <h1 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 dark:text-white truncate">
