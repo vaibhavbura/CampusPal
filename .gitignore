@@ -2,3 +2,7 @@ venv
 scraper/__pycache__
 scraper/venv
 __pycache__
+.env
+scraper.log
+vectorstore\db_faiss\index.faiss
+vectorstore\db_faiss\index.pkl
