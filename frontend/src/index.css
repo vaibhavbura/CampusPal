@@ -2,18 +2,40 @@
 @tailwind components;
 @tailwind utilities;
 
-
+/* You can add any global base styles here */
 * {
   -webkit-tap-highlight-color: transparent;
 }
 
+/* 120fps Optimization - Enable GPU acceleration for all transforms and animations */
+*,
+*::before,
+*::after {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  perspective: 1000px;
+  -webkit-perspective: 1000px;
+}
+
 html {
-  
+  /* Prevent font size adjustments on mobile devices */
   -webkit-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
   text-size-adjust: 100%;
-  /* Enable smooth scrolling */
+  /* Enable ultra-smooth scrolling with 120fps support */
   scroll-behavior: smooth;
+  scroll-padding-top: 4rem;
+  /* Full height for proper background coverage */
+  height: 100%;
+  /* Background colors for light and dark mode */
+  background-color: #f8fafc;
+  /* Enable hardware acceleration */
+  transform: translateZ(0);
+  -webkit-transform: translateZ(0);
+}
+
+html.dark {
+  background-color: #0f172a;
 }
 
 body {
@@ -23,27 +45,238 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  
+  /* Prevent overscroll bounce on iOS */
   overscroll-behavior: none;
-  
+  /* Support for iOS safe areas */
   padding-top: env(safe-area-inset-top);
+  /* Full height for proper background coverage */
+  min-height: 100%;
+  /* Background colors for light and dark mode */
+  background-color: #ffffff;
 }
 
-
-.safe-area-inset-bottom {
-  padding-bottom: max(0.75rem, env(safe-area-inset-bottom));
+body.dark, html.dark body {
+  background-color: #0f172a;
 }
 
+/* Ensure root div takes full height */
+#root {
+  min-height: 100vh;
+  min-height: 100dvh; /* Use dynamic viewport height on supported browsers */
+  /* Enable GPU acceleration for the root */
+  transform: translateZ(0);
+  -webkit-transform: translateZ(0);
+}
 
+/* iOS safe area support for footer - removed to prevent gray box */
+
+/* Improve touch targets for mobile */
 @media (max-width: 640px) {
   button, a, input, textarea {
-    min-height: 44px; 
+    min-height: 44px; /* iOS recommended minimum touch target */
   }
 }
 
-
+/* Prevent pull-to-refresh on mobile */
 @media (max-width: 768px) {
   body {
     overscroll-behavior-y: contain;
   }
 }
+
+/* Smooth scrolling for all scrollable containers */
+* {
+  scroll-behavior: smooth;
+}
+
+/* Custom smooth scroll with momentum for webkit browsers */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.5);
+  border-radius: 4px;
+  transition: background 0.2s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(148, 163, 184, 0.7);
+}
+
+html.dark ::-webkit-scrollbar-thumb {
+  background: rgba(71, 85, 105, 0.5);
+}
+
+html.dark ::-webkit-scrollbar-thumb:hover {
+  background: rgba(71, 85, 105, 0.7);
+}
+
+/* Optimize animations for 120fps */
+@media (prefers-reduced-motion: no-preference) {
+  * {
+    animation-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  }
+}
+
+/* Force GPU acceleration on animated elements */
+.animate-spin,
+.animate-bounce,
+[class*="transition"],
+[class*="transform"] {
+  will-change: transform;
+  transform: translateZ(0);
+  -webkit-transform: translateZ(0);
+}
+
+/* Smooth momentum scrolling for iOS */
+.overflow-y-auto,
+.overflow-x-auto,
+.overflow-auto {
+  -webkit-overflow-scrolling: touch;
+  scroll-behavior: smooth;
+}
+
+/* Custom scroll-smooth utility */
+.scroll-smooth {
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Optimize will-change for scroll performance */
+.will-change-scroll {
+  will-change: scroll-position;
+}
+
+/* Custom Keyframe Animations */
+@keyframes slide-in-right {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes scale-in {
+  from {
+    transform: scale(0.9);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes bounce-in {
+  0% {
+    transform: scale(0);
+    opacity: 0;
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes slide-up {
+  from {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+/* Animation Classes */
+.animate-slide-in-right {
+  animation: slide-in-right 0.3s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+}
+
+.animate-fade-in {
+  animation: fade-in 0.2s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+}
+
+.animate-scale-in {
+  animation: scale-in 0.3s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+}
+
+.animate-bounce-in {
+  animation: bounce-in 0.5s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+}
+
+.animate-slide-up {
+  animation: slide-up 0.3s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+}
+
+/* Mobile-specific improvements */
+@media (max-width: 640px) {
+  /* Improve button touch targets */
+  button {
+    -webkit-tap-highlight-color: transparent;
+    touch-action: manipulation;
+  }
+  
+  /* Prevent text selection on buttons */
+  button, .touch-manipulation {
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+  }
+  
+  /* Prevent double-tap zoom on Android */
+  input, textarea, button, select, a {
+    touch-action: manipulation;
+  }
+}
+
+/* Android-specific fixes */
+@supports (-webkit-touch-callout: none) {
+  button {
+    cursor: pointer;
+  }
+}
+
+/* Prevent zoom on input focus (Android) */
+input[type="text"],
+input[type="search"],
+textarea {
+  font-size: 16px !important;
+}
+
+/* Fix for Android Chrome address bar */
+@supports (-webkit-appearance: none) {
+  html {
+    height: -webkit-fill-available;
+  }
+  
+  body {
+    min-height: -webkit-fill-available;
+  }
+}
+
+/* Custom Toast Animations - Already defined above in keyframes section */
