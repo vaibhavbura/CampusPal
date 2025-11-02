@@ -4,7 +4,7 @@ CampusPal is an advanced, conversational AI assistant designed to provide instan
 
 
 
-##🛠️ Technology Stack
+## 🛠️ Technology Stack
 
 * **Orchestration**: LangChain
 
@@ -18,17 +18,17 @@ CampusPal is an advanced, conversational AI assistant designed to provide instan
 
 * **Data Ingestion**: Python, BeautifulSoup, PyPDF
 --- 
-##🚀 Getting Started
+## 🚀 Getting Started
 
 Follow these steps to set up and run the CampusPal chatbot on your local machine.
 
 ### **1. Prerequisites**
 
-*Python 3.10+
+* Python 3.10+
 
-*Ollama installed and running.
+* Ollama installed and running.
 
-*The Llama 3 model pulled via Ollama (ollama pull llama3:8b)
+* The Llama 3 model pulled via Ollama (ollama pull llama3:8b)
 
 ### **2. Clone the Repository**
 
