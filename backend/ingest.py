@@ -9,9 +9,10 @@ from langchain_core.documents import Document
 import pandas as pd
 
 #Paths 
-DATA_PATH = "scraper/data/"          # Scraped text, PDF texts, and CSVs
-PDF_EXTRA_PATH = "scraper/apsit_documents/"  # Optional: Manually add PDFs here
-DB_FAISS_PATH = "vectorstore/db_faiss"
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATA_PATH = os.path.join(BASE_DIR, "scraper", "data")          # Scraped text, PDF texts, and CSVs
+PDF_EXTRA_PATH = os.path.join(BASE_DIR, "scraper", "apsit_documents")  # Optional: Manually add PDFs here
+DB_FAISS_PATH = os.path.join(BASE_DIR, "vectorstore", "db_faiss")
 
 # Convert CSV to text 
 def csv_to_text(file_path):

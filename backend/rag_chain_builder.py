@@ -4,13 +4,14 @@ from langchain_groq import ChatGroq
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain.agents.tool_calling_agent.base import create_tool_calling_agent
-from langchain.agents.agent_executor import AgentExecutor
+from langchain.agents import AgentExecutor
 from langchain.tools.retriever import create_retriever_tool
 from langchain_community.tools import DuckDuckGoSearchRun
 from langchain_core.prompts import ChatPromptTemplate
 
 load_dotenv()
-DB_FAISS_PATH = "vectorstore/db_faiss"
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DB_FAISS_PATH = os.path.join(BASE_DIR, "vectorstore", "db_faiss")
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
 def build_chain():
@@ -19,7 +20,7 @@ def build_chain():
         raise ValueError("GROQ_API_KEY not found in .env")
 
     llm = ChatGroq(
-        model="llama-3.3-70b-versatile",
+        model="llama3-70b-8192",
         api_key=GROQ_API_KEY,
         temperature=0.1
     )

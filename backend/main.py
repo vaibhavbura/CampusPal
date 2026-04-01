@@ -6,7 +6,7 @@ from typing import List, Literal
 from contextlib import asynccontextmanager
 from dotenv import load_dotenv
 from langchain_core.messages import HumanMessage, AIMessage, BaseMessage
-from rag_chain_builder import build_chain  #  import the shared builder
+from backend.rag_chain_builder import build_chain  #  import the shared builder
 
 load_dotenv()
 
@@ -60,15 +60,17 @@ def chat_with_bot(request: ChatRequest):
     if not rag_chain:
         return {"answer": "Error: RAG chain not initialized."}
 
-    # Convert history to string for ReAct prompt
-    history_str = ""
+    # Convert history to LangChain message objects for ReAct prompt
+    langchain_history = []
     for m in request.chat_history:
-        role = "User" if m.role == "user" else "Assistant"
-        history_str += f"{role}: {m.content}\n"
+        if m.role == "user":
+            langchain_history.append(HumanMessage(content=m.content))
+        else:
+            langchain_history.append(AIMessage(content=m.content))
 
     try:
         response = rag_chain.invoke({
-            "chat_history": history_str,
+            "chat_history": langchain_history,
             "input": request.input
         })
         return {"answer": response.get("output", "Sorry, I couldn't find an answer.")}

@@ -70,12 +70,12 @@ GROQ_API_KEY=gsk_your_groq_api_key_here
 **Ingest Data**:
 Initialize the knowledge base (FAISS index):
 ```bash
-python ingest.py
+python backend/ingest.py
 ```
 
 **Run Server**:
 ```bash
-uvicorn backend:app --reload
+uvicorn backend.main:app --reload
 ```
 *Backend runs on `http://localhost:8000`*
 
@@ -87,15 +87,6 @@ npm run dev
 ```
 *Frontend runs on `http://localhost:5173`*
 
----
-
-## 🚀 Deployment
-
-Want to take CampusPal live? We have a detailed guide for deploying the Backend to **Render** and Frontend to **Vercel**.
-
-👉 **[Read the Deployment Guide](DEPLOYMENT.md)**
-
----
 
 ## 🤝 Contribution (Open to APSIT Students!)
 

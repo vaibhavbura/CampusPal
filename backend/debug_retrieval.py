@@ -26,8 +26,10 @@ def debug_query(query):
         load_dotenv()
 
     try:
+        BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        DB_FAISS_PATH = os.path.join(BASE_DIR, "vectorstore", "db_faiss")
         embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
-        vectorstore = FAISS.load_local("vectorstore/db_faiss", embeddings, allow_dangerous_deserialization=True)
+        vectorstore = FAISS.load_local(DB_FAISS_PATH, embeddings, allow_dangerous_deserialization=True)
         retriever = vectorstore.as_retriever(search_kwargs={'k': 5}) # Same as current settings
         
         docs = retriever.invoke(query)
